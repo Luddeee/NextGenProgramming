@@ -38,6 +38,11 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Original authors
+- Ludvig Sanell
+- Boris Petreski
+- Casper du Jardin Kejser
+
 ## License
 
 [MIT] LICENSE.txt
