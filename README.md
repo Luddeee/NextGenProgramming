@@ -2,6 +2,8 @@
 
 Math Prompt Translator is a Flask application containing a pretrained AI model and translating natural language math prompts into Python code.
 
+https://github.com/user-attachments/assets/fcbf14ae-56fc-4394-8b7e-3b2660b517d5
+
 ## Features
 - Translate natural language math prompts into Python code.
 - Train your own model.
