@@ -1,0 +1,300 @@
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 5?", "expected_code": "def solve(): return 3 + 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 from 10?", "expected_code": "def solve(): return 10 - 7"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 6?", "expected_code": "def solve(): return 4 * 6"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 12 by 3?", "expected_code": "def solve(): return 12 / 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 15?", "expected_code": "def solve(): return 8 + 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 from 50?", "expected_code": "def solve(): return 50 - 20"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 3?", "expected_code": "def solve(): return 7 * 3"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 100 by 25?", "expected_code": "def solve(): return 100 / 25"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 9?", "expected_code": "def solve(): return 11 + 9"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 from 13?", "expected_code": "def solve(): return 13 - 5"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 8?", "expected_code": "def solve(): return 2 * 8"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 16 by 4?", "expected_code": "def solve(): return 16 / 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 12 and 8?", "expected_code": "def solve(): return 12 + 8"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 4 from 15?", "expected_code": "def solve(): return 15 - 4"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 7?", "expected_code": "def solve(): return 9 * 7"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 81 by 9?", "expected_code": "def solve(): return 81 / 9"}
+{"question": "Convert this word problem into Python code: What is 3 raised to the power of 4?", "expected_code": "def solve(): return 3 ** 4"}
+{"question": "Convert this word problem into Python code: What is the square root of 64?", "expected_code": "import math\ndef solve(): return math.sqrt(64)"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 19?", "expected_code": "def solve(): return 14 + 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 from 50?", "expected_code": "def solve(): return 50 - 25"}
+{"question": "Convert this word problem into Python code: What is the product of 6 and 11?", "expected_code": "def solve(): return 6 * 11"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 144 by 12?", "expected_code": "def solve(): return 144 / 12"}
+{"question": "Convert this word problem into Python code: What is 2 raised to the power of 8?", "expected_code": "def solve(): return 2 ** 8"}
+{"question": "Convert this word problem into Python code: What is the square root of 121?", "expected_code": "import math\ndef solve(): return math.sqrt(121)"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 13?", "expected_code": "def solve(): return 7 + 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 18 from 42?", "expected_code": "def solve(): return 42 - 18"}
+{"question": "Convert this word problem into Python code: What is the product of 5 and 5?", "expected_code": "def solve(): return 5 * 5"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 225 by 15?", "expected_code": "def solve(): return 225 / 15"}
+{"question": "Convert this word problem into Python code: What is 10 raised to the power of 3?", "expected_code": "def solve(): return 10 ** 3"}
+{"question": "Convert this word problem into Python code: What is the square root of 256?", "expected_code": "import math\ndef solve(): return math.sqrt(256)"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 30?", "expected_code": "def solve(): return 20 + 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 from 100?", "expected_code": "def solve(): return 100 - 50"}
+{"question": "Convert this word problem into Python code: What is the product of 12 and 3?", "expected_code": "def solve(): return 12 * 3"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 90 by 10?", "expected_code": "def solve(): return 90 / 10"}
+{"question": "Convert this word problem into Python code: What is 5 raised to the power of 2?", "expected_code": "def solve(): return 5 ** 2"}
+{"question": "Convert this word problem into Python code: What is the square root of 36?", "expected_code": "import math\ndef solve(): return math.sqrt(36)"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 15?", "expected_code": "def solve(): return 45 + 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 from 80?", "expected_code": "def solve(): return 80 - 60"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 7?", "expected_code": "def solve(): return 8 * 7"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 64 by 8?", "expected_code": "def solve(): return 64 / 8"}
+{"question": "Convert this word problem into Python code: What is 4 raised to the power of 3?", "expected_code": "def solve(): return 4 ** 3"}
+{"question": "Convert this word problem into Python code: What is the square root of 81?", "expected_code": "import math\ndef solve(): return math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 250?", "expected_code": "def solve(): return 100 + 250"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 200 from 500?", "expected_code": "def solve(): return 500 - 200"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 9?", "expected_code": "def solve(): return 9 * 9"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 121 by 11?", "expected_code": "def solve(): return 121 / 11"}
+{"question": "Convert this word problem into Python code: What is 3 raised to the power of 5?", "expected_code": "def solve(): return 3 ** 5"}
+{"question": "Convert this word problem into Python code: What is the square root of 100?", "expected_code": "import math\ndef solve(): return math.sqrt(100)"}
+{"question": "Convert this word problem into Python code: What is the sum of 7, 8, and 9?", "expected_code": "def solve(): return 7 + 8 + 9"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 15 from 45?", "expected_code": "def solve(): return 45 - 15"}
+{"question": "Convert this word problem into Python code: What is the product of 10, 2, and 5?", "expected_code": "def solve(): return 10 * 2 * 5"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 144 by 12 and then subtracting 4?", "expected_code": "def solve(): return (144 / 12) - 4"}
+{"question": "Convert this word problem into Python code: What is 2 raised to the power of 10?", "expected_code": "def solve(): return 2 ** 10"}
+{"question": "Convert this word problem into Python code: What is the square root of 400?", "expected_code": "import math\ndef solve(): return math.sqrt(400)"}
+{"question": "Convert this word problem into Python code: What is the sum of 30, 20, and 50?", "expected_code": "def solve(): return 30 + 20 + 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 from 300 and adding 50?", "expected_code": "def solve(): return (300 - 100) + 50"}
+{"question": "Convert this word problem into Python code: What is the product of 6, 4, and 3?", "expected_code": "def solve(): return 6 * 4 * 3"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 250 by 5 and adding 10?", "expected_code": "def solve(): return (250 / 5) + 10"}
+{"question": "Convert this word problem into Python code: What is 7 raised to the power of 2?", "expected_code": "def solve(): return 7 ** 2"}
+{"question": "Convert this word problem into Python code: What is the square root of 49?", "expected_code": "import math\ndef solve(): return math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: What is the sum of 9 and 14?", "expected_code": "def solve(): return 9 + 14"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 from 75?", "expected_code": "def solve(): return 75 - 30"}
+{"question": "Convert this word problem into Python code: What is the product of 5, 4, and 3?", "expected_code": "def solve(): return 5 * 4 * 3"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 81 by 9?", "expected_code": "def solve(): return 81 / 9"}
+{"question": "Convert this word problem into Python code: What is 6 raised to the power of 3?", "expected_code": "def solve(): return 6 ** 3"}
+{"question": "Convert this word problem into Python code: What is the square root of 144?", "expected_code": "import math\ndef solve(): return math.sqrt(144)"}
+{"question": "Convert this word problem into Python code: What is the sum of 23 and 57?", "expected_code": "def solve(): return 23 + 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 from 90?", "expected_code": "def solve(): return 90 - 45"}
+{"question": "Convert this word problem into Python code: What is the product of 11 and 12?", "expected_code": "def solve(): return 11 * 12"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 300 by 25?", "expected_code": "def solve(): return 300 / 25"}
+{"question": "Convert this word problem into Python code: What is 2 raised to the power of 6?", "expected_code": "def solve(): return 2 ** 6"}
+{"question": "Convert this word problem into Python code: What is the square root of 225?", "expected_code": "import math\ndef solve(): return math.sqrt(225)"}
+{"question": "Convert this word problem into Python code: What is the sum of 35, 45, and 20?", "expected_code": "def solve(): return 35 + 45 + 20"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 from 150 and adding 10?", "expected_code": "def solve(): return (150 - 70) + 10"}
+{"question": "Convert this word problem into Python code: What is the product of 8, 9, and 2?", "expected_code": "def solve(): return 8 * 9 * 2"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 400 by 50 and subtracting 4?", "expected_code": "def solve(): return (400 / 50) - 4"}
+{"question": "Convert this word problem into Python code: What is 10 raised to the power of 4?", "expected_code": "def solve(): return 10 ** 4"}
+{"question": "Convert this word problem into Python code: What is the square root of 64?", "expected_code": "import math\ndef solve(): return math.sqrt(64)"}
+{"question": "Convert this word problem into Python code: What is the sum of 3, 7, and 10?", "expected_code": "def solve(): return 3 + 7 + 10"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 15 from 100 and dividing by 5?", "expected_code": "def solve(): return (100 - 15) / 5"}
+{"question": "Convert this word problem into Python code: What is the product of 3, 6, and 9?", "expected_code": "def solve(): return 3 * 6 * 9"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 500 by 10 and adding 25?", "expected_code": "def solve(): return (500 / 10) + 25"}
+{"question": "Convert this word problem into Python code: What is 5 raised to the power of 5?", "expected_code": "def solve(): return 5 ** 5"}
+{"question": "Convert this word problem into Python code: What is the square root of 16?", "expected_code": "import math\ndef solve(): return math.sqrt(16)"}
+{"question": "Convert this word problem into Python code: What is the sum of 13 and 21?", "expected_code": "def solve(): return 13 + 21"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 from 250?", "expected_code": "def solve(): return 250 - 100"}
+{"question": "Convert this word problem into Python code: What is the product of 7, 7, and 2?", "expected_code": "def solve(): return 7 * 7 * 2"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 121 by 11?", "expected_code": "def solve(): return 121 / 11"}
+{"question": "Convert this word problem into Python code: What is 4 raised to the power of 2?", "expected_code": "def solve(): return 4 ** 2"}
+{"question": "Convert this word problem into Python code: What is the square root of 289?", "expected_code": "import math\ndef solve(): return math.sqrt(289)"}
+{"question": "Convert this word problem into Python code: What is the sum of 29, 31, and 40?", "expected_code": "def solve(): return 29 + 31 + 40"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 from 60 and dividing by 2?", "expected_code": "def solve(): return (60 - 20) / 2"}
+{"question": "Convert this word problem into Python code: What is the product of 12, 5, and 3?", "expected_code": "def solve(): return 12 * 5 * 3"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 900 by 30 and subtracting 15?", "expected_code": "def solve(): return (900 / 30) - 15"}
+{"question": "Convert this word problem into Python code: What is 9 raised to the power of 2?", "expected_code": "def solve(): return 9 ** 2"}
+{"question": "Convert this word problem into Python code: What is the square root of 1024?", "expected_code": "import math\ndef solve(): return math.sqrt(1024)"}
+{"question": "Convert this word problem into Python code: What is the product of 5, 5, and 3?", "expected_code": "def solve(): return 5 * 5 * 3"}
+{"question": "Convert this word problem into Python code: What is the result of dividing 12 by 12 and subtracting 15?", "expected_code": "def solve(): return (12 / 12) - 15"}
+{"question": "Convert this word problem into Python code: What is 50 raised to the power of 25?", "expected_code": "def solve(): return 50 ** 25"}
+{"question": "Convert this word problem into Python code: What is the square root of 9?", "expected_code": "import math\ndef solve(): return math.sqrt(9)"}
+{"question": "Convert this word problem into Python code: Add 6 and 14 together.", "expected_code": "def solve(): return 6 + 14"}
+{"question": "Convert this word problem into Python code: How much is 25 minus 10?", "expected_code": "def solve(): return 25 - 10"}
+{"question": "Convert this word problem into Python code: Multiply 4 and 5.", "expected_code": "def solve(): return 4 * 5"}
+{"question": "Convert this word problem into Python code: Divide 18 by 6.", "expected_code": "def solve(): return 18 / 6"}
+{"question": "Convert this word problem into Python code: Sum up 9, 12, and 4.", "expected_code": "def solve(): return 9 + 12 + 4"}
+{"question": "Convert this word problem into Python code: Subtract 15 from 40.", "expected_code": "def solve(): return 40 - 15"}
+{"question": "Convert this word problem into Python code: Multiply 3, 2, and 5.", "expected_code": "def solve(): return 3 * 2 * 5"}
+{"question": "Convert this word problem into Python code: Divide 50 by 5.", "expected_code": "def solve(): return 50 / 5"}
+{"question": "Convert this word problem into Python code: Raise 2 to the power of 5.", "expected_code": "def solve(): return 2 ** 5"}
+{"question": "Convert this word problem into Python code: Calculate the square root of 81.", "expected_code": "import math\ndef solve(): return math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: Add 45 and 15.", "expected_code": "def solve(): return 45 + 15"}
+{"question": "Convert this word problem into Python code: Subtract 8 from 30.", "expected_code": "def solve(): return 30 - 8"}
+{"question": "Convert this word problem into Python code: Find the product of 7 and 6.", "expected_code": "def solve(): return 7 * 6"}
+{"question": "Convert this word problem into Python code: Divide 100 by 25.", "expected_code": "def solve(): return 100 / 25"}
+{"question": "Convert this word problem into Python code: Multiply 3 by 9.", "expected_code": "def solve(): return 3 * 9"}
+{"question": "Convert this word problem into Python code: Add 22, 18, and 10.", "expected_code": "def solve(): return 22 + 18 + 10"}
+{"question": "Convert this word problem into Python code: Subtract 5 from 20.", "expected_code": "def solve(): return 20 - 5"}
+{"question": "Convert this word problem into Python code: Divide 144 by 12.", "expected_code": "def solve(): return 144 / 12"}
+{"question": "Convert this word problem into Python code: Raise 2 to the power of 6.", "expected_code": "def solve(): return 2 ** 6"}
+{"question": "Convert this word problem into Python code: Find the square root of 16.", "expected_code": "import math\ndef solve(): return math.sqrt(16)"}
+{"question": "Convert this word problem into Python code: Multiply 8 by 3.", "expected_code": "def solve(): return 8 * 3"}
+{"question": "Convert this word problem into Python code: Add 9, 13, and 15.", "expected_code": "def solve(): return 9 + 13 + 15"}
+{"question": "Convert this word problem into Python code: Subtract 30 from 60.", "expected_code": "def solve(): return 60 - 30"}
+{"question": "Convert this word problem into Python code: Multiply 4 by 7.", "expected_code": "def solve(): return 4 * 7"}
+{"question": "Convert this word problem into Python code: Divide 64 by 8.", "expected_code": "def solve(): return 64 / 8"}
+{"question": "Convert this word problem into Python code: Raise 5 to the power of 3.", "expected_code": "def solve(): return 5 ** 3"}
+{"question": "Convert this word problem into Python code: Find the square root of 100.", "expected_code": "import math\ndef solve(): return math.sqrt(100)"}
+{"question": "Convert this word problem into Python code: Add 10, 20, and 30.", "expected_code": "def solve(): return 10 + 20 + 30"}
+{"question": "Convert this word problem into Python code: Subtract 35 from 75.", "expected_code": "def solve(): return 75 - 35"}
+{"question": "Convert this word problem into Python code: Multiply 6, 5, and 4.", "expected_code": "def solve(): return 6 * 5 * 4"}
+{"question": "Convert this word problem into Python code: Divide 300 by 15.", "expected_code": "def solve(): return 300 / 15"}
+{"question": "Convert this word problem into Python code: Square 3.", "expected_code": "def solve(): return 3 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 49.", "expected_code": "import math\ndef solve(): return math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: Add 7 and 21.", "expected_code": "def solve(): return 7 + 21"}
+{"question": "Convert this word problem into Python code: Subtract 12 from 50.", "expected_code": "def solve(): return 50 - 12"}
+{"question": "Convert this word problem into Python code: Multiply 9 by 11.", "expected_code": "def solve(): return 9 * 11"}
+{"question": "Convert this word problem into Python code: Divide 42 by 7.", "expected_code": "def solve(): return 42 / 7"}
+{"question": "Convert this word problem into Python code: Raise 3 to the power of 4.", "expected_code": "def solve(): return 3 ** 4"}
+{"question": "Convert this word problem into Python code: Find the square root of 64.", "expected_code": "import math\ndef solve(): return math.sqrt(64)"}
+{"question": "Convert this word problem into Python code: Add 33, 45, and 12.", "expected_code": "def solve(): return 33 + 45 + 12"}
+{"question": "Convert this word problem into Python code: Subtract 19 from 100.", "expected_code": "def solve(): return 100 - 19"}
+{"question": "Convert this word problem into Python code: Multiply 5, 3, and 7.", "expected_code": "def solve(): return 5 * 3 * 7"}
+{"question": "Convert this word problem into Python code: Divide 90 by 9.", "expected_code": "def solve(): return 90 / 9"}
+{"question": "Convert this word problem into Python code: Square 8.", "expected_code": "def solve(): return 8 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 25.", "expected_code": "import math\ndef solve(): return math.sqrt(25)"}
+{"question": "Convert this word problem into Python code: Add 12, 8, and 15.", "expected_code": "def solve(): return 12 + 8 + 15"}
+{"question": "Convert this word problem into Python code: Subtract 45 from 200.", "expected_code": "def solve(): return 200 - 45"}
+{"question": "Convert this word problem into Python code: Multiply 2, 4, and 6.", "expected_code": "def solve(): return 2 * 4 * 6"}
+{"question": "Convert this word problem into Python code: Divide 80 by 8.", "expected_code": "def solve(): return 80 / 8"}
+{"question": "Convert this word problem into Python code: Raise 4 to the power of 2.", "expected_code": "def solve(): return 4 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 121.", "expected_code": "import math\ndef solve(): return math.sqrt(121)"}
+{"question": "Convert this word problem into Python code: Add 55 and 20.", "expected_code": "def solve(): return 55 + 20"}
+{"question": "Convert this word problem into Python code: Subtract 5 from 60.", "expected_code": "def solve(): return 60 - 5"}
+{"question": "Convert this word problem into Python code: Multiply 7 by 10.", "expected_code": "def solve(): return 7 * 10"}
+{"question": "Convert this word problem into Python code: Divide 36 by 6.", "expected_code": "def solve(): return 36 / 6"}
+{"question": "Convert this word problem into Python code: Square 9.", "expected_code": "def solve(): return 9 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 144.", "expected_code": "import math\ndef solve(): return math.sqrt(144)"}
+{"question": "Convert this word problem into Python code: Add 18, 24, and 30.", "expected_code": "def solve(): return 18 + 24 + 30"}
+{"question": "Convert this word problem into Python code: Subtract 70 from 90.", "expected_code": "def solve(): return 90 - 70"}
+{"question": "Convert this word problem into Python code: Multiply 3, 6, and 9.", "expected_code": "def solve(): return 3 * 6 * 9"}
+{"question": "Convert this word problem into Python code: Divide 48 by 12.", "expected_code": "def solve(): return 48 / 12"}
+{"question": "Convert this word problem into Python code: Raise 6 to the power of 3.", "expected_code": "def solve(): return 6 ** 3"}
+{"question": "Convert this word problem into Python code: Find the square root of 81.", "expected_code": "import math\ndef solve(): return math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: Add 27 and 33.", "expected_code": "def solve(): return 27 + 33"}
+{"question": "Convert this word problem into Python code: Subtract 9 from 45.", "expected_code": "def solve(): return 45 - 9"}
+{"question": "Convert this word problem into Python code: Multiply 12 by 8.", "expected_code": "def solve(): return 12 * 8"}
+{"question": "Convert this word problem into Python code: Divide 72 by 9.", "expected_code": "def solve(): return 72 / 9"}
+{"question": "Convert this word problem into Python code: Square 7.", "expected_code": "def solve(): return 7 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 36.", "expected_code": "import math\ndef solve(): return math.sqrt(36)"}
+{"question": "Convert this word problem into Python code: Add 14 and 32.", "expected_code": "def solve(): return 14 + 32"}
+{"question": "Convert this word problem into Python code: Subtract 25 from 75.", "expected_code": "def solve(): return 75 - 25"}
+{"question": "Convert this word problem into Python code: Multiply 15 by 4.", "expected_code": "def solve(): return 15 * 4"}
+{"question": "Convert this word problem into Python code: Divide 100 by 5.", "expected_code": "def solve(): return 100 / 5"}
+{"question": "Convert this word problem into Python code: Raise 2 to the power of 6.", "expected_code": "def solve(): return 2 ** 6"}
+{"question": "Convert this word problem into Python code: Find the square root of 16.", "expected_code": "import math\ndef solve(): return math.sqrt(16)"}
+{"question": "Convert this word problem into Python code: Add 8, 19, and 23.", "expected_code": "def solve(): return 8 + 19 + 23"}
+{"question": "Convert this word problem into Python code: Subtract 58 from 120.", "expected_code": "def solve(): return 120 - 58"}
+{"question": "Convert this word problem into Python code: Multiply 3 by 14.", "expected_code": "def solve(): return 3 * 14"}
+{"question": "Convert this word problem into Python code: Divide 64 by 8.", "expected_code": "def solve(): return 64 / 8"}
+{"question": "Convert this word problem into Python code: Square 12.", "expected_code": "def solve(): return 12 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 9.", "expected_code": "import math\ndef solve(): return math.sqrt(9)"}
+{"question": "Convert this word problem into Python code: Add 10, 25, and 40.", "expected_code": "def solve(): return 10 + 25 + 40"}
+{"question": "Convert this word problem into Python code: Subtract 33 from 85.", "expected_code": "def solve(): return 85 - 33"}
+{"question": "Convert this word problem into Python code: Multiply 11, 2, and 5.", "expected_code": "def solve(): return 11 * 2 * 5"}
+{"question": "Convert this word problem into Python code: Divide 81 by 9.", "expected_code": "def solve(): return 81 / 9"}
+{"question": "Convert this word problem into Python code: Raise 5 to the power of 3.", "expected_code": "def solve(): return 5 ** 3"}
+{"question": "Convert this word problem into Python code: Find the square root of 49.", "expected_code": "import math\ndef solve(): return math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: Add 22 and 44.", "expected_code": "def solve(): return 22 + 44"}
+{"question": "Convert this word problem into Python code: Subtract 12 from 34.", "expected_code": "def solve(): return 34 - 12"}
+{"question": "Convert this word problem into Python code: Multiply 7 by 13.", "expected_code": "def solve(): return 7 * 13"}
+{"question": "Convert this word problem into Python code: Divide 100 by 4.", "expected_code": "def solve(): return 100 / 4"}
+{"question": "Convert this word problem into Python code: Square 5.", "expected_code": "def solve(): return 5 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 100.", "expected_code": "import math\ndef solve(): return math.sqrt(100)"}
+{"question": "Convert this word problem into Python code: Add 18, 27, and 45.", "expected_code": "def solve(): return 18 + 27 + 45"}
+{"question": "Convert this word problem into Python code: Subtract 50 from 130.", "expected_code": "def solve(): return 130 - 50"}
+{"question": "Convert this word problem into Python code: Multiply 6, 4, and 2.", "expected_code": "def solve(): return 6 * 4 * 2"}
+{"question": "Convert this word problem into Python code: Divide 120 by 10.", "expected_code": "def solve(): return 120 / 10"}
+{"question": "Convert this word problem into Python code: Raise 8 to the power of 2.", "expected_code": "def solve(): return 8 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square root of 1.", "expected_code": "import math\ndef solve(): return math.sqrt(1)"}
+{"question": "Convert this word problem into Python code: Add 5, 10, and 15.", "expected_code": "def solve(): return 5 + 10 + 15"}
+{"question": "Convert this word problem into Python code: What’s the sum of 19 and 46?", "expected_code": "def solve(): return 19 + 46"}
+{"question": "Convert this word problem into Python code: Take 150 and subtract 78 from it.", "expected_code": "def solve(): return 150 - 78"}
+{"question": "Convert this word problem into Python code: If you multiply 7 by 12, what do you get?", "expected_code": "def solve(): return 7 * 12"}
+{"question": "Convert this word problem into Python code: Split 144 into 12 equal parts.", "expected_code": "def solve(): return 144 / 12"}
+{"question": "Convert this word problem into Python code: What is 3 raised to the power of 4?", "expected_code": "def solve(): return 3 ** 4"}
+{"question": "Convert this word problem into Python code: Calculate the square root of 81.", "expected_code": "import math\ndef solve(): return math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: Add together 23, 58, and 9.", "expected_code": "def solve(): return 23 + 58 + 9"}
+{"question": "Convert this word problem into Python code: How much is 64 minus 19?", "expected_code": "def solve(): return 64 - 19"}
+{"question": "Convert this word problem into Python code: Find the product of 5, 3, and 2.", "expected_code": "def solve(): return 5 * 3 * 2"}
+{"question": "Convert this word problem into Python code: Divide 210 by 7.", "expected_code": "def solve(): return 210 / 7"}
+{"question": "Convert this word problem into Python code: Square the number 11.", "expected_code": "def solve(): return 11 ** 2"}
+{"question": "Convert this word problem into Python code: Determine the square root of 36.", "expected_code": "import math\ndef solve(): return math.sqrt(36)"}
+{"question": "Convert this word problem into Python code: Combine 45 and 30 into a total.", "expected_code": "def solve(): return 45 + 30"}
+{"question": "Convert this word problem into Python code: From 92, remove 57.", "expected_code": "def solve(): return 92 - 57"}
+{"question": "Convert this word problem into Python code: Multiply 14 by 6.", "expected_code": "def solve(): return 14 * 6"}
+{"question": "Convert this word problem into Python code: What do you get if you divide 99 by 3?", "expected_code": "def solve(): return 99 / 3"}
+{"question": "Convert this word problem into Python code: Raise 6 to the power of 3.", "expected_code": "def solve(): return 6 ** 3"}
+{"question": "Convert this word problem into Python code: What’s the square root of 144?", "expected_code": "import math\ndef solve(): return math.sqrt(144)"}
+{"question": "Convert this word problem into Python code: Add 72, 18, and 10.", "expected_code": "def solve(): return 72 + 18 + 10"}
+{"question": "Convert this word problem into Python code: Take 110 and deduct 45.", "expected_code": "def solve(): return 110 - 45"}
+{"question": "Convert this word problem into Python code: Multiply 4, 7, and 5 together.", "expected_code": "def solve(): return 4 * 7 * 5"}
+{"question": "Convert this word problem into Python code: Divide 80 into 4 equal parts.", "expected_code": "def solve(): return 80 / 4"}
+{"question": "Convert this word problem into Python code: Square the value of 15.", "expected_code": "def solve(): return 15 ** 2"}
+{"question": "Convert this word problem into Python code: Calculate the square root of 256.", "expected_code": "import math\ndef solve(): return math.sqrt(256)"}
+{"question": "Convert this word problem into Python code: Combine 50 and 25 into one sum.", "expected_code": "def solve(): return 50 + 25"}
+{"question": "Convert this word problem into Python code: Subtract 33 from 99.", "expected_code": "def solve(): return 99 - 33"}
+{"question": "Convert this word problem into Python code: How much is 8 times 16?", "expected_code": "def solve(): return 8 * 16"}
+{"question": "Convert this word problem into Python code: Split 45 into 9 equal shares.", "expected_code": "def solve(): return 45 / 9"}
+{"question": "Convert this word problem into Python code: Raise 10 to the power of 2.", "expected_code": "def solve(): return 10 ** 2"}
+{"question": "Convert this word problem into Python code: What is the square root of 25?", "expected_code": "import math\ndef solve(): return math.sqrt(25)"}
+{"question": "Convert this word problem into Python code: Add up 12, 20, and 50.", "expected_code": "def solve(): return 12 + 20 + 50"}
+{"question": "Convert this word problem into Python code: From 100, take away 60.", "expected_code": "def solve(): return 100 - 60"}
+{"question": "Convert this word problem into Python code: Find the result of 9 multiplied by 11.", "expected_code": "def solve(): return 9 * 11"}
+{"question": "Convert this word problem into Python code: Divide 72 by 8.", "expected_code": "def solve(): return 72 / 8"}
+{"question": "Convert this word problem into Python code: Square the number 8.", "expected_code": "def solve(): return 8 ** 2"}
+{"question": "Convert this word problem into Python code: Work out the square root of 121.", "expected_code": "import math\ndef solve(): return math.sqrt(121)"}
+{"question": "Convert this word problem into Python code: What’s the total of 7, 14, and 21?", "expected_code": "def solve(): return 7 + 14 + 21"}
+{"question": "Convert this word problem into Python code: Remove 18 from 63.", "expected_code": "def solve(): return 63 - 18"}
+{"question": "Convert this word problem into Python code: Multiply 13 by 6.", "expected_code": "def solve(): return 13 * 6"}
+{"question": "Convert this word problem into Python code: What is 125 divided by 25?", "expected_code": "def solve(): return 125 / 25"}
+{"question": "Convert this word problem into Python code: Raise 2 to the fifth power.", "expected_code": "def solve(): return 2 ** 5"}
+{"question": "Convert this word problem into Python code: Find the square root of 196.", "expected_code": "import math\ndef solve(): return math.sqrt(196)"}
+{"question": "Convert this word problem into Python code: Combine 33, 22, and 11 into one total.", "expected_code": "def solve(): return 33 + 22 + 11"}
+{"question": "Convert this word problem into Python code: Add 13 to 39.", "expected_code": "def solve(): return 13 + 39"}
+{"question": "Convert this word problem into Python code: Subtract 24 from 80.", "expected_code": "def solve(): return 80 - 24"}
+{"question": "Convert this word problem into Python code: Multiply 12 by 8.", "expected_code": "def solve(): return 12 * 8"}
+{"question": "Convert this word problem into Python code: What’s the result when you divide 56 by 7?", "expected_code": "def solve(): return 56 / 7"}
+{"question": "Convert this word problem into Python code: Square the number 9.", "expected_code": "def solve(): return 9 ** 2"}
+{"question": "Convert this word problem into Python code: Take the square root of 169.", "expected_code": "import math\ndef solve(): return math.sqrt(169)"}
+{"question": "Convert this word problem into Python code: Combine 42 and 58.", "expected_code": "def solve(): return 42 + 58"}
+{"question": "Convert this word problem into Python code: What’s 100 minus 25?", "expected_code": "def solve(): return 100 - 25"}
+{"question": "Convert this word problem into Python code: Find the product of 6, 5, and 4.", "expected_code": "def solve(): return 6 * 5 * 4"}
+{"question": "Convert this word problem into Python code: Divide 144 by 12.", "expected_code": "def solve(): return 144 / 12"}
+{"question": "Convert this word problem into Python code: What is 5 raised to the power of 3?", "expected_code": "def solve(): return 5 ** 3"}
+{"question": "Convert this word problem into Python code: What is the square root of 49?", "expected_code": "import math\ndef solve(): return math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: Add together 25, 55, and 20.", "expected_code": "def solve(): return 25 + 55 + 20"}
+{"question": "Convert this word problem into Python code: Subtract 30 from 90.", "expected_code": "def solve(): return 90 - 30"}
+{"question": "Convert this word problem into Python code: Multiply 8, 9, and 2.", "expected_code": "def solve(): return 8 * 9 * 2"}
+{"question": "Convert this word problem into Python code: How much is 36 divided by 4?", "expected_code": "def solve(): return 36 / 4"}
+{"question": "Convert this word problem into Python code: Raise 4 to the power of 2.", "expected_code": "def solve(): return 4 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the square root of 64?", "expected_code": "import math\ndef solve(): return math.sqrt(64)"}
+{"question": "Convert this word problem into Python code: Combine 50, 60, and 10.", "expected_code": "def solve(): return 50 + 60 + 10"}
+{"question": "Convert this word problem into Python code: Take 77 and subtract 19.", "expected_code": "def solve(): return 77 - 19"}
+{"question": "Convert this word problem into Python code: What is the product of 11 and 13?", "expected_code": "def solve(): return 11 * 13"}
+{"question": "Convert this word problem into Python code: Split 72 into 9 parts.", "expected_code": "def solve(): return 72 / 9"}
+{"question": "Convert this word problem into Python code: Square the number 10.", "expected_code": "def solve(): return 10 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the square root of 121?", "expected_code": "import math\ndef solve(): return math.sqrt(121)"}
+{"question": "Convert this word problem into Python code: Add 85 and 15 together.", "expected_code": "def solve(): return 85 + 15"}
+{"question": "Convert this word problem into Python code: Subtract 44 from 88.", "expected_code": "def solve(): return 88 - 44"}
+{"question": "Convert this word problem into Python code: Multiply 14 by 9.", "expected_code": "def solve(): return 14 * 9"}
+{"question": "Convert this word problem into Python code: What do you get when you divide 200 by 4?", "expected_code": "def solve(): return 200 / 4"}
+{"question": "Convert this word problem into Python code: Raise 3 to the power of 3.", "expected_code": "def solve(): return 3 ** 3"}
+{"question": "Convert this word problem into Python code: Find the square root of 100.", "expected_code": "import math\ndef solve(): return math.sqrt(100)"}
+{"question": "Convert this word problem into Python code: Add 60, 40, and 5.", "expected_code": "def solve(): return 60 + 40 + 5"}
+{"question": "Convert this word problem into Python code: From 250, subtract 60.", "expected_code": "def solve(): return 250 - 60"}
+{"question": "Convert this word problem into Python code: Multiply 16 by 7.", "expected_code": "def solve(): return 16 * 7"}
+{"question": "Convert this word problem into Python code: Divide 81 by 9.", "expected_code": "def solve(): return 81 / 9"}
+{"question": "Convert this word problem into Python code: Square the number 6.", "expected_code": "def solve(): return 6 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the square root of 81?", "expected_code": "import math\ndef solve(): return math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: Add 30, 20, and 50.", "expected_code": "def solve(): return 30 + 20 + 50"}
+{"question": "Convert this word problem into Python code: Take away 15 from 75.", "expected_code": "def solve(): return 75 - 15"}
+{"question": "Convert this word problem into Python code: Multiply 13 and 7.", "expected_code": "def solve(): return 13 * 7"}
+{"question": "Convert this word problem into Python code: What is 180 divided by 6?", "expected_code": "def solve(): return 180 / 6"}
+{"question": "Convert this word problem into Python code: Raise 2 to the power of 6.", "expected_code": "def solve(): return 2 ** 6"}
+{"question": "Convert this word problem into Python code: Find the square root of 256.", "expected_code": "import math\ndef solve(): return math.sqrt(256)"}
+{"question": "Convert this word problem into Python code: Add together 33, 44, and 23.", "expected_code": "def solve(): return 33 + 44 + 23"}
+{"question": "Convert this word problem into Python code: Add 15 and 25.", "expected_code": "def solve(): return 15 + 25"}
+{"question": "Convert this word problem into Python code: Subtract 50 from 100.", "expected_code": "def solve(): return 100 - 50"}
+{"question": "Convert this word problem into Python code: Multiply 7 by 5.", "expected_code": "def solve(): return 7 * 5"}
+{"question": "Convert this word problem into Python code: What is 60 divided by 3?", "expected_code": "def solve(): return 60 / 3"}
+{"question": "Convert this word problem into Python code: Square the number 3.", "expected_code": "def solve(): return 3 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the square root of 144?", "expected_code": "import math\ndef solve(): return math.sqrt(144)"}
+{"question": "Convert this word problem into Python code: Combine 10 and 35.", "expected_code": "def solve(): return 10 + 35"}
+{"question": "Convert this word problem into Python code: What’s the result of subtracting 15 from 50?", "expected_code": "def solve(): return 50 - 15"}
+{"question": "Convert this word problem into Python code: What’s the product of 6 and 8?", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: Find the result of dividing 90 by 15.", "expected_code": "def solve(): return 90 / 15"}
+{"question": "Convert this word problem into Python code: What’s 3 raised to the power of 4?", "expected_code": "def solve(): return 3 ** 4"}
+{"question": "Convert this word problem into Python code: What is the square root of 81?", "expected_code": "import math\ndef solve(): return math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: Combine 75, 25, and 50.", "expected_code": "def solve(): return 75 + 25 + 50"}
+{"question": "Convert this word problem into Python code: What is the difference when 40 is subtracted from 80?", "expected_code": "def solve(): return 80 - 40"}

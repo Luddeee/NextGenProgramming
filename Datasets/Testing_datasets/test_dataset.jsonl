@@ -1,0 +1,1914 @@
+{"question":"Can you determine the result of subtracting 6 and 65?","expected_code":"def solve(): return 6 - 65"}
+{"question":"What is the result of dividing 65 and 80?","expected_code":"def solve(): return 80 \/ 65"}
+{"question":"What is the product of 40 and 17?","expected_code":"def solve(): return 40 * 17"}
+{"question":"What is the result of dividing 96 and 8?","expected_code":"def solve(): return 96 \/ 8"}
+{"question":"What is the sum of 44 and 12?","expected_code":"def solve(): return 44 + 12"}
+{"question":"What is the result of dividing 87 and 75?","expected_code":"def solve(): return 87 \/ 75"}
+{"question":"Can you determine the sum of the square of 10 and the cube of 2, then divided by 4?","expected_code":"def solve(): return (10 ** 2 + 2 ** 3) \/ 4"}
+{"question":"What is the sum of 16 and 77?","expected_code":"def solve(): return 16 + 77"}
+{"question":"What is the result of subtracting 83 and 54?","expected_code":"def solve(): return 83 - 54"}
+{"question":"What is the sum of 48 and 91?","expected_code":"def solve(): return 48 + 91"}
+{"question":"What is the sum of 89 and 54?","expected_code":"def solve(): return 89 + 54"}
+{"question":"What is the result of dividing 84 and 29?","expected_code":"def solve(): return 84 \/ 29"}
+{"question":"What is the product of 28 and 5?","expected_code":"def solve(): return 28 * 5"}
+{"question":"What is the product of 51 and 46?","expected_code":"def solve(): return 51 * 46"}
+{"question":"What is the sum of 61 and 100?","expected_code":"def solve(): return 61 + 100"}
+{"question":"Can you determine the product of 96 and 51?","expected_code":"def solve(): return 96 * 51"}
+{"question":"Can you determine the product of 33 and 7?","expected_code":"def solve(): return 33 * 7"}
+{"question":"What is the result of dividing 79 and 18?","expected_code":"def solve(): return 79 \/ 18"}
+{"question":"What is the product of 86 and 88?","expected_code":"def solve(): return 86 * 88"}
+{"question":"What is the product of 92 and 42?","expected_code":"def solve(): return 92 * 42"}
+{"question":"What is the result of dividing 2 and 53?","expected_code":"def solve(): return 53 \/ 2"}
+{"question":"What is the product of 33 and 33?","expected_code":"def solve(): return 33 * 33"}
+{"question":"What is the sum of 56 and 49?","expected_code":"def solve(): return 56 + 49"}
+{"question":"Can you determine the product of 3 and 13?","expected_code":"def solve(): return 3 * 13"}
+{"question":"Can you determine the product of 11 and 18?","expected_code":"def solve(): return 11 * 18"}
+{"question":"What is the sum of 33 and 12?","expected_code":"def solve(): return 33 + 12"}
+{"question":"Can you determine the product of 7 and 41?","expected_code":"def solve(): return 7 * 41"}
+{"question":"Can you determine the product of 34 and 55?","expected_code":"def solve(): return 34 * 55"}
+{"question":"What is the result of subtracting 80 and 21?","expected_code":"def solve(): return 80 - 21"}
+{"question":"What is the result of subtracting 50 and 92?","expected_code":"def solve(): return 50 - 92"}
+{"question":"What is the result of subtracting 54 and 51?","expected_code":"def solve(): return 54 - 51"}
+{"question":"What is the result of dividing 100 and 54?","expected_code":"def solve(): return 100 \/ 54"}
+{"question":"What is the result of dividing 48 and 89?","expected_code":"def solve(): return 89 \/ 48"}
+{"question":"What is the result of subtracting 85 and 50?","expected_code":"def solve(): return 85 - 50"}
+{"question":"What is the result of dividing 46 and 4?","expected_code":"def solve(): return 46 \/ 4"}
+{"question":"What is the sum of 23 and 22?","expected_code":"def solve(): return 23 + 22"}
+{"question":"What is the result of subtracting 24 and 76?","expected_code":"def solve(): return 24 - 76"}
+{"question":"What is the product of 31 and 22?","expected_code":"def solve(): return 31 * 22"}
+{"question":"What is the sum of 76 and 66?","expected_code":"def solve(): return 76 + 66"}
+{"question":"What is the sum of 45 and 91?","expected_code":"def solve(): return 45 + 91"}
+{"question":"What is the product of 96 and 6?","expected_code":"def solve(): return 96 * 6"}
+{"question":"What is the result of dividing 59 and 42?","expected_code":"def solve(): return 59 \/ 42"}
+{"question":"What is the result of dividing 17 and 88?","expected_code":"def solve(): return 88 \/ 17"}
+{"question":"What is the product of 10 and 88?","expected_code":"def solve(): return 10 * 88"}
+{"question":"What is the sum of 68 and 15?","expected_code":"def solve(): return 68 + 15"}
+{"question":"What is the result of dividing 87 and 86?","expected_code":"def solve(): return 87 \/ 86"}
+{"question":"What is the product of 56 and 66?","expected_code":"def solve(): return 56 * 66"}
+{"question":"What is the result of dividing 37 and 32?","expected_code":"def solve(): return 37 \/ 32"}
+{"question":"What is the result of subtracting 3 and 14?","expected_code":"def solve(): return 3 - 14"}
+{"question":"What is the result of dividing 29 and 50?","expected_code":"def solve(): return 50 \/ 29"}
+{"question":"What is the result of dividing 49 and 67?","expected_code":"def solve(): return 67 \/ 49"}
+{"question":"What is the sum of 52 and 84?","expected_code":"def solve(): return 52 + 84"}
+{"question":"Can you determine the result of dividing 69 and 82?","expected_code":"def solve(): return 82 \/ 69"}
+{"question":"What is the sum of 17 and 51?","expected_code":"def solve(): return 17 + 51"}
+{"question":"What is the result of subtracting 43 and 47?","expected_code":"def solve(): return 43 - 47"}
+{"question":"Can you determine the result of subtracting 25 and 86?","expected_code":"def solve(): return 25 - 86"}
+{"question":"Can you determine the sum of 31 and 71?","expected_code":"def solve(): return 31 + 71"}
+{"question":"What is the product of 44 and 30?","expected_code":"def solve(): return 44 * 30"}
+{"question":"What is the result of subtracting 93 and 17?","expected_code":"def solve(): return 93 - 17"}
+{"question":"What is the sum of 41 and 36?","expected_code":"def solve(): return 41 + 36"}
+{"question":"What is the sum of 62 and 94?","expected_code":"def solve(): return 62 + 94"}
+{"question":"What is the product of 25 and 45?","expected_code":"def solve(): return 25 * 45"}
+{"question":"What is the result of dividing 5 and 82?","expected_code":"def solve(): return 82 \/ 5"}
+{"question":"What is the result of subtracting 87 and 79?","expected_code":"def solve(): return 87 - 79"}
+{"question":"Can you determine the result of dividing 42 and 8?","expected_code":"def solve(): return 42 \/ 8"}
+{"question":"What is the sum of 96 and 2?","expected_code":"def solve(): return 96 + 2"}
+{"question":"What is the product of 48 and 6?","expected_code":"def solve(): return 48 * 6"}
+{"question":"What is the product of 17 and 74?","expected_code":"def solve(): return 17 * 74"}
+{"question":"What is the product of 71 and 50?","expected_code":"def solve(): return 71 * 50"}
+{"question":"What is the result of subtracting 90 and 8?","expected_code":"def solve(): return 90 - 8"}
+{"question":"What is the product of 46 and 3?","expected_code":"def solve(): return 46 * 3"}
+{"question":"What is the result of subtracting 40 and 38?","expected_code":"def solve(): return 40 - 38"}
+{"question":"What is the product of 70 and 29?","expected_code":"def solve(): return 70 * 29"}
+{"question":"What is the result of dividing 94 and 5?","expected_code":"def solve(): return 94 \/ 5"}
+{"question":"What is the sum of 97 and 30?","expected_code":"def solve(): return 97 + 30"}
+{"question":"Can you determine the product of 78 and 88?","expected_code":"def solve(): return 78 * 88"}
+{"question":"Determine the modulus of of variables a and b.","expected_code":"def solve(a, b):\n    return a % b"}
+{"question":"What is the difference when 40 is subtracted from 80?","expected_code":"def solve(): return 80 - 40"}
+{"question":"What is the result of subtracting 47 and 46?","expected_code":"def solve(): return 47 - 46"}
+{"question":"Can you determine the result of subtracting 9 and 5?","expected_code":"def solve(): return 9 - 5"}
+{"question":"What is the result of dividing 5 and 93?","expected_code":"def solve(): return 93 \/ 5"}
+{"question":"What is the sum of 14 and 47?","expected_code":"def solve(): return 14 + 47"}
+{"question":"10 divided by 6.","expected_code":"def solve(): return 10 \/ 6"}
+{"question":"Can you determine the sum of 55 and 48?","expected_code":"def solve(): return 55 + 48"}
+{"question":"What is the sum of 32 and 82?","expected_code":"def solve(): return 32 + 82"}
+{"question":"What is the product of 43 and 79?","expected_code":"def solve(): return 43 * 79"}
+{"question":"Can you determine the result of dividing 35 and 10?","expected_code":"def solve(): return 35 \/ 10"}
+{"question":"What is the sum of 68 and 80?","expected_code":"def solve(): return 68 + 80"}
+{"question":"What is the result of subtracting 91 and 99?","expected_code":"def solve(): return 91 - 99"}
+{"question":"What is the result of subtracting 42 and 60?","expected_code":"def solve(): return 42 - 60"}
+{"question":"What is the result of dividing 94 and 80?","expected_code":"def solve(): return 94 \/ 80"}
+{"question":"What is the sum of 78 and 45?","expected_code":"def solve(): return 78 + 45"}
+{"question":"What is the result of dividing 53 and 29?","expected_code":"def solve(): return 53 \/ 29"}
+{"question":"What is the sum of 71 and 13?","expected_code":"def solve(): return 71 + 13"}
+{"question":"Can you determine the result of dividing 59 and 73?","expected_code":"def solve(): return 73 \/ 59"}
+{"question":"What is the result of dividing 27 and 40?","expected_code":"def solve(): return 40 \/ 27"}
+{"question":"Can you determine the result of dividing 21 and 97?","expected_code":"def solve(): return 97 \/ 21"}
+{"question":"Can you determine the result of dividing 67 and 48?","expected_code":"def solve(): return 67 \/ 48"}
+{"question":"What is the sum of 97 and 86?","expected_code":"def solve(): return 97 + 86"}
+{"question":"What is the product of 3 and 44?","expected_code":"def solve(): return 3 * 44"}
+{"question":"Can you determine the result of dividing 61 and 26?","expected_code":"def solve(): return 61 \/ 26"}
+{"question":"What is the result of dividing 14 and 54?","expected_code":"def solve(): return 54 \/ 14"}
+{"question":"What is the result of subtracting 7 and 26?","expected_code":"def solve(): return 7 - 26"}
+{"question":"What is the sum of 11 and 19?","expected_code":"def solve(): return 11 + 19"}
+{"question":"What is the result of subtracting 58 and 78?","expected_code":"def solve(): return 58 - 78"}
+{"question":"What is the result of subtracting 26 and 51?","expected_code":"def solve(): return 26 - 51"}
+{"question":"Compute the cube of of a variable p using a Python function.","expected_code":"def solve(p):\n    return p ** 3"}
+{"question":"What is the sum of 22 and 32?","expected_code":"def solve(): return 22 + 32"}
+{"question":"Can you determine the sum of 27 and 92?","expected_code":"def solve(): return 27 + 92"}
+{"question":"Can you determine the sum of 54 and 43?","expected_code":"def solve(): return 54 + 43"}
+{"question":"What is the result of dividing 51 and 84?","expected_code":"def solve(): return 84 \/ 51"}
+{"question":"What is the result of subtracting 29 and 9?","expected_code":"def solve(): return 29 - 9"}
+{"question":"What is the result of subtracting 4 and 100?","expected_code":"def solve(): return 4 - 100"}
+{"question":"What is the product of 61 and 81?","expected_code":"def solve(): return 61 * 81"}
+{"question":"What is the product of 79 and 67?","expected_code":"def solve(): return 79 * 67"}
+{"question":"What is the sum of 98 and 25?","expected_code":"def solve(): return 98 + 25"}
+{"question":"What is the result of dividing 53 and 63?","expected_code":"def solve(): return 63 \/ 53"}
+{"question":"What is the sum of 95 and 22?","expected_code":"def solve(): return 95 + 22"}
+{"question":"What is the product of 92 and 32?","expected_code":"def solve(): return 92 * 32"}
+{"question":"What is the result of dividing 55 and 57?","expected_code":"def solve(): return 57 \/ 55"}
+{"question":"What is the result of subtracting 27 and 7?","expected_code":"def solve(): return 27 - 7"}
+{"question":"What is the result of dividing 93 and 51?","expected_code":"def solve(): return 93 \/ 51"}
+{"question":"What is the sum of 41 and 80?","expected_code":"def solve(): return 41 + 80"}
+{"question":"What is the product of 65 and 16?","expected_code":"def solve(): return 65 * 16"}
+{"question":"Can you determine the result of subtracting 53 and 64?","expected_code":"def solve(): return 53 - 64"}
+{"question":"What is the result of subtracting 21 and 91?","expected_code":"def solve(): return 21 - 91"}
+{"question":"What is the result of subtracting 30 and 46?","expected_code":"def solve(): return 30 - 46"}
+{"question":"What is the sum of 50 and 18?","expected_code":"def solve(): return 50 + 18"}
+{"question":"What is the product of 62 and 50?","expected_code":"def solve(): return 62 * 50"}
+{"question":"What is the product of 60 and 36?","expected_code":"def solve(): return 60 * 36"}
+{"question":"What is the sum of 30 and 55?","expected_code":"def solve(): return 30 + 55"}
+{"question":"Can you determine the result of subtracting 95 and 34?","expected_code":"def solve(): return 95 - 34"}
+{"question":"What is the result of dividing 94 and 57?","expected_code":"def solve(): return 94 \/ 57"}
+{"question":"What is the result of subtracting 76 and 48?","expected_code":"def solve(): return 76 - 48"}
+{"question":"What is the result of dividing 96 and 37?","expected_code":"def solve(): return 96 \/ 37"}
+{"question":"What is the result of dividing 18 and 22?","expected_code":"def solve(): return 22 \/ 18"}
+{"question":"What is the result of dividing 26 and 20?","expected_code":"def solve(): return 26 \/ 20"}
+{"question":"What is the result of dividing 35 and 93?","expected_code":"def solve(): return 93 \/ 35"}
+{"question":"What is the product of 14 and 22?","expected_code":"def solve(): return 14 * 22"}
+{"question":"What is the result of subtracting 40 and 42?","expected_code":"def solve(): return 40 - 42"}
+{"question":"What is the sum of 93 and 90?","expected_code":"def solve(): return 93 + 90"}
+{"question":"What is the product of 39 and 59?","expected_code":"def solve(): return 39 * 59"}
+{"question":"Can you determine the sum of 22 and 29?","expected_code":"def solve(): return 22 + 29"}
+{"question":"What is the sum of 32 and 3?","expected_code":"def solve(): return 32 + 3"}
+{"question":"What is the product of 33 and 60?","expected_code":"def solve(): return 33 * 60"}
+{"question":"Raise 3 to the power of 4.","expected_code":"def solve(): return 3 ** 4"}
+{"question":"What is the result of subtracting 98 and 5?","expected_code":"def solve(): return 98 - 5"}
+{"question":"What is the result of subtracting 94 and 63?","expected_code":"def solve(): return 94 - 63"}
+{"question":"Can you determine the sum of 1 and 61?","expected_code":"def solve(): return 1 + 61"}
+{"question":"What is the result of subtracting 86 and 79?","expected_code":"def solve(): return 86 - 79"}
+{"question":"What is the product of 55 and 61?","expected_code":"def solve(): return 55 * 61"}
+{"question":"What is the result of dividing 37 and 50?","expected_code":"def solve(): return 50 \/ 37"}
+{"question":"Can you determine the result of dividing 100 and 75?","expected_code":"def solve(): return 100 \/ 75"}
+{"question":"What is the product of 43 and 2?","expected_code":"def solve(): return 43 * 2"}
+{"question":"What is the product of 46 and 58?","expected_code":"def solve(): return 46 * 58"}
+{"question":"Compute the difference between of variables m and n using a Python function.","expected_code":"def solve(m, n):\n    return m - n"}
+{"question":"What is the result of dividing 36 and 73?","expected_code":"def solve(): return 73 \/ 36"}
+{"question":"What is the result of dividing 66 and 60?","expected_code":"def solve(): return 66 \/ 60"}
+{"question":"What is the result of subtracting 22 and 94?","expected_code":"def solve(): return 22 - 94"}
+{"question":"What is the product of 83 and 18?","expected_code":"def solve(): return 83 * 18"}
+{"question":"What is the result of dividing 35 and 31?","expected_code":"def solve(): return 35 \/ 31"}
+{"question":"Can you determine the product of 95 and 22?","expected_code":"def solve(): return 95 * 22"}
+{"question":"What is the product of 35 and 98?","expected_code":"def solve(): return 35 * 98"}
+{"question":"What is the product of 94 and 19?","expected_code":"def solve(): return 94 * 19"}
+{"question":"What is the sum of 2 and 2?","expected_code":"def solve(): return 2 + 2"}
+{"question":"What is the square of of a variable p? Implement it in Python.","expected_code":"def solve(p):\n    return p ** 2"}
+{"question":"What is the product of 56 and 83?","expected_code":"def solve(): return 56 * 83"}
+{"question":"What is the product of 46 and 7?","expected_code":"def solve(): return 46 * 7"}
+{"question":"What is the result of dividing 23 and 51?","expected_code":"def solve(): return 51 \/ 23"}
+{"question":"What is the product of 58 and 69?","expected_code":"def solve(): return 58 * 69"}
+{"question":"What is the product of 85 and 34?","expected_code":"def solve(): return 85 * 34"}
+{"question":"What is the product of 80 and 34?","expected_code":"def solve(): return 80 * 34"}
+{"question":"What is the sum of 87 and 46?","expected_code":"def solve(): return 87 + 46"}
+{"question":"What is the product of 6 and 19?","expected_code":"def solve(): return 6 * 19"}
+{"question":"What is the product of 61 and 69?","expected_code":"def solve(): return 61 * 69"}
+{"question":"What is the result of subtracting 100 and 7?","expected_code":"def solve(): return 100 - 7"}
+{"question":"What is the result of subtracting 49 and 50?","expected_code":"def solve(): return 49 - 50"}
+{"question":"What is the result of subtracting 43 and 21?","expected_code":"def solve(): return 43 - 21"}
+{"question":"What is the sum of 1 and 84?","expected_code":"def solve(): return 1 + 84"}
+{"question":"What is the result of dividing 11 and 53?","expected_code":"def solve(): return 53 \/ 11"}
+{"question":"Can you determine the result of subtracting 17 and 26?","expected_code":"def solve(): return 17 - 26"}
+{"question":"What is the product of 83 and 40?","expected_code":"def solve(): return 83 * 40"}
+{"question":"What is the product of 16 and 68?","expected_code":"def solve(): return 16 * 68"}
+{"question":"What is the result of subtracting 50 and 7?","expected_code":"def solve(): return 50 - 7"}
+{"question":"What is the sum of 82 and 23?","expected_code":"def solve(): return 82 + 23"}
+{"question":"What is the product of 6 and 35?","expected_code":"def solve(): return 6 * 35"}
+{"question":"Can you determine the result of dividing 54 and 61?","expected_code":"def solve(): return 61 \/ 54"}
+{"question":"Compute the difference between of variables num1 and num2, and num3 using a Python function.","expected_code":"def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question":"Can you determine the result of subtracting 80 and 52?","expected_code":"def solve(): return 80 - 52"}
+{"question":"What is the result of subtracting 14 and 76?","expected_code":"def solve(): return 14 - 76"}
+{"question":"What is the product of 65 and 1?","expected_code":"def solve(): return 65 * 1"}
+{"question":"What is the result of dividing 70 and 21?","expected_code":"def solve(): return 70 \/ 21"}
+{"question":"What is the sum of 48 and 40?","expected_code":"def solve(): return 48 + 40"}
+{"question":"What is the result of dividing 100 by 25?","expected_code":"def solve(): return 100 \/ 25"}
+{"question":"What is the sum of 29 and 52?","expected_code":"def solve(): return 29 + 52"}
+{"question":"What is the result of dividing 2 and 62?","expected_code":"def solve(): return 62 \/ 2"}
+{"question":"What is the result of subtracting 60 and 69?","expected_code":"def solve(): return 60 - 69"}
+{"question":"What is the result of dividing 99 and 42?","expected_code":"def solve(): return 99 \/ 42"}
+{"question":"What is the result of subtracting 48 and 48?","expected_code":"def solve(): return 48 - 48"}
+{"question":"What is the result of dividing 32 and 69?","expected_code":"def solve(): return 69 \/ 32"}
+{"question":"What is the product of 90 and 95?","expected_code":"def solve(): return 90 * 95"}
+{"question":"What is the product of 89 and 68?","expected_code":"def solve(): return 89 * 68"}
+{"question":"Write a Python function for the product of of variables p and q, and r.","expected_code":"def solve(p, q, r):\n    return p * q * r"}
+{"question":"What is the sum of 32 and 87?","expected_code":"def solve(): return 32 + 87"}
+{"question":"What is the result of dividing 32 and 37?","expected_code":"def solve(): return 37 \/ 32"}
+{"question":"What is the sum of 22 and 1?","expected_code":"def solve(): return 22 + 1"}
+{"question":"Can you determine the sum of 8 and 29?","expected_code":"def solve(): return 8 + 29"}
+{"question":"What is the result of subtracting 91 and 76?","expected_code":"def solve(): return 91 - 76"}
+{"question":"What is the product of 7 and 82?","expected_code":"def solve(): return 7 * 82"}
+{"question":"What is the sum of 30 and 88?","expected_code":"def solve(): return 30 + 88"}
+{"question":"What is the result of subtracting 73 and 62?","expected_code":"def solve(): return 73 - 62"}
+{"question":"What is the product of 84 and 9?","expected_code":"def solve(): return 84 * 9"}
+{"question":"What is the product of 6 and 44?","expected_code":"def solve(): return 6 * 44"}
+{"question":"Determine the square of of a variable p.","expected_code":"def solve(p):\n    return p ** 2"}
+{"question":"What is the result of dividing 20 and 82?","expected_code":"def solve(): return 82 \/ 20"}
+{"question":"What is the sum of 53 and 66?","expected_code":"def solve(): return 53 + 66"}
+{"question":"What is the product of 14 and 83?","expected_code":"def solve(): return 14 * 83"}
+{"question":"What is the sum of 30 and 86?","expected_code":"def solve(): return 30 + 86"}
+{"question":"What is the sum of 14 and 55?","expected_code":"def solve(): return 14 + 55"}
+{"question":"What is the result of dividing 67 and 95?","expected_code":"def solve(): return 95 \/ 67"}
+{"question":"What is the result of dividing 8 and 30?","expected_code":"def solve(): return 30 \/ 8"}
+{"question":"What is the result of subtracting 26 and 62?","expected_code":"def solve(): return 26 - 62"}
+{"question":"What is the sum of 100 and 88?","expected_code":"def solve(): return 100 + 88"}
+{"question":"What is the product of 20 and 10?","expected_code":"def solve(): return 20 * 10"}
+{"question":"What is the result of subtracting 45 and 23?","expected_code":"def solve(): return 45 - 23"}
+{"question":"What is the result of subtracting 49 and 79?","expected_code":"def solve(): return 49 - 79"}
+{"question":"What is the result of subtracting 90 and 67?","expected_code":"def solve(): return 90 - 67"}
+{"question":"What is the result of subtracting 78 and 73?","expected_code":"def solve(): return 78 - 73"}
+{"question":"What is the sum of 30 and 96?","expected_code":"def solve(): return 30 + 96"}
+{"question":"What is the sum of 73 and 70?","expected_code":"def solve(): return 73 + 70"}
+{"question":"Find the modulus of of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a % b % c"}
+{"question":"What is the sum of 75 and 9?","expected_code":"def solve(): return 75 + 9"}
+{"question":"What is the product of 79 and 26?","expected_code":"def solve(): return 79 * 26"}
+{"question":"What is the result of subtracting 16 and 94?","expected_code":"def solve(): return 16 - 94"}
+{"question":"What is the result of dividing 4 and 67?","expected_code":"def solve(): return 67 \/ 4"}
+{"question":"What is the sum of 15 and 6?","expected_code":"def solve(): return 15 + 6"}
+{"question":"What is the square of 14 plus the cube of 5, then divided by 2?","expected_code":"def solve(): return (14 ** 2 + 5 ** 3) \/ 2"}
+{"question":"Write a Python function for the sum of of variables num1 and num2.","expected_code":"def solve(num1, num2):\n    return num1 + num2"}
+{"question":"What is the result of dividing 84 and 53?","expected_code":"def solve(): return 84 \/ 53"}
+{"question":"Can you determine the result of dividing 37 and 31?","expected_code":"def solve(): return 37 \/ 31"}
+{"question":"Can you determine the cube of of a variable alpha? Implement it in Python.","expected_code":"def solve(alpha):\n    return alpha ** 3"}
+{"question":"What is the product of 68 and 61?","expected_code":"def solve(): return 68 * 61"}
+{"question":"What is the product of 11 and 89?","expected_code":"def solve(): return 11 * 89"}
+{"question":"What is the product of 85 and 4?","expected_code":"def solve(): return 85 * 4"}
+{"question":"What is the product of 93 and 49?","expected_code":"def solve(): return 93 * 49"}
+{"question":"Compute the difference between of variables value1 and value2, and value3 using a Python function.","expected_code":"def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question":"Add the square of 16 to the cube of 3.","expected_code":"def solve(): return 16 ** 2 + 3 ** 3"}
+{"question":"What is the product of 33 and 30?","expected_code":"def solve(): return 33 * 30"}
+{"question":"What is the result of dividing 33 and 54?","expected_code":"def solve(): return 54 \/ 33"}
+{"question":"What is the sum of 51 and 76?","expected_code":"def solve(): return 51 + 76"}
+{"question":"What is the result of subtracting 100 and 38?","expected_code":"def solve(): return 100 - 38"}
+{"question":"What is the sum of 72 and 60?","expected_code":"def solve(): return 72 + 60"}
+{"question":"What is the sum of 10 and 52?","expected_code":"def solve(): return 10 + 52"}
+{"question":"What is the result of dividing 92 and 38?","expected_code":"def solve(): return 92 \/ 38"}
+{"question":"Add the square of 12 to the product of 8 and 4, then subtract 36.","expected_code":"def solve(): return (12 ** 2 + 8 * 4) - 36"}
+{"question":"Compute the difference between of variables m and n, and o by writing a Python function.","expected_code":"def solve(m, n, o):\n    return m - n - o"}
+{"question":"Can you determine the result of subtracting 17 and 64?","expected_code":"def solve(): return 17 - 64"}
+{"question":"What is the sum of 83 and 27?","expected_code":"def solve(): return 83 + 27"}
+{"question":"What is the sum of 85 and 28?","expected_code":"def solve(): return 85 + 28"}
+{"question":"Create a function to calculate the sum of of variables num1 and num2.","expected_code":"def solve(num1, num2):\n    return num1 + num2"}
+{"question":"What is the sum of 9 and 96?","expected_code":"def solve(): return 9 + 96"}
+{"question":"What is the product of 20 and 70?","expected_code":"def solve(): return 20 * 70"}
+{"question":"What is the result of subtracting 54 and 43?","expected_code":"def solve(): return 54 - 43"}
+{"question":"What is the result of dividing 72 and 94?","expected_code":"def solve(): return 94 \/ 72"}
+{"question":"What is the result of subtracting 72 and 73?","expected_code":"def solve(): return 72 - 73"}
+{"question":"Can you determine the result of subtracting 31 and 16?","expected_code":"def solve(): return 31 - 16"}
+{"question":"What is the product of 77 and 38?","expected_code":"def solve(): return 77 * 38"}
+{"question":"What is the product of 91 and 32?","expected_code":"def solve(): return 91 * 32"}
+{"question":"What is the result of subtracting 71 and 37?","expected_code":"def solve(): return 71 - 37"}
+{"question":"Can you determine the product of 35 and 57?","expected_code":"def solve(): return 35 * 57"}
+{"question":"What is the sum of 74 and 6?","expected_code":"def solve(): return 74 + 6"}
+{"question":"Can you determine the sum of 69 and 23?","expected_code":"def solve(): return 69 + 23"}
+{"question":"Can you determine the sum of 5 and 16?","expected_code":"def solve(): return 5 + 16"}
+{"question":"What is the sum of 65 and 10?","expected_code":"def solve(): return 65 + 10"}
+{"question":"What is the sum of 4 and 89?","expected_code":"def solve(): return 4 + 89"}
+{"question":"What is the sum of 40 and 23?","expected_code":"def solve(): return 40 + 23"}
+{"question":"What is the result of dividing 39 and 39?","expected_code":"def solve(): return 39 \/ 39"}
+{"question":"What is the sum of 34 and 58?","expected_code":"def solve(): return 34 + 58"}
+{"question":"What is the result of dividing 62 and 79?","expected_code":"def solve(): return 79 \/ 62"}
+{"question":"Can you determine the result of subtracting 52 and 89?","expected_code":"def solve(): return 52 - 89"}
+{"question":"What is the result of subtracting 29 and 78?","expected_code":"def solve(): return 29 - 78"}
+{"question":"Can you determine the result of subtracting 93 and 35?","expected_code":"def solve(): return 93 - 35"}
+{"question":"What is the product of 75 and 57?","expected_code":"def solve(): return 75 * 57"}
+{"question":"What is the result of subtracting 64 and 2?","expected_code":"def solve(): return 64 - 2"}
+{"question":"What is the product of 40 and 54?","expected_code":"def solve(): return 40 * 54"}
+{"question":"Can you determine the sum of 87 and 13?","expected_code":"def solve(): return 87 + 13"}
+{"question":"What is the product of 15 and 9?","expected_code":"def solve(): return 15 * 9"}
+{"question":"What is the product of 83 and 8?","expected_code":"def solve(): return 83 * 8"}
+{"question":"What is the sum of 12 and 33?","expected_code":"def solve(): return 12 + 33"}
+{"question":"What is the product of 12 and 8?","expected_code":"def solve(): return 12 * 8"}
+{"question":"What is the sum of 89 and 36?","expected_code":"def solve(): return 89 + 36"}
+{"question":"What is the sum of 13 and 13?","expected_code":"def solve(): return 13 + 13"}
+{"question":"What is the product of 23 and 89?","expected_code":"def solve(): return 23 * 89"}
+{"question":"What is the result of subtracting 84 and 56?","expected_code":"def solve(): return 84 - 56"}
+{"question":"What is the result of dividing 79 and 65?","expected_code":"def solve(): return 79 \/ 65"}
+{"question":"What is the sum of 85 and 23?","expected_code":"def solve(): return 85 + 23"}
+{"question":"What is the result of dividing 42 and 93?","expected_code":"def solve(): return 93 \/ 42"}
+{"question":"What is the result of dividing 16 and 11?","expected_code":"def solve(): return 16 \/ 11"}
+{"question":"What is the result of subtracting 71 and 68?","expected_code":"def solve(): return 71 - 68"}
+{"question":"What is the product of 92 and 10?","expected_code":"def solve(): return 92 * 10"}
+{"question":"What is the result of dividing 60 and 48?","expected_code":"def solve(): return 60 \/ 48"}
+{"question":"What is the product of 60 and 50?","expected_code":"def solve(): return 60 * 50"}
+{"question":"What is the result of subtracting 50 and 83?","expected_code":"def solve(): return 50 - 83"}
+{"question":"What is the product of 35 and 66?","expected_code":"def solve(): return 35 * 66"}
+{"question":"Can you determine the result of dividing 35 and 47?","expected_code":"def solve(): return 47 \/ 35"}
+{"question":"What is the result of subtracting 15 and 35?","expected_code":"def solve(): return 15 - 35"}
+{"question":"What is the product of 66 and 20?","expected_code":"def solve(): return 66 * 20"}
+{"question":"What is the result of dividing 92 and 82?","expected_code":"def solve(): return 92 \/ 82"}
+{"question":"Find the result of dividing the sum of 100 and 200 by the cube of 5.","expected_code":"def solve(): return (100 + 200) \/ 5 ** 3"}
+{"question":"What is the result of subtracting 78 and 2?","expected_code":"def solve(): return 78 - 2"}
+{"question":"What is the product of 61 and 46?","expected_code":"def solve(): return 61 * 46"}
+{"question":"What is the product of 38 and 18?","expected_code":"def solve(): return 38 * 18"}
+{"question":"Create a function to calculate the sum of of variables a and b.","expected_code":"def solve(a, b):\n    return a + b"}
+{"question":"What is the sum of 90 and 86?","expected_code":"def solve(): return 90 + 86"}
+{"question":"What is the sum of 79 and 44?","expected_code":"def solve(): return 79 + 44"}
+{"question":"Can you determine the sum of 7 and 34?","expected_code":"def solve(): return 7 + 34"}
+{"question":"Can you determine the result of subtracting 8 and 83?","expected_code":"def solve(): return 8 - 83"}
+{"question":"What is the product of 64 and 59?","expected_code":"def solve(): return 64 * 59"}
+{"question":"Can you determine the sum of 95 and 97?","expected_code":"def solve(): return 95 + 97"}
+{"question":"What is the sum of 53 and 33?","expected_code":"def solve(): return 53 + 33"}
+{"question":"What is the result of subtracting 16 and 65?","expected_code":"def solve(): return 16 - 65"}
+{"question":"What is the result of subtracting 4 and 45?","expected_code":"def solve(): return 4 - 45"}
+{"question":"What is the result of dividing 75 and 9?","expected_code":"def solve(): return 75 \/ 9"}
+{"question":"What is the result of subtracting 89 and 93?","expected_code":"def solve(): return 89 - 93"}
+{"question":"What is the result of dividing 72 and 71?","expected_code":"def solve(): return 72 \/ 71"}
+{"question":"What is the result of dividing 98 and 35?","expected_code":"def solve(): return 98 \/ 35"}
+{"question":"What is the result of subtracting 51 and 52?","expected_code":"def solve(): return 51 - 52"}
+{"question":"What is the result of subtracting 33 and 51?","expected_code":"def solve(): return 33 - 51"}
+{"question":"What is the result of subtracting 48 and 30?","expected_code":"def solve(): return 48 - 30"}
+{"question":"What is the result of subtracting 31 and 54?","expected_code":"def solve(): return 31 - 54"}
+{"question":"What is the result of dividing 31 and 8?","expected_code":"def solve(): return 31 \/ 8"}
+{"question":"What is the product of 84 and 70?","expected_code":"def solve(): return 84 * 70"}
+{"question":"What is the product of 67 and 84?","expected_code":"def solve(): return 67 * 84"}
+{"question":"What is the result of subtracting 7 and 63?","expected_code":"def solve(): return 7 - 63"}
+{"question":"Can you determine the sum of 14 and 66?","expected_code":"def solve(): return 14 + 66"}
+{"question":"What is the product of 13 and 10?","expected_code":"def solve(): return 13 * 10"}
+{"question":"What is the sum of 27 and 43?","expected_code":"def solve(): return 27 + 43"}
+{"question":"What is the product of 24 and 39?","expected_code":"def solve(): return 24 * 39"}
+{"question":"Can you determine the result of dividing 56 and 83?","expected_code":"def solve(): return 83 \/ 56"}
+{"question":"What is the sum of 32 and 48?","expected_code":"def solve(): return 32 + 48"}
+{"question":"What is the result of dividing 86 and 70?","expected_code":"def solve(): return 86 \/ 70"}
+{"question":"What is the product of 96 and 94?","expected_code":"def solve(): return 96 * 94"}
+{"question":"Can you determine the sum of 9 and 75?","expected_code":"def solve(): return 9 + 75"}
+{"question":"What is the sum of 17 and 28?","expected_code":"def solve(): return 17 + 28"}
+{"question":"Can you determine the result of dividing 69 and 25?","expected_code":"def solve(): return 69 \/ 25"}
+{"question":"Can you determine the result of dividing 21 and 60?","expected_code":"def solve(): return 60 \/ 21"}
+{"question":"What is the sum of 89 and 100?","expected_code":"def solve(): return 89 + 100"}
+{"question":"What is the product of 7 and 94?","expected_code":"def solve(): return 7 * 94"}
+{"question":"What is the sum of 21 and 15?","expected_code":"def solve(): return 21 + 15"}
+{"question":"What is the result of dividing 20 and 21?","expected_code":"def solve(): return 21 \/ 20"}
+{"question":"What is the product of 44 and 90?","expected_code":"def solve(): return 44 * 90"}
+{"question":"What is the result of subtracting 93 and 2?","expected_code":"def solve(): return 93 - 2"}
+{"question":"What is the sum of 2 and 99?","expected_code":"def solve(): return 2 + 99"}
+{"question":"Can you determine the result of subtracting 22 and 85?","expected_code":"def solve(): return 22 - 85"}
+{"question":"What is the result of dividing 31 and 50?","expected_code":"def solve(): return 50 \/ 31"}
+{"question":"What is the result of dividing 31 and 17?","expected_code":"def solve(): return 31 \/ 17"}
+{"question":"What is the result of subtracting 10 and 56?","expected_code":"def solve(): return 10 - 56"}
+{"question":"What is the product of 62 and 3?","expected_code":"def solve(): return 62 * 3"}
+{"question":"What is the product of 90 and 18?","expected_code":"def solve(): return 90 * 18"}
+{"question":"What is the quotient of of variables num1 and num2, and num3? Implement it in Python.","expected_code":"def solve(num1, num2, num3):\n    return num1 \/ num2 \/ num3"}
+{"question":"What is the result of dividing 88 and 41?","expected_code":"def solve(): return 88 \/ 41"}
+{"question":"What is the product of 50 and 86?","expected_code":"def solve(): return 50 * 86"}
+{"question":"What is the result of subtracting 75 and 32?","expected_code":"def solve(): return 75 - 32"}
+{"question":"What is the product of 17 and 42?","expected_code":"def solve(): return 17 * 42"}
+{"question":"What is the product of 12 and 16?","expected_code":"def solve(): return 12 * 16"}
+{"question":"Can you determine the result of dividing 18 and 97?","expected_code":"def solve(): return 97 \/ 18"}
+{"question":"What is the sum of 72 and 10?","expected_code":"def solve(): return 72 + 10"}
+{"question":"What is the result of subtracting 26 and 82?","expected_code":"def solve(): return 26 - 82"}
+{"question":"What is the sum of 52 and 40?","expected_code":"def solve(): return 52 + 40"}
+{"question":"What is the result of subtracting 36 and 45?","expected_code":"def solve(): return 36 - 45"}
+{"question":"What is the square root of the sum of 81 and 19?","expected_code":"import math\ndef solve(): return math.sqrt(81 + 19)"}
+{"question":"What is the square root of 400?","expected_code":"import math\ndef solve(): return math.sqrt(400)"}
+{"question":"What is the result of subtracting 3 and 5?","expected_code":"def solve(): return 3 - 5"}
+{"question":"What is the product of 24 and 60?","expected_code":"def solve(): return 24 * 60"}
+{"question":"Can you determine the result of subtracting 83 and 34?","expected_code":"def solve(): return 83 - 34"}
+{"question":"What is the sum of 42 and 58?","expected_code":"def solve(): return 42 + 58"}
+{"question":"Determine the product of of variables p and q.","expected_code":"def solve(p, q):\n    return p * q"}
+{"question":"Create a function to calculate the cube of of a variable num1.","expected_code":"def solve(num1):\n    return num1 ** 3"}
+{"question":"What is the product of 47 and 19?","expected_code":"def solve(): return 47 * 19"}
+{"question":"What is the result of subtracting 97 and 92?","expected_code":"def solve(): return 97 - 92"}
+{"question":"What is the product of 46 and 75?","expected_code":"def solve(): return 46 * 75"}
+{"question":"Find the square root of 81.","expected_code":"import math\ndef solve(): return math.sqrt(81)"}
+{"question":"What is the difference between of variables p and q, and r? Implement it in Python.","expected_code":"def solve(p, q, r):\n    return p - q - r"}
+{"question":"Find the result of 50 divided by the cube of 3, then add 12.","expected_code":"def solve(): return 50 \/ 3 ** 3 + 12"}
+{"question":"Can you determine the result of dividing 2 and 22?","expected_code":"def solve(): return 22 \/ 2"}
+{"question":"What is the product of 26 and 14?","expected_code":"def solve(): return 26 * 14"}
+{"question":"Find the quotient of of variables alpha and beta, and gamma.","expected_code":"def solve(alpha, beta, gamma):\n    return alpha \/ beta \/ gamma"}
+{"question":"What is the product of 95 and 52?","expected_code":"def solve(): return 95 * 52"}
+{"question":"What is the result of subtracting 13 and 99?","expected_code":"def solve(): return 13 - 99"}
+{"question":"What is the product of 45 and 53?","expected_code":"def solve(): return 45 * 53"}
+{"question":"What is the result of dividing 54 and 90?","expected_code":"def solve(): return 90 \/ 54"}
+{"question":"Determine the sum of of variables num1 and num2, and num3.","expected_code":"def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question":"What is the result of subtracting 4 and 82?","expected_code":"def solve(): return 4 - 82"}
+{"question":"Subtract 5 from 20.","expected_code":"def solve(): return 20 - 5"}
+{"question":"What is the result of subtracting 30 and 29?","expected_code":"def solve(): return 30 - 29"}
+{"question":"What is the result of dividing 87 and 89?","expected_code":"def solve(): return 89 \/ 87"}
+{"question":"Can you determine the product of 12 and 34?","expected_code":"def solve(): return 12 * 34"}
+{"question":"What is the product of of variables p and q? Define it in Python.","expected_code":"def solve(p, q):\n    return p * q"}
+{"question":"What is the product of 30 and 55?","expected_code":"def solve(): return 30 * 55"}
+{"question":"What is the sum of 29 and 71?","expected_code":"def solve(): return 29 + 71"}
+{"question":"What is the product of 71 and 24?","expected_code":"def solve(): return 71 * 24"}
+{"question":"What is the sum of 60 and 82?","expected_code":"def solve(): return 60 + 82"}
+{"question":"What is 144 divided by the square root of 36, then added to the product of 7 and 8?","expected_code":"import math\ndef solve(): return 144 \/ math.sqrt(36) + 7 * 8"}
+{"question":"Can you determine the product of 5 and 51?","expected_code":"def solve(): return 5 * 51"}
+{"question":"What is the result of dividing 51 and 89?","expected_code":"def solve(): return 89 \/ 51"}
+{"question":"What is the product of 82 and 32?","expected_code":"def solve(): return 82 * 32"}
+{"question":"What is the result of dividing 73 and 85?","expected_code":"def solve(): return 85 \/ 73"}
+{"question":"What is the result of dividing 9 and 83?","expected_code":"def solve(): return 83 \/ 9"}
+{"question":"What is the product of 72 and 6?","expected_code":"def solve(): return 72 * 6"}
+{"question":"What is the result of subtracting 70 and 30?","expected_code":"def solve(): return 70 - 30"}
+{"question":"What is the product of 36 and 7?","expected_code":"def solve(): return 36 * 7"}
+{"question":"What is the result of subtracting 25 and 88?","expected_code":"def solve(): return 25 - 88"}
+{"question":"What is the result of dividing 100 and 8?","expected_code":"def solve(): return 100 \/ 8"}
+{"question":"What is the product of 62 and 75?","expected_code":"def solve(): return 62 * 75"}
+{"question":"Can you determine the result of subtracting 40 and 86?","expected_code":"def solve(): return 40 - 86"}
+{"question":"What is the result of dividing 8 and 76?","expected_code":"def solve(): return 76 \/ 8"}
+{"question":"What is the product of 18 and 42?","expected_code":"def solve(): return 18 * 42"}
+{"question":"Square 7.","expected_code":"def solve(): return 7 ** 2"}
+{"question":"What is the sum of 74 and 47?","expected_code":"def solve(): return 74 + 47"}
+{"question":"What is the result of dividing 67 and 34?","expected_code":"def solve(): return 67 \/ 34"}
+{"question":"What is the product of 92 and 66?","expected_code":"def solve(): return 92 * 66"}
+{"question":"What is the result of dividing 52 and 29?","expected_code":"def solve(): return 52 \/ 29"}
+{"question":"Can you determine the product of 63 and 14?","expected_code":"def solve(): return 63 * 14"}
+{"question":"What is the result of subtracting 49 and 44?","expected_code":"def solve(): return 49 - 44"}
+{"question":"Add the cube of 5 to the product of 10 and 20, then subtract the square of 12.","expected_code":"def solve(): return (5 ** 3 + 10 * 20) - 12 ** 2"}
+{"question":"What is the product of 26 and 39?","expected_code":"def solve(): return 26 * 39"}
+{"question":"Can you determine the sum of 28 and 73?","expected_code":"def solve(): return 28 + 73"}
+{"question":"Subtract 12 from 50.","expected_code":"def solve(): return 50 - 12"}
+{"question":"What is the sum of 99 and 18?","expected_code":"def solve(): return 99 + 18"}
+{"question":"What is the result of subtracting 85 and 29?","expected_code":"def solve(): return 85 - 29"}
+{"question":"Can you determine the result of dividing 64 and 83?","expected_code":"def solve(): return 83 \/ 64"}
+{"question":"What is the result of subtracting 89 and 36?","expected_code":"def solve(): return 89 - 36"}
+{"question":"What is the difference between of variables m and n? Implement it in Python.","expected_code":"def solve(m, n):\n    return m - n"}
+{"question":"What is the product of 95 and 28?","expected_code":"def solve(): return 95 * 28"}
+{"question":"What is the product of 62 and 40?","expected_code":"def solve(): return 62 * 40"}
+{"question":"Compute the sum of of variables a and b using a Python function.","expected_code":"def solve(a, b):\n    return a + b"}
+{"question":"What is the result of dividing 73 and 93?","expected_code":"def solve(): return 93 \/ 73"}
+{"question":"What is the result of subtracting 63 and 19?","expected_code":"def solve(): return 63 - 19"}
+{"question":"Can you determine the sum of the product of 8 and 25, and the square of 12, then divide by 10?","expected_code":"def solve(): return (8 * 25 + 12 ** 2) \/ 10"}
+{"question":"What is the result of subtracting 94 and 67?","expected_code":"def solve(): return 94 - 67"}
+{"question":"What is the result of dividing 1 and 66?","expected_code":"def solve(): return 66 \/ 1"}
+{"question":"What is the product of 96 and 58?","expected_code":"def solve(): return 96 * 58"}
+{"question":"What is the product of 57 and 1?","expected_code":"def solve(): return 57 * 1"}
+{"question":"What is the sum of 9 and 34?","expected_code":"def solve(): return 9 + 34"}
+{"question":"What is the result of dividing 22 and 36?","expected_code":"def solve(): return 36 \/ 22"}
+{"question":"What is the result of dividing 85 and 64?","expected_code":"def solve(): return 85 \/ 64"}
+{"question":"What is the result of subtracting 26 and 69?","expected_code":"def solve(): return 26 - 69"}
+{"question":"Square 9.","expected_code":"def solve(): return 9 ** 2"}
+{"question":"What is the product of 30 and 49?","expected_code":"def solve(): return 30 * 49"}
+{"question":"What is the result of subtracting 37 and 68?","expected_code":"def solve(): return 37 - 68"}
+{"question":"What is the result of subtracting 32 and 70?","expected_code":"def solve(): return 32 - 70"}
+{"question":"Can you determine the product of 21 and 2?","expected_code":"def solve(): return 21 * 2"}
+{"question":"What is the result of subtracting 80 and 85?","expected_code":"def solve(): return 80 - 85"}
+{"question":"Can you determine the result of subtracting 97 and 42?","expected_code":"def solve(): return 97 - 42"}
+{"question":"Can you determine the sum of 29 and 21?","expected_code":"def solve(): return 29 + 21"}
+{"question":"What is the sum of 89 and 76?","expected_code":"def solve(): return 89 + 76"}
+{"question":"Multiply 3, 2, and 5.","expected_code":"def solve(): return 3 * 2 * 5"}
+{"question":"Can you determine the sum of 85 and 50?","expected_code":"def solve(): return 85 + 50"}
+{"question":"What is the result of subtracting 26 and 37?","expected_code":"def solve(): return 26 - 37"}
+{"question":"Create a function to calculate the modulus of of variables alpha and beta.","expected_code":"def solve(alpha, beta):\n    return alpha % beta"}
+{"question":"What is the sum of 69 and 11?","expected_code":"def solve(): return 69 + 11"}
+{"question":"Can you determine the result of dividing 54 and 5?","expected_code":"def solve(): return 54 \/ 5"}
+{"question":"What is the result of subtracting 72 and 63?","expected_code":"def solve(): return 72 - 63"}
+{"question":"What is the sum of 53 and 92?","expected_code":"def solve(): return 53 + 92"}
+{"question":"What is the result of subtracting 26 and 9?","expected_code":"def solve(): return 26 - 9"}
+{"question":"What is the result of dividing 87 and 39?","expected_code":"def solve(): return 87 \/ 39"}
+{"question":"Compute the quotient of of variables alpha and beta by writing a Python function.","expected_code":"def solve(alpha, beta):\n    return alpha \/ beta"}
+{"question":"What is the result of dividing 71 and 1?","expected_code":"def solve(): return 71 \/ 1"}
+{"question":"What is the product of 80 and 100?","expected_code":"def solve(): return 80 * 100"}
+{"question":"Can you determine the sum of 23 and 9?","expected_code":"def solve(): return 23 + 9"}
+{"question":"Multiply the difference between 15 and the square of 7 by the sum of 6 and 9, then divide by 10.","expected_code":"def solve(): return ((15 - 7 ** 2) * (6 + 9)) \/ 10"}
+{"question":"What is the result of dividing 99 and 49?","expected_code":"def solve(): return 99 \/ 49"}
+{"question":"What is the result of subtracting 27 and 18?","expected_code":"def solve(): return 27 - 18"}
+{"question":"What is the result of dividing 90 and 23?","expected_code":"def solve(): return 90 \/ 23"}
+{"question":"What is the result of subtracting 25 and 9?","expected_code":"def solve(): return 25 - 9"}
+{"question":"What is the result of subtracting 27 and 95?","expected_code":"def solve(): return 27 - 95"}
+{"question":"What is the product of 17 and 38?","expected_code":"def solve(): return 17 * 38"}
+{"question":"What is the product of 37 and 90?","expected_code":"def solve(): return 37 * 90"}
+{"question":"What is the product of 99 and 85?","expected_code":"def solve(): return 99 * 85"}
+{"question":"What is the result of dividing 83 and 100?","expected_code":"def solve(): return 100 \/ 83"}
+{"question":"What is the result of subtracting 95 and 62?","expected_code":"def solve(): return 95 - 62"}
+{"question":"What is the difference between of variables alpha and beta? Define it in Python.","expected_code":"def solve(alpha, beta):\n    return alpha - beta"}
+{"question":"Can you determine the result of dividing 41 and 94?","expected_code":"def solve(): return 94 \/ 41"}
+{"question":"What is the product of 62 and 91?","expected_code":"def solve(): return 62 * 91"}
+{"question":"What is the sum of 15 and 42?","expected_code":"def solve(): return 15 + 42"}
+{"question":"Can you determine the result of subtracting 12 and 87?","expected_code":"def solve(): return 12 - 87"}
+{"question":"What is the result of dividing 98 and 50?","expected_code":"def solve(): return 98 \/ 50"}
+{"question":"What is the product of 19 and 98?","expected_code":"def solve(): return 19 * 98"}
+{"question":"What is the product of 33 and 93?","expected_code":"def solve(): return 33 * 93"}
+{"question":"Can you determine the sum of 64 and 82?","expected_code":"def solve(): return 64 + 82"}
+{"question":"What is the product of 25 and 22?","expected_code":"def solve(): return 25 * 22"}
+{"question":"Can you determine the product of 52 and 94?","expected_code":"def solve(): return 52 * 94"}
+{"question":"What is the sum of 3 and 20?","expected_code":"def solve(): return 3 + 20"}
+{"question":"What is the result of subtracting 27 and 55?","expected_code":"def solve(): return 27 - 55"}
+{"question":"What is the result of subtracting 65 and 81?","expected_code":"def solve(): return 65 - 81"}
+{"question":"What is the product of 36 and 58?","expected_code":"def solve(): return 36 * 58"}
+{"question":"Can you determine the result of subtracting 23 and 31?","expected_code":"def solve(): return 23 - 31"}
+{"question":"Can you determine the result of subtracting 13 and 14?","expected_code":"def solve(): return 13 - 14"}
+{"question":"What is the result of subtracting 43 and 60?","expected_code":"def solve(): return 43 - 60"}
+{"question":"What is the result of subtracting 29 and 42?","expected_code":"def solve(): return 29 - 42"}
+{"question":"What is the result of subtracting 45 and 7?","expected_code":"def solve(): return 45 - 7"}
+{"question":"What is the result of dividing 59 and 37?","expected_code":"def solve(): return 59 \/ 37"}
+{"question":"What is the result of subtracting 96 and 64?","expected_code":"def solve(): return 96 - 64"}
+{"question":"Find the quotient of of variables value1 and value2, and value3.","expected_code":"def solve(value1, value2, value3):\n    return value1 \/ value2 \/ value3"}
+{"question":"What is the sum of 65 and 38?","expected_code":"def solve(): return 65 + 38"}
+{"question":"What is the result of subtracting 16 and 31?","expected_code":"def solve(): return 16 - 31"}
+{"question":"What is the result of dividing 59 and 25?","expected_code":"def solve(): return 59 \/ 25"}
+{"question":"What is the product of 46 and 81?","expected_code":"def solve(): return 46 * 81"}
+{"question":"What is the product of 36 and 53?","expected_code":"def solve(): return 36 * 53"}
+{"question":"What is the result of dividing 87 and 70?","expected_code":"def solve(): return 87 \/ 70"}
+{"question":"What is the product of 64 and 3?","expected_code":"def solve(): return 64 * 3"}
+{"question":"Multiply the square of 11 by the difference between 50 and 18, then divide by 7.","expected_code":"def solve(): return (11 ** 2 * (50 - 18)) \/ 7"}
+{"question":"Can you determine the product of 42 and 72?","expected_code":"def solve(): return 42 * 72"}
+{"question":"Divide 2 by 8.","expected_code":"def solve(): return 2 \/ 8"}
+{"question":"What is the product of 36 and 28?","expected_code":"def solve(): return 36 * 28"}
+{"question":"What is the result of dividing 47 and 33?","expected_code":"def solve(): return 47 \/ 33"}
+{"question":"What is the product of 66 and 32?","expected_code":"def solve(): return 66 * 32"}
+{"question":"What is the result of dividing 38 and 84?","expected_code":"def solve(): return 84 \/ 38"}
+{"question":"What is the sum of 38 and 87?","expected_code":"def solve(): return 38 + 87"}
+{"question":"What is the product of 82 and 91?","expected_code":"def solve(): return 82 * 91"}
+{"question":"What is the result of subtracting 28 and 47?","expected_code":"def solve(): return 28 - 47"}
+{"question":"Find the product of 25 and the sum of 8 squared and 12 cubed, then subtract 500.","expected_code":"def solve(): return 25 * (8 ** 2 + 12 ** 3) - 500"}
+{"question":"Can you determine the result of dividing 5 and 27?","expected_code":"def solve(): return 27 \/ 5"}
+{"question":"What is the result of dividing 2 and 90?","expected_code":"def solve(): return 90 \/ 2"}
+{"question":"What is the product of 15 and 48?","expected_code":"def solve(): return 15 * 48"}
+{"question":"Can you determine the result of dividing 70 and 100?","expected_code":"def solve(): return 100 \/ 70"}
+{"question":"Can you determine the result of dividing 57 and 63?","expected_code":"def solve(): return 63 \/ 57"}
+{"question":"What is the result of subtracting 72 and 45?","expected_code":"def solve(): return 72 - 45"}
+{"question":"Multiply 13 by 6.","expected_code":"def solve(): return 13 * 6"}
+{"question":"What is the result of dividing 51 and 56?","expected_code":"def solve(): return 56 \/ 51"}
+{"question":"What is the result of dividing 46 and 82?","expected_code":"def solve(): return 82 \/ 46"}
+{"question":"Create a function to calculate the square of of a variable value1.","expected_code":"def solve(value1):\n    return value1 ** 2"}
+{"question":"What is the product of 8 and 7?","expected_code":"def solve(): return 8 * 7"}
+{"question":"What is the product of 78 and 62?","expected_code":"def solve(): return 78 * 62"}
+{"question":"What is the result of dividing 78 and 71?","expected_code":"def solve(): return 78 \/ 71"}
+{"question":"Can you determine the result of dividing 5 and 80?","expected_code":"def solve(): return 80 \/ 5"}
+{"question":"Can you determine the result of dividing 67 and 42?","expected_code":"def solve(): return 67 \/ 42"}
+{"question":"What is the result of dividing 87 and 97?","expected_code":"def solve(): return 97 \/ 87"}
+{"question":"What is the product of 73 and 17?","expected_code":"def solve(): return 73 * 17"}
+{"question":"What is the sum of 18 and 69?","expected_code":"def solve(): return 18 + 69"}
+{"question":"What is the result of dividing 24 and 5?","expected_code":"def solve(): return 24 \/ 5"}
+{"question":"Can you determine the sum of 21 and 74?","expected_code":"def solve(): return 21 + 74"}
+{"question":"Can you determine the sum of 96 and 34?","expected_code":"def solve(): return 96 + 34"}
+{"question":"What is the result of dividing 3 and 12?","expected_code":"def solve(): return 12 \/ 3"}
+{"question":"Can you determine the sum of 51 and 75?","expected_code":"def solve(): return 51 + 75"}
+{"question":"What is the result of dividing 92 and 53?","expected_code":"def solve(): return 92 \/ 53"}
+{"question":"What is the result of subtracting 58 and 58?","expected_code":"def solve(): return 58 - 58"}
+{"question":"Can you determine the result of dividing 84 and 80?","expected_code":"def solve(): return 84 \/ 80"}
+{"question":"What is the result of subtracting 34 and 56?","expected_code":"def solve(): return 34 - 56"}
+{"question":"Can you determine the result of subtracting 93 and 31?","expected_code":"def solve(): return 93 - 31"}
+{"question":"What is the sum of 54 and 58?","expected_code":"def solve(): return 54 + 58"}
+{"question":"What is the sum of 98 and 47?","expected_code":"def solve(): return 98 + 47"}
+{"question":"What is the product of 92 and 27?","expected_code":"def solve(): return 92 * 27"}
+{"question":"What is the sum of 98 and 75?","expected_code":"def solve(): return 98 + 75"}
+{"question":"What is the product of 64 and 55?","expected_code":"def solve(): return 64 * 55"}
+{"question":"Can you determine the product of 67 and 56?","expected_code":"def solve(): return 67 * 56"}
+{"question":"What is the sum of 77 and 1?","expected_code":"def solve(): return 77 + 1"}
+{"question":"What is the result of dividing 65 and 70?","expected_code":"def solve(): return 70 \/ 65"}
+{"question":"What is the product of 75 and 79?","expected_code":"def solve(): return 75 * 79"}
+{"question":"What is the sum of 64 and 40?","expected_code":"def solve(): return 64 + 40"}
+{"question":"What is the result of dividing 40 and 59?","expected_code":"def solve(): return 59 \/ 40"}
+{"question":"Create a Python function for the cube of of a variable alpha.","expected_code":"def solve(alpha):\n    return alpha ** 3"}
+{"question":"Can you determine the result of dividing 83 and 37?","expected_code":"def solve(): return 83 \/ 37"}
+{"question":"What is the sum of 94 and 40?","expected_code":"def solve(): return 94 + 40"}
+{"question":"What is the result of subtracting 97 and 77?","expected_code":"def solve(): return 97 - 77"}
+{"question":"What is the result of dividing 97 and 71?","expected_code":"def solve(): return 97 \/ 71"}
+{"question":"What is the product of 23 and 60?","expected_code":"def solve(): return 23 * 60"}
+{"question":"What is the result of dividing 75 and 32?","expected_code":"def solve(): return 75 \/ 32"}
+{"question":"Can you determine the result of subtracting 33 and 45?","expected_code":"def solve(): return 33 - 45"}
+{"question":"What is the sum of 77 and 17?","expected_code":"def solve(): return 77 + 17"}
+{"question":"What is the result of dividing 54 and 66?","expected_code":"def solve(): return 66 \/ 54"}
+{"question":"What is the result of dividing 1 and 95?","expected_code":"def solve(): return 95 \/ 1"}
+{"question":"Can you determine the result of subtracting 90 and 13?","expected_code":"def solve(): return 90 - 13"}
+{"question":"What is the result of dividing 41 and 11?","expected_code":"def solve(): return 41 \/ 11"}
+{"question":"What is the product of 90 and 29?","expected_code":"def solve(): return 90 * 29"}
+{"question":"What is the sum of 38 and 68?","expected_code":"def solve(): return 38 + 68"}
+{"question":"What is the sum of 49 and 3?","expected_code":"def solve(): return 49 + 3"}
+{"question":"What is the product of 50 and 4?","expected_code":"def solve(): return 50 * 4"}
+{"question":"What is the product of 32 and 75?","expected_code":"def solve(): return 32 * 75"}
+{"question":"What is the result of subtracting 84 and 3?","expected_code":"def solve(): return 84 - 3"}
+{"question":"What is the result of dividing 82 and 75?","expected_code":"def solve(): return 82 \/ 75"}
+{"question":"What is the product of 52 and 24?","expected_code":"def solve(): return 52 * 24"}
+{"question":"Can you determine the result of dividing 74 and 93?","expected_code":"def solve(): return 93 \/ 74"}
+{"question":"What is the product of 19 and 83?","expected_code":"def solve(): return 19 * 83"}
+{"question":"Can you determine the result of subtracting 86 and 36?","expected_code":"def solve(): return 86 - 36"}
+{"question":"What is the result of dividing 63 and 35?","expected_code":"def solve(): return 63 \/ 35"}
+{"question":"What is the product of 86 and 95?","expected_code":"def solve(): return 86 * 95"}
+{"question":"What is the result of dividing 5 and 17?","expected_code":"def solve(): return 17 \/ 5"}
+{"question":"What is the result of subtracting 16 and 51?","expected_code":"def solve(): return 16 - 51"}
+{"question":"What is the product of 63 and 5?","expected_code":"def solve(): return 63 * 5"}
+{"question":"What is the result of dividing 78 and 14?","expected_code":"def solve(): return 78 \/ 14"}
+{"question":"What is the result of dividing 45 and 45?","expected_code":"def solve(): return 45 \/ 45"}
+{"question":"What is the product of 39 and 98?","expected_code":"def solve(): return 39 * 98"}
+{"question":"Can you determine the product of 14 and 91?","expected_code":"def solve(): return 14 * 91"}
+{"question":"What is the sum of 94 and 79?","expected_code":"def solve(): return 94 + 79"}
+{"question":"What is the result of dividing 15 and 1?","expected_code":"def solve(): return 15 \/ 1"}
+{"question":"Find the product of of variables num1 and num2.","expected_code":"def solve(num1, num2):\n    return num1 * num2"}
+{"question":"What is the sum of 52 and 57?","expected_code":"def solve(): return 52 + 57"}
+{"question":"What is the sum of 94 and 86?","expected_code":"def solve(): return 94 + 86"}
+{"question":"What is the result of subtracting 99 and 79?","expected_code":"def solve(): return 99 - 79"}
+{"question":"What is the result of dividing 62 and 64?","expected_code":"def solve(): return 64 \/ 62"}
+{"question":"What is the result of dividing 24 and 85?","expected_code":"def solve(): return 85 \/ 24"}
+{"question":"What is the result of dividing 82 and 21?","expected_code":"def solve(): return 82 \/ 21"}
+{"question":"What is the result of dividing 72 and 39?","expected_code":"def solve(): return 72 \/ 39"}
+{"question":"What is the sum of 52 and 94?","expected_code":"def solve(): return 52 + 94"}
+{"question":"What is the sum of 99 and 1?","expected_code":"def solve(): return 99 + 1"}
+{"question":"What is the product of 37 and 11?","expected_code":"def solve(): return 37 * 11"}
+{"question":"What is the product of 85 and 55?","expected_code":"def solve(): return 85 * 55"}
+{"question":"Can you determine the result of subtracting 66 and 8?","expected_code":"def solve(): return 66 - 8"}
+{"question":"Can you determine the result of subtracting 92 and 32?","expected_code":"def solve(): return 92 - 32"}
+{"question":"What is the product of 17 and 13?","expected_code":"def solve(): return 17 * 13"}
+{"question":"What is the result of subtracting 99 and 46?","expected_code":"def solve(): return 99 - 46"}
+{"question":"Find the square of of a variable a.","expected_code":"def solve(a):\n    return a ** 2"}
+{"question":"What is the result of subtracting 22 and 65?","expected_code":"def solve(): return 22 - 65"}
+{"question":"What is the result of subtracting 66 and 97?","expected_code":"def solve(): return 66 - 97"}
+{"question":"What is the result of subtracting 48 and 32?","expected_code":"def solve(): return 48 - 32"}
+{"question":"Create a function to calculate the quotient of of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a \/ b \/ c"}
+{"question":"What is the sum of 2 and 11?","expected_code":"def solve(): return 2 + 11"}
+{"question":"What is the product of 20 and 74?","expected_code":"def solve(): return 20 * 74"}
+{"question":"What is the product of 94 and 28?","expected_code":"def solve(): return 94 * 28"}
+{"question":"What is the product of of variables m and n, and o? Implement it in Python.","expected_code":"def solve(m, n, o):\n    return m * n * o"}
+{"question":"What is the result of dividing 37 and 3?","expected_code":"def solve(): return 37 \/ 3"}
+{"question":"Can you determine the product of 15 and 96?","expected_code":"def solve(): return 15 * 96"}
+{"question":"What is the result of dividing 84 and 93?","expected_code":"def solve(): return 93 \/ 84"}
+{"question":"Can you determine the product of 14 and 50?","expected_code":"def solve(): return 14 * 50"}
+{"question":"What is the product of 77 and 52?","expected_code":"def solve(): return 77 * 52"}
+{"question":"What is the product of 8 and 10?","expected_code":"def solve(): return 8 * 10"}
+{"question":"What is the result of subtracting 38 and 83?","expected_code":"def solve(): return 38 - 83"}
+{"question":"What is the result of subtracting 63 and 43?","expected_code":"def solve(): return 63 - 43"}
+{"question":"Can you determine the result of subtracting 84 and 31?","expected_code":"def solve(): return 84 - 31"}
+{"question":"Add the square of 5 to the product of 6 and 4, then subtract the cube of 3.","expected_code":"def solve(): return (5 ** 2 + 6 * 4) - 3 ** 3"}
+{"question":"Multiply 10 by the difference between the square of 9 and the cube of 2.","expected_code":"def solve(): return 10 * (9 ** 2 - 2 ** 3)"}
+{"question":"What is the product of 88 and 24?","expected_code":"def solve(): return 88 * 24"}
+{"question":"What is the sum of 13 and 47?","expected_code":"def solve(): return 13 + 47"}
+{"question":"What is the result of dividing 100 and 37?","expected_code":"def solve(): return 100 \/ 37"}
+{"question":"What is the sum of 39 and 76?","expected_code":"def solve(): return 39 + 76"}
+{"question":"Create a function to calculate the sum of of variables m and n, and o.","expected_code":"def solve(m, n, o):\n    return m + n + o"}
+{"question":"What is the sum of 4 and 25?","expected_code":"def solve(): return 4 + 25"}
+{"question":"What is the result of dividing 19 and 12?","expected_code":"def solve(): return 19 \/ 12"}
+{"question":"What is the result of dividing 51 and 83?","expected_code":"def solve(): return 83 \/ 51"}
+{"question":"Create a function to calculate the difference between of variables value1 and value2.","expected_code":"def solve(value1, value2):\n    return value1 - value2"}
+{"question":"What is the result of subtracting 77 and 83?","expected_code":"def solve(): return 77 - 83"}
+{"question":"Can you determine the sum of 99 and 59?","expected_code":"def solve(): return 99 + 59"}
+{"question":"What is the result of subtracting 47 and 73?","expected_code":"def solve(): return 47 - 73"}
+{"question":"What is the result of subtracting 52 and 65?","expected_code":"def solve(): return 52 - 65"}
+{"question":"What is the product of 28 and 99?","expected_code":"def solve(): return 28 * 99"}
+{"question":"What is the product of 34 and 60?","expected_code":"def solve(): return 34 * 60"}
+{"question":"What is the product of 99 and 17?","expected_code":"def solve(): return 99 * 17"}
+{"question":"Can you determine the result of dividing 47 and 45?","expected_code":"def solve(): return 47 \/ 45"}
+{"question":"What is the result of dividing 74 and 67?","expected_code":"def solve(): return 74 \/ 67"}
+{"question":"Can you determine the product of 25 and 37?","expected_code":"def solve(): return 25 * 37"}
+{"question":"What is the result of dividing 55 and 50?","expected_code":"def solve(): return 55 \/ 50"}
+{"question":"What is the result of subtracting 88 and 84?","expected_code":"def solve(): return 88 - 84"}
+{"question":"What is the product of 50 and 79?","expected_code":"def solve(): return 50 * 79"}
+{"question":"What is the result of subtracting 32 and 18?","expected_code":"def solve(): return 32 - 18"}
+{"question":"What is the product of 49 and 8?","expected_code":"def solve(): return 49 * 8"}
+{"question":"What is the sum of 57 and 10?","expected_code":"def solve(): return 57 + 10"}
+{"question":"What is the product of 58 and 89?","expected_code":"def solve(): return 58 * 89"}
+{"question":"What is the sum of 45 and 56?","expected_code":"def solve(): return 45 + 56"}
+{"question":"What is the sum of 27 and 62?","expected_code":"def solve(): return 27 + 62"}
+{"question":"Can you determine the result of dividing 32 and 94?","expected_code":"def solve(): return 94 \/ 32"}
+{"question":"Can you determine the product of 41 and 56?","expected_code":"def solve(): return 41 * 56"}
+{"question":"What is the result of dividing 3 and 45?","expected_code":"def solve(): return 45 \/ 3"}
+{"question":"What is the sum of 33 and 29?","expected_code":"def solve(): return 33 + 29"}
+{"question":"What is the product of 60 and 64?","expected_code":"def solve(): return 60 * 64"}
+{"question":"What is the result of dividing 25 and 54?","expected_code":"def solve(): return 54 \/ 25"}
+{"question":"What is the sum of 45 and 36?","expected_code":"def solve(): return 45 + 36"}
+{"question":"What is the product of 18 and 5?","expected_code":"def solve(): return 18 * 5"}
+{"question":"What is the result of dividing 57 and 8?","expected_code":"def solve(): return 57 \/ 8"}
+{"question":"What is the result of dividing 62 and 69?","expected_code":"def solve(): return 69 \/ 62"}
+{"question":"What is the modulus of of variables num1 and num2? Implement it in Python.","expected_code":"def solve(num1, num2):\n    return num1 % num2"}
+{"question":"What is the product of 76 and 77?","expected_code":"def solve(): return 76 * 77"}
+{"question":"Write a Python function for the square of of a variable alpha.","expected_code":"def solve(alpha):\n    return alpha ** 2"}
+{"question":"What is the product of 40 and 63?","expected_code":"def solve(): return 40 * 63"}
+{"question":"What is the product of 77 and 94?","expected_code":"def solve(): return 77 * 94"}
+{"question":"What is the result of dividing 82 and 96?","expected_code":"def solve(): return 96 \/ 82"}
+{"question":"What is the result of dividing 46 and 24?","expected_code":"def solve(): return 46 \/ 24"}
+{"question":"What is the result of dividing 40 and 21?","expected_code":"def solve(): return 40 \/ 21"}
+{"question":"What is the result of subtracting 23 and 44?","expected_code":"def solve(): return 23 - 44"}
+{"question":"What is the product of 61 and 97?","expected_code":"def solve(): return 61 * 97"}
+{"question":"What is the result of dividing 62 and 35?","expected_code":"def solve(): return 62 \/ 35"}
+{"question":"What is the product of 68 and 45?","expected_code":"def solve(): return 68 * 45"}
+{"question":"What is the result of dividing 20 and 88?","expected_code":"def solve(): return 88 \/ 20"}
+{"question":"What is the product of 5 and 58?","expected_code":"def solve(): return 5 * 58"}
+{"question":"What is the product of 94 and 10?","expected_code":"def solve(): return 94 * 10"}
+{"question":"What is the sum of 82 and 68?","expected_code":"def solve(): return 82 + 68"}
+{"question":"What is the result of subtracting 36 and 55?","expected_code":"def solve(): return 36 - 55"}
+{"question":"What is the result of subtracting 48 and 57?","expected_code":"def solve(): return 48 - 57"}
+{"question":"What is the sum of 6 and 26?","expected_code":"def solve(): return 6 + 26"}
+{"question":"What is the result of subtracting 95 and 55?","expected_code":"def solve(): return 95 - 55"}
+{"question":"What is the sum of 91 and 53?","expected_code":"def solve(): return 91 + 53"}
+{"question":"What is the result of subtracting 33 and 54?","expected_code":"def solve(): return 33 - 54"}
+{"question":"What is the modulus of of variables m and n? Implement it in Python.","expected_code":"def solve(m, n):\n    return m % n"}
+{"question":"What is the sum of 56 and 93?","expected_code":"def solve(): return 56 + 93"}
+{"question":"What is the product of 35 and 95?","expected_code":"def solve(): return 35 * 95"}
+{"question":"What is the sum of 37 and 79?","expected_code":"def solve(): return 37 + 79"}
+{"question":"What is the result of subtracting 3 and 94?","expected_code":"def solve(): return 3 - 94"}
+{"question":"What is the cube of of a variable value1? Implement it in Python.","expected_code":"def solve(value1):\n    return value1 ** 3"}
+{"question":"What is the result of subtracting 13 and 76?","expected_code":"def solve(): return 13 - 76"}
+{"question":"What is the sum of 92 and 67?","expected_code":"def solve(): return 92 + 67"}
+{"question":"What is the product of 8 and 69?","expected_code":"def solve(): return 8 * 69"}
+{"question":"What is the result of dividing 93 and 28?","expected_code":"def solve(): return 93 \/ 28"}
+{"question":"Can you determine the result of dividing 59 and 86?","expected_code":"def solve(): return 86 \/ 59"}
+{"question":"What is the result of subtracting 11 and 44?","expected_code":"def solve(): return 11 - 44"}
+{"question":"What is the result of subtracting 63 and 91?","expected_code":"def solve(): return 63 - 91"}
+{"question":"What is the product of 98 and 63?","expected_code":"def solve(): return 98 * 63"}
+{"question":"Can you determine the product of 69 and 90?","expected_code":"def solve(): return 69 * 90"}
+{"question":"What is the result of dividing 15 and 69?","expected_code":"def solve(): return 69 \/ 15"}
+{"question":"Write a Python function for the modulus of of variables value1 and value2.","expected_code":"def solve(value1, value2):\n    return value1 % value2"}
+{"question":"What is the sum of 47 and 2?","expected_code":"def solve(): return 47 + 2"}
+{"question":"What is the result of subtracting 41 and 2?","expected_code":"def solve(): return 41 - 2"}
+{"question":"What is the product of 69 and 36?","expected_code":"def solve(): return 69 * 36"}
+{"question":"Multiply the sum of 4 and 15 by the difference between the square of 8 and the cube of 3.","expected_code":"def solve(): return (4 + 15) * (8 ** 2 - 3 ** 3)"}
+{"question":"What is the result of dividing 22 and 70?","expected_code":"def solve(): return 70 \/ 22"}
+{"question":"What is the result of subtracting 27 and 72?","expected_code":"def solve(): return 27 - 72"}
+{"question":"What is the result of subtracting 14 and 33?","expected_code":"def solve(): return 14 - 33"}
+{"question":"What is the sum of 77 and 20?","expected_code":"def solve(): return 77 + 20"}
+{"question":"What is the result of subtracting 44 and 89?","expected_code":"def solve(): return 44 - 89"}
+{"question":"What is the product of 29 and 100?","expected_code":"def solve(): return 29 * 100"}
+{"question":"Can you determine the result of dividing 42 and 58?","expected_code":"def solve(): return 58 \/ 42"}
+{"question":"Can you determine the result of dividing 97 and 95?","expected_code":"def solve(): return 97 \/ 95"}
+{"question":"What is the sum of 10 and 38?","expected_code":"def solve(): return 10 + 38"}
+{"question":"What is the sum of 25 and 25?","expected_code":"def solve(): return 25 + 25"}
+{"question":"What is the product of 74 and 57?","expected_code":"def solve(): return 74 * 57"}
+{"question":"What is the result of dividing 39 and 74?","expected_code":"def solve(): return 74 \/ 39"}
+{"question":"Write a Python function for the modulus of of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a % b % c"}
+{"question":"What is the sum of 79 and 39?","expected_code":"def solve(): return 79 + 39"}
+{"question":"What is the product of 22 and 59?","expected_code":"def solve(): return 22 * 59"}
+{"question":"Can you determine the sum of 71 and 56?","expected_code":"def solve(): return 71 + 56"}
+{"question":"What is the product of 32 and 31?","expected_code":"def solve(): return 32 * 31"}
+{"question":"Find the square root of 64.","expected_code":"import math\ndef solve(): return math.sqrt(64)"}
+{"question":"What is the result of dividing 70 and 27?","expected_code":"def solve(): return 70 \/ 27"}
+{"question":"What is the sum of 71 and 48?","expected_code":"def solve(): return 71 + 48"}
+{"question":"What is the sum of 64 and 93?","expected_code":"def solve(): return 64 + 93"}
+{"question":"What is the product of 41 and 46?","expected_code":"def solve(): return 41 * 46"}
+{"question":"What is the result of subtracting 27 and 15?","expected_code":"def solve(): return 27 - 15"}
+{"question":"What is the sum of 24 and 29?","expected_code":"def solve(): return 24 + 29"}
+{"question":"What is the product of 32 and 42?","expected_code":"def solve(): return 32 * 42"}
+{"question":"What is the result of subtracting 95 and 69?","expected_code":"def solve(): return 95 - 69"}
+{"question":"What is the sum of 81 and 49?","expected_code":"def solve(): return 81 + 49"}
+{"question":"Can you determine the result of dividing 10 and 100?","expected_code":"def solve(): return 100 \/ 10"}
+{"question":"What is the result of dividing 10 and 65?","expected_code":"def solve(): return 65 \/ 10"}
+{"question":"What is the sum of 18 and 17?","expected_code":"def solve(): return 18 + 17"}
+{"question":"What is the result of subtracting 76 and 53?","expected_code":"def solve(): return 76 - 53"}
+{"question":"What is the sum of 11 and 18?","expected_code":"def solve(): return 11 + 18"}
+{"question":"What is the product of 99 and 11?","expected_code":"def solve(): return 99 * 11"}
+{"question":"Can you determine the sum of 10 and 58?","expected_code":"def solve(): return 10 + 58"}
+{"question":"Can you determine the result of dividing 5 and 37?","expected_code":"def solve(): return 37 \/ 5"}
+{"question":"What is the result of dividing 36 and 55?","expected_code":"def solve(): return 55 \/ 36"}
+{"question":"Can you determine the result of dividing 42 and 10?","expected_code":"def solve(): return 42 \/ 10"}
+{"question":"What is the product of 73 and 23?","expected_code":"def solve(): return 73 * 23"}
+{"question":"What is the product of 11 and 10?","expected_code":"def solve(): return 11 * 10"}
+{"question":"What is the result of dividing 60 and 80?","expected_code":"def solve(): return 80 \/ 60"}
+{"question":"What is the product of 7 and 10?","expected_code":"def solve(): return 7 * 10"}
+{"question":"What is the product of 27 and 65?","expected_code":"def solve(): return 27 * 65"}
+{"question":"Write a Python function for the quotient of of variables m and n.","expected_code":"def solve(m, n):\n    return m \/ n"}
+{"question":"Can you determine the result of dividing 3 and 61?","expected_code":"def solve(): return 61 \/ 3"}
+{"question":"What is the result of dividing 94 and 90?","expected_code":"def solve(): return 94 \/ 90"}
+{"question":"What is the result of subtracting 20 and 80?","expected_code":"def solve(): return 20 - 80"}
+{"question":"Can you determine the result of subtracting 64 and 82?","expected_code":"def solve(): return 64 - 82"}
+{"question":"What is the result of dividing 48 and 64?","expected_code":"def solve(): return 64 \/ 48"}
+{"question":"What is the result of dividing 56 and 14?","expected_code":"def solve(): return 56 \/ 14"}
+{"question":"What is the sum of 70 and 100?","expected_code":"def solve(): return 70 + 100"}
+{"question":"What is the product of 23 and 56?","expected_code":"def solve(): return 23 * 56"}
+{"question":"What is the result of dividing 56 and 24?","expected_code":"def solve(): return 56 \/ 24"}
+{"question":"What is the sum of 62 and 67?","expected_code":"def solve(): return 62 + 67"}
+{"question":"What is the result of subtracting 27 and 65?","expected_code":"def solve(): return 27 - 65"}
+{"question":"What is the result of subtracting 72 and 2?","expected_code":"def solve(): return 72 - 2"}
+{"question":"What is the sum of 59 and 40?","expected_code":"def solve(): return 59 + 40"}
+{"question":"Can you determine the result of subtracting 14 and 19?","expected_code":"def solve(): return 14 - 19"}
+{"question":"What is the product of 60 and 3?","expected_code":"def solve(): return 60 * 3"}
+{"question":"What is the result of dividing 92 and 72?","expected_code":"def solve(): return 92 \/ 72"}
+{"question":"What is the result of dividing 1 and 75?","expected_code":"def solve(): return 75 \/ 1"}
+{"question":"What is the sum of 62 and 15?","expected_code":"def solve(): return 62 + 15"}
+{"question":"What is the result of dividing 29 and 59?","expected_code":"def solve(): return 59 \/ 29"}
+{"question":"What is the result of dividing 70 and 76?","expected_code":"def solve(): return 76 \/ 70"}
+{"question":"What is the sum of 50 and 7?","expected_code":"def solve(): return 50 + 7"}
+{"question":"What is the result of subtracting 49 and 78?","expected_code":"def solve(): return 49 - 78"}
+{"question":"What is the sum of 96 and 97?","expected_code":"def solve(): return 96 + 97"}
+{"question":"Find the difference between of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a - b - c"}
+{"question":"What is the product of 85 and 90?","expected_code":"def solve(): return 85 * 90"}
+{"question":"Can you determine the result of dividing 33 and 27?","expected_code":"def solve(): return 33 \/ 27"}
+{"question":"What is the result of dividing 54 and 40?","expected_code":"def solve(): return 54 \/ 40"}
+{"question":"What is the product of 96 and 61?","expected_code":"def solve(): return 96 * 61"}
+{"question":"What is the result of subtracting 38 and 95?","expected_code":"def solve(): return 38 - 95"}
+{"question":"Can you determine the sum of 61 and 55?","expected_code":"def solve(): return 61 + 55"}
+{"question":"Can you determine the result of subtracting 1 and 68?","expected_code":"def solve(): return 1 - 68"}
+{"question":"What is the sum of 64 and 48?","expected_code":"def solve(): return 64 + 48"}
+{"question":"What is the result of subtracting 52 and 8?","expected_code":"def solve(): return 52 - 8"}
+{"question":"What is the sum of 82 and 99?","expected_code":"def solve(): return 82 + 99"}
+{"question":"What is the result of subtracting 38 and 4?","expected_code":"def solve(): return 38 - 4"}
+{"question":"What is the result of dividing 31 and 100?","expected_code":"def solve(): return 100 \/ 31"}
+{"question":"What is the result of subtracting 61 and 71?","expected_code":"def solve(): return 61 - 71"}
+{"question":"What is the result of subtracting 78 and 9?","expected_code":"def solve(): return 78 - 9"}
+{"question":"Can you determine the result of subtracting 93 and 38?","expected_code":"def solve(): return 93 - 38"}
+{"question":"What is the product of 9 and 88?","expected_code":"def solve(): return 9 * 88"}
+{"question":"What is the sum of 25 and 81?","expected_code":"def solve(): return 25 + 81"}
+{"question":"What is the sum of 24 and 72?","expected_code":"def solve(): return 24 + 72"}
+{"question":"What is the result of dividing 55 and 97?","expected_code":"def solve(): return 97 \/ 55"}
+{"question":"What is the result of subtracting 45 and 74?","expected_code":"def solve(): return 45 - 74"}
+{"question":"What is the product of 48 and 2?","expected_code":"def solve(): return 48 * 2"}
+{"question":"What is the sum of 4 and 22?","expected_code":"def solve(): return 4 + 22"}
+{"question":"What is the product of 47 and 27?","expected_code":"def solve(): return 47 * 27"}
+{"question":"What is the product of 6 and 16?","expected_code":"def solve(): return 6 * 16"}
+{"question":"What is the product of 79 and 6?","expected_code":"def solve(): return 79 * 6"}
+{"question":"Can you determine the sum of 80 and 34?","expected_code":"def solve(): return 80 + 34"}
+{"question":"Can you determine the result of dividing 11 and 48?","expected_code":"def solve(): return 48 \/ 11"}
+{"question":"What is the result of dividing 41 and 24?","expected_code":"def solve(): return 41 \/ 24"}
+{"question":"What is the result of dividing 80 and 58?","expected_code":"def solve(): return 80 \/ 58"}
+{"question":"What is the result of subtracting 91 and 11?","expected_code":"def solve(): return 91 - 11"}
+{"question":"Can you determine the sum of 45 and 93?","expected_code":"def solve(): return 45 + 93"}
+{"question":"Can you determine the sum of 99 and 4?","expected_code":"def solve(): return 99 + 4"}
+{"question":"What is the result of subtracting 55 and 72?","expected_code":"def solve(): return 55 - 72"}
+{"question":"Multiply 8 by 3.","expected_code":"def solve(): return 8 * 3"}
+{"question":"What is the product of 4 and 67?","expected_code":"def solve(): return 4 * 67"}
+{"question":"What is the result of subtracting 22 and 77?","expected_code":"def solve(): return 22 - 77"}
+{"question":"Can you determine the product of 88 and 14?","expected_code":"def solve(): return 88 * 14"}
+{"question":"What is the product of 71 and 76?","expected_code":"def solve(): return 71 * 76"}
+{"question":"What is the sum of 96 and 36?","expected_code":"def solve(): return 96 + 36"}
+{"question":"Can you determine the sum of 88 and 80?","expected_code":"def solve(): return 88 + 80"}
+{"question":"Write a Python function for the modulus of of variables a and b.","expected_code":"def solve(a, b):\n    return a % b"}
+{"question":"What is the result of dividing 17 and 63?","expected_code":"def solve(): return 63 \/ 17"}
+{"question":"What is the product of 24 and 10?","expected_code":"def solve(): return 24 * 10"}
+{"question":"What is the result of dividing 62 and 29?","expected_code":"def solve(): return 62 \/ 29"}
+{"question":"What is the result of subtracting 5 and 61?","expected_code":"def solve(): return 5 - 61"}
+{"question":"What is the product of 81 and 55?","expected_code":"def solve(): return 81 * 55"}
+{"question":"What is the result of subtracting 72 and 59?","expected_code":"def solve(): return 72 - 59"}
+{"question":"What is the result of dividing 52 and 54?","expected_code":"def solve(): return 54 \/ 52"}
+{"question":"What is the product of 36 and 100?","expected_code":"def solve(): return 36 * 100"}
+{"question":"What is the product of 24 and 1?","expected_code":"def solve(): return 24 * 1"}
+{"question":"What is the result of subtracting 10 and 68?","expected_code":"def solve(): return 10 - 68"}
+{"question":"Can you determine the product of 92 and 43?","expected_code":"def solve(): return 92 * 43"}
+{"question":"What is the result of subtracting 22 and 37?","expected_code":"def solve(): return 22 - 37"}
+{"question":"What is the result of subtracting 22 and 58?","expected_code":"def solve(): return 22 - 58"}
+{"question":"Divide 42 by 7.","expected_code":"def solve(): return 42 \/ 7"}
+{"question":"What is the product of 21 and 87?","expected_code":"def solve(): return 21 * 87"}
+{"question":"What is the result of dividing 26 and 62?","expected_code":"def solve(): return 62 \/ 26"}
+{"question":"What is the result of dividing 90 and 11?","expected_code":"def solve(): return 90 \/ 11"}
+{"question":"What is the sum of 80 and 78?","expected_code":"def solve(): return 80 + 78"}
+{"question":"What is the product of 80 and 93?","expected_code":"def solve(): return 80 * 93"}
+{"question":"What is the result of dividing 16 and 75?","expected_code":"def solve(): return 75 \/ 16"}
+{"question":"What is the product of 26 and 10?","expected_code":"def solve(): return 26 * 10"}
+{"question":"What is the sum of 66 and 94?","expected_code":"def solve(): return 66 + 94"}
+{"question":"What is the result of dividing 61 and 9?","expected_code":"def solve(): return 61 \/ 9"}
+{"question":"What is the result of subtracting 81 and 28?","expected_code":"def solve(): return 81 - 28"}
+{"question":"What is the product of 98 and 36?","expected_code":"def solve(): return 98 * 36"}
+{"question":"What is the result of dividing 83 and 30?","expected_code":"def solve(): return 83 \/ 30"}
+{"question":"What is the result of subtracting 75 and 30?","expected_code":"def solve(): return 75 - 30"}
+{"question":"What is the sum of 30 and 58?","expected_code":"def solve(): return 30 + 58"}
+{"question":"What is the product of 38 and 25?","expected_code":"def solve(): return 38 * 25"}
+{"question":"What is the product of 11 and 66?","expected_code":"def solve(): return 11 * 66"}
+{"question":"What is the result of dividing 96 and 14?","expected_code":"def solve(): return 96 \/ 14"}
+{"question":"Can you determine the result of subtracting 90 and 34?","expected_code":"def solve(): return 90 - 34"}
+{"question":"What is the product of 3, 6, and 9?","expected_code":"def solve(): return 3 * 6 * 9"}
+{"question":"Can you determine the result of subtracting 38 and 85?","expected_code":"def solve(): return 38 - 85"}
+{"question":"Can you determine the result of dividing 24 and 20?","expected_code":"def solve(): return 24 \/ 20"}
+{"question":"Add 100 to the result of 25 raised to the power of 2, then divide by 5.","expected_code":"def solve(): return (100 + 25 ** 2) \/ 5"}
+{"question":"What is the product of 19 and 48?","expected_code":"def solve(): return 19 * 48"}
+{"question":"What is the result of subtracting 74 and 81?","expected_code":"def solve(): return 74 - 81"}
+{"question":"Can you determine the sum of 38 and 28?","expected_code":"def solve(): return 38 + 28"}
+{"question":"What is the result of subtracting 97 and 16?","expected_code":"def solve(): return 97 - 16"}
+{"question":"What is the product of 48 and 46?","expected_code":"def solve(): return 48 * 46"}
+{"question":"What is the sum of 5 and 84?","expected_code":"def solve(): return 5 + 84"}
+{"question":"What is the product of 80 and 79?","expected_code":"def solve(): return 80 * 79"}
+{"question":"Find the square of of a variable p.","expected_code":"def solve(p):\n    return p ** 2"}
+{"question":"What is the sum of 62 and 81?","expected_code":"def solve(): return 62 + 81"}
+{"question":"What is the product of 75 and 72?","expected_code":"def solve(): return 75 * 72"}
+{"question":"What is the sum of 82 and 54?","expected_code":"def solve(): return 82 + 54"}
+{"question":"What is the product of 14 and 16?","expected_code":"def solve(): return 14 * 16"}
+{"question":"Can you determine the product of 46 and 38?","expected_code":"def solve(): return 46 * 38"}
+{"question":"What is the result of subtracting 77 and 35?","expected_code":"def solve(): return 77 - 35"}
+{"question":"What is the result of dividing 54 and 57?","expected_code":"def solve(): return 57 \/ 54"}
+{"question":"Can you determine the result of subtracting 29 and 99?","expected_code":"def solve(): return 29 - 99"}
+{"question":"What is the square root of 16?","expected_code":"import math\ndef solve(): return math.sqrt(16)"}
+{"question":"What is the product of 83 and 76?","expected_code":"def solve(): return 83 * 76"}
+{"question":"What is the result of dividing 84 and 95?","expected_code":"def solve(): return 95 \/ 84"}
+{"question":"What is the product of 5 and 9?","expected_code":"def solve(): return 5 * 9"}
+{"question":"What is the result of subtracting 42 and 90?","expected_code":"def solve(): return 42 - 90"}
+{"question":"What is the result of dividing 72 and 13?","expected_code":"def solve(): return 72 \/ 13"}
+{"question":"What is the sum of 24 and 91?","expected_code":"def solve(): return 24 + 91"}
+{"question":"What is the result of subtracting 10 and 34?","expected_code":"def solve(): return 10 - 34"}
+{"question":"What is the result of subtracting 77 and 27?","expected_code":"def solve(): return 77 - 27"}
+{"question":"Can you determine the sum of 13 and 21?","expected_code":"def solve(): return 13 + 21"}
+{"question":"Can you determine the sum of 1 and 35?","expected_code":"def solve(): return 1 + 35"}
+{"question":"What is the result of subtracting 89 and 1?","expected_code":"def solve(): return 89 - 1"}
+{"question":"What is the result of dividing 8 and 24?","expected_code":"def solve(): return 24 \/ 8"}
+{"question":"What is the result of dividing 54 and 45?","expected_code":"def solve(): return 54 \/ 45"}
+{"question":"What is the result of subtracting 86 and 85?","expected_code":"def solve(): return 86 - 85"}
+{"question":"What is the result of subtracting 39 and 30?","expected_code":"def solve(): return 39 - 30"}
+{"question":"What is the sum of 20 and 51?","expected_code":"def solve(): return 20 + 51"}
+{"question":"What is the product of 61 and 85?","expected_code":"def solve(): return 61 * 85"}
+{"question":"What is the product of 38 and 31?","expected_code":"def solve(): return 38 * 31"}
+{"question":"What is the result of dividing 37 and 24?","expected_code":"def solve(): return 37 \/ 24"}
+{"question":"Can you determine the sum of 51 and 33?","expected_code":"def solve(): return 51 + 33"}
+{"question":"What is the product of 9 and 43?","expected_code":"def solve(): return 9 * 43"}
+{"question":"What is the result of subtracting 26 and 80?","expected_code":"def solve(): return 26 - 80"}
+{"question":"Can you determine the result of dividing 56 and 58?","expected_code":"def solve(): return 58 \/ 56"}
+{"question":"What is the product of 33 and 100?","expected_code":"def solve(): return 33 * 100"}
+{"question":"What is the product of 37 and 86?","expected_code":"def solve(): return 37 * 86"}
+{"question":"What is the sum of 94 and 13?","expected_code":"def solve(): return 94 + 13"}
+{"question":"What is the product of 92 and 58?","expected_code":"def solve(): return 92 * 58"}
+{"question":"What is the result of dividing 6 and 22?","expected_code":"def solve(): return 22 \/ 6"}
+{"question":"What is the result of subtracting 30 and 23?","expected_code":"def solve(): return 30 - 23"}
+{"question":"Can you determine the sum of 11 and 72?","expected_code":"def solve(): return 11 + 72"}
+{"question":"What is the result of dividing 82 and 47?","expected_code":"def solve(): return 82 \/ 47"}
+{"question":"What is the result of subtracting 65 and 93?","expected_code":"def solve(): return 65 - 93"}
+{"question":"Determine the quotient of of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a \/ b \/ c"}
+{"question":"What is the result of subtracting 38 and 39?","expected_code":"def solve(): return 38 - 39"}
+{"question":"Can you determine the result of dividing 64 and 4?","expected_code":"def solve(): return 64 \/ 4"}
+{"question":"What is the result of dividing 75 and 90?","expected_code":"def solve(): return 90 \/ 75"}
+{"question":"Find the square of of a variable num1.","expected_code":"def solve(num1):\n    return num1 ** 2"}
+{"question":"What is the result of subtracting 29 and 46?","expected_code":"def solve(): return 29 - 46"}
+{"question":"What is the result of dividing 32 and 79?","expected_code":"def solve(): return 79 \/ 32"}
+{"question":"What is the result of subtracting 21 and 29?","expected_code":"def solve(): return 21 - 29"}
+{"question":"What is the result of subtracting 7 and 86?","expected_code":"def solve(): return 7 - 86"}
+{"question":"What is the sum of 20 and 54?","expected_code":"def solve(): return 20 + 54"}
+{"question":"What is the result of dividing 70 and 34?","expected_code":"def solve(): return 70 \/ 34"}
+{"question":"What is the result of subtracting 40 and 68?","expected_code":"def solve(): return 40 - 68"}
+{"question":"What is the result of dividing 88 and 30?","expected_code":"def solve(): return 88 \/ 30"}
+{"question":"Can you determine the result of subtracting 54 and 37?","expected_code":"def solve(): return 54 - 37"}
+{"question":"What is the sum of 86 and 51?","expected_code":"def solve(): return 86 + 51"}
+{"question":"Can you determine the product of 52 and 33?","expected_code":"def solve(): return 52 * 33"}
+{"question":"What is the result of subtracting 12 and 22?","expected_code":"def solve(): return 12 - 22"}
+{"question":"What is the sum of 93 and 50?","expected_code":"def solve(): return 93 + 50"}
+{"question":"What is the result of subtracting 51 and 65?","expected_code":"def solve(): return 51 - 65"}
+{"question":"What is the sum of 70 and 1?","expected_code":"def solve(): return 70 + 1"}
+{"question":"What is the sum of 1 and 19?","expected_code":"def solve(): return 1 + 19"}
+{"question":"What is the result of subtracting 30 and 70?","expected_code":"def solve(): return 30 - 70"}
+{"question":"What is the sum of 22 and 22?","expected_code":"def solve(): return 22 + 22"}
+{"question":"What is the sum of 62 and 58?","expected_code":"def solve(): return 62 + 58"}
+{"question":"What is the result of dividing 73 and 56?","expected_code":"def solve(): return 73 \/ 56"}
+{"question":"What is the sum of 67 and 96?","expected_code":"def solve(): return 67 + 96"}
+{"question":"What is the sum of 79 and 86?","expected_code":"def solve(): return 79 + 86"}
+{"question":"What is the result of subtracting 80 and 17?","expected_code":"def solve(): return 80 - 17"}
+{"question":"What is the product of 78 and 12?","expected_code":"def solve(): return 78 * 12"}
+{"question":"What is the result of subtracting 99 and 89?","expected_code":"def solve(): return 99 - 89"}
+{"question":"What is the sum of 34 and 26?","expected_code":"def solve(): return 34 + 26"}
+{"question":"What is the sum of 100 and 80?","expected_code":"def solve(): return 100 + 80"}
+{"question":"What is the sum of 50 and 79?","expected_code":"def solve(): return 50 + 79"}
+{"question":"What is the square root of 225?","expected_code":"import math\ndef solve(): return math.sqrt(225)"}
+{"question":"What is the sum of 48 and 45?","expected_code":"def solve(): return 48 + 45"}
+{"question":"Multiply 2, 4, and 6.","expected_code":"def solve(): return 2 * 4 * 6"}
+{"question":"What is the sum of 41 and 12?","expected_code":"def solve(): return 41 + 12"}
+{"question":"What is the product of 38 and 59?","expected_code":"def solve(): return 38 * 59"}
+{"question":"Subtract 30 from 90.","expected_code":"def solve(): return 90 - 30"}
+{"question":"What is the product of 1 and 16?","expected_code":"def solve(): return 1 * 16"}
+{"question":"What is the result of subtracting 23 and 58?","expected_code":"def solve(): return 23 - 58"}
+{"question":"Determine the quotient of of variables alpha and beta, and gamma.","expected_code":"def solve(alpha, beta, gamma):\n    return alpha \/ beta \/ gamma"}
+{"question":"What is the result of subtracting 93 and 27?","expected_code":"def solve(): return 93 - 27"}
+{"question":"What is the product of 14 and 46?","expected_code":"def solve(): return 14 * 46"}
+{"question":"What is the product of 24 and 75?","expected_code":"def solve(): return 24 * 75"}
+{"question":"What is the sum of 24 and 16?","expected_code":"def solve(): return 24 + 16"}
+{"question":"What is the result of dividing 16 and 72?","expected_code":"def solve(): return 72 \/ 16"}
+{"question":"What is the result of dividing 79 and 37?","expected_code":"def solve(): return 79 \/ 37"}
+{"question":"What is the result of subtracting 31 and 43?","expected_code":"def solve(): return 31 - 43"}
+{"question":"What is the result of subtracting 12 and 79?","expected_code":"def solve(): return 12 - 79"}
+{"question":"What is the result of subtracting 10 and 78?","expected_code":"def solve(): return 10 - 78"}
+{"question":"What is the result of subtracting 23 and 17?","expected_code":"def solve(): return 23 - 17"}
+{"question":"What is the result of dividing 81 and 55?","expected_code":"def solve(): return 81 \/ 55"}
+{"question":"Compute the sum of of variables num1 and num2 by writing a Python function.","expected_code":"def solve(num1, num2):\n    return num1 + num2"}
+{"question":"What is the result of subtracting 73 and 61?","expected_code":"def solve(): return 73 - 61"}
+{"question":"What is the product of 94 and 98?","expected_code":"def solve(): return 94 * 98"}
+{"question":"What is the sum of 35 and 52?","expected_code":"def solve(): return 35 + 52"}
+{"question":"What is the sum of 18 and 75?","expected_code":"def solve(): return 18 + 75"}
+{"question":"What is the sum of 27 and 31?","expected_code":"def solve(): return 27 + 31"}
+{"question":"What is the result of dividing 77 and 41?","expected_code":"def solve(): return 77 \/ 41"}
+{"question":"What is the result of dividing 19 and 70?","expected_code":"def solve(): return 70 \/ 19"}
+{"question":"What is the result of subtracting 94 and 13?","expected_code":"def solve(): return 94 - 13"}
+{"question":"What is the sum of 54 and 1?","expected_code":"def solve(): return 54 + 1"}
+{"question":"What is the sum of 85 and 4?","expected_code":"def solve(): return 85 + 4"}
+{"question":"What is the product of 71 and 79?","expected_code":"def solve(): return 71 * 79"}
+{"question":"Can you determine the result of dividing 5 and 51?","expected_code":"def solve(): return 51 \/ 5"}
+{"question":"What is the result of dividing 25 and 23?","expected_code":"def solve(): return 25 \/ 23"}
+{"question":"What is the product of 10 and 33?","expected_code":"def solve(): return 10 * 33"}
+{"question":"What is the sum of 28 and 69?","expected_code":"def solve(): return 28 + 69"}
+{"question":"What is the result of dividing 78 and 8?","expected_code":"def solve(): return 78 \/ 8"}
+{"question":"What is the sum of 52 and 36?","expected_code":"def solve(): return 52 + 36"}
+{"question":"What is the product of 86 and 6?","expected_code":"def solve(): return 86 * 6"}
+{"question":"What is the sum of of variables a and b? Implement it in Python.","expected_code":"def solve(a, b):\n    return a + b"}
+{"question":"What is the sum of 24 and 73?","expected_code":"def solve(): return 24 + 73"}
+{"question":"What is the result of subtracting 13 and 100?","expected_code":"def solve(): return 13 - 100"}
+{"question":"What is the result of dividing 31 and 11?","expected_code":"def solve(): return 31 \/ 11"}
+{"question":"What is the result of dividing 36 and 20?","expected_code":"def solve(): return 36 \/ 20"}
+{"question":"Can you determine the product of 20 and 26?","expected_code":"def solve(): return 20 * 26"}
+{"question":"What is the result of dividing 44 and 95?","expected_code":"def solve(): return 95 \/ 44"}
+{"question":"What is the result of dividing 46 and 5?","expected_code":"def solve(): return 46 \/ 5"}
+{"question":"Create a function to calculate the quotient of of variables a and b.","expected_code":"def solve(a, b):\n    return a \/ b"}
+{"question":"Calculate the sum of of variables p and q, and r.","expected_code":"def solve(p, q, r):\n    return p + q + r"}
+{"question":"What is the result of dividing 40 and 33?","expected_code":"def solve(): return 40 \/ 33"}
+{"question":"What is the result of dividing 29 and 60?","expected_code":"def solve(): return 60 \/ 29"}
+{"question":"What is 50 raised to the power of 3, divided by 1000?","expected_code":"def solve(): return 50 ** 3 \/ 1000"}
+{"question":"What is the product of 91 and 18?","expected_code":"def solve(): return 91 * 18"}
+{"question":"Can you determine the result of dividing 23 and 80?","expected_code":"def solve(): return 80 \/ 23"}
+{"question":"Can you determine the result of dividing 29 and 17?","expected_code":"def solve(): return 29 \/ 17"}
+{"question":"What is the sum of 1 and 78?","expected_code":"def solve(): return 1 + 78"}
+{"question":"What is the product of 16 and 26?","expected_code":"def solve(): return 16 * 26"}
+{"question":"What is the product of 22 and 10?","expected_code":"def solve(): return 22 * 10"}
+{"question":"What is the square root of 64?","expected_code":"import math\ndef solve(): return math.sqrt(64)"}
+{"question":"What is the sum of 63 and 4?","expected_code":"def solve(): return 63 + 4"}
+{"question":"What is the product of 66 and 28?","expected_code":"def solve(): return 66 * 28"}
+{"question":"What is the result of dividing 6 and 67?","expected_code":"def solve(): return 67 \/ 6"}
+{"question":"What is the product of 20 and 35?","expected_code":"def solve(): return 20 * 35"}
+{"question":"Can you determine the result of dividing 24 and 34?","expected_code":"def solve(): return 34 \/ 24"}
+{"question":"Can you determine the sum of 23 and 14?","expected_code":"def solve(): return 23 + 14"}
+{"question":"Find the square root of 36.","expected_code":"import math\ndef solve(): return math.sqrt(36)"}
+{"question":"What is the result of dividing 68 and 25?","expected_code":"def solve(): return 68 \/ 25"}
+{"question":"Can you determine the result of subtracting 90 and 58?","expected_code":"def solve(): return 90 - 58"}
+{"question":"What is the product of 22 and 60?","expected_code":"def solve(): return 22 * 60"}
+{"question":"What is the sum of 35 and 51?","expected_code":"def solve(): return 35 + 51"}
+{"question":"Raise 2 to the power of 6.","expected_code":"def solve(): return 2 ** 6"}
+{"question":"What is the product of 8 and 30?","expected_code":"def solve(): return 8 * 30"}
+{"question":"What is the result of dividing 21 and 59?","expected_code":"def solve(): return 59 \/ 21"}
+{"question":"What is the sum of 68 and 14?","expected_code":"def solve(): return 68 + 14"}
+{"question":"What is the product of 84 and 3?","expected_code":"def solve(): return 84 * 3"}
+{"question":"What is the product of 66 and 6?","expected_code":"def solve(): return 66 * 6"}
+{"question":"What is the sum of 34 and 5?","expected_code":"def solve(): return 34 + 5"}
+{"question":"Create a function to calculate the modulus of of variables a and b.","expected_code":"def solve(a, b):\n    return a % b"}
+{"question":"Can you determine the result of subtracting 77 and 25?","expected_code":"def solve(): return 77 - 25"}
+{"question":"What is the result of subtracting 94 and 89?","expected_code":"def solve(): return 94 - 89"}
+{"question":"What is the result of subtracting 70 and 57?","expected_code":"def solve(): return 70 - 57"}
+{"question":"What is the product of 90 and 2?","expected_code":"def solve(): return 90 * 2"}
+{"question":"What is the product of 41 and 15?","expected_code":"def solve(): return 41 * 15"}
+{"question":"Can you determine the sum of 32 and 65?","expected_code":"def solve(): return 32 + 65"}
+{"question":"What is the result of subtracting 34 and 99?","expected_code":"def solve(): return 34 - 99"}
+{"question":"What is the product of 97 and 56?","expected_code":"def solve(): return 97 * 56"}
+{"question":"What is the sum of 43 and 26?","expected_code":"def solve(): return 43 + 26"}
+{"question":"What is the result of subtracting 47 and 99?","expected_code":"def solve(): return 47 - 99"}
+{"question":"What is the result of dividing 11 and 82?","expected_code":"def solve(): return 82 \/ 11"}
+{"question":"Can you determine the result of subtracting 1 and 45?","expected_code":"def solve(): return 1 - 45"}
+{"question":"Can you determine the sum of 87 and 48?","expected_code":"def solve(): return 87 + 48"}
+{"question":"Can you determine the result of dividing 2 and 43?","expected_code":"def solve(): return 43 \/ 2"}
+{"question":"What is the result of dividing 46 and 2?","expected_code":"def solve(): return 46 \/ 2"}
+{"question":"What is the result of subtracting 93 and 36?","expected_code":"def solve(): return 93 - 36"}
+{"question":"What is the sum of 26 and 12?","expected_code":"def solve(): return 26 + 12"}
+{"question":"What is the product of 64 and 89?","expected_code":"def solve(): return 64 * 89"}
+{"question":"What is the square root of 121?","expected_code":"import math\ndef solve(): return math.sqrt(121)"}
+{"question":"What is the result of subtracting 51 and 74?","expected_code":"def solve(): return 51 - 74"}
+{"question":"What is the result of subtracting 26 and 10?","expected_code":"def solve(): return 26 - 10"}
+{"question":"What is the result of dividing 16 and 69?","expected_code":"def solve(): return 69 \/ 16"}
+{"question":"What is the sum of 98 and 8?","expected_code":"def solve(): return 98 + 8"}
+{"question":"What is the product of 22 and 100?","expected_code":"def solve(): return 22 * 100"}
+{"question":"What is the product of 44 and 37?","expected_code":"def solve(): return 44 * 37"}
+{"question":"Add the square of 9 to the difference between the product of 5 and 6 and the cube of 4.","expected_code":"def solve(): return (9 ** 2 + (5 * 6 - 4 ** 3))"}
+{"question":"What is the sum of 38 and 55?","expected_code":"def solve(): return 38 + 55"}
+{"question":"What is the sum of 78 and 4?","expected_code":"def solve(): return 78 + 4"}
+{"question":"What is the product of 23 and 11?","expected_code":"def solve(): return 23 * 11"}
+{"question":"What is the result of subtracting 45 and 55?","expected_code":"def solve(): return 45 - 55"}
+{"question":"Can you determine the product of 52 and 22?","expected_code":"def solve(): return 52 * 22"}
+{"question":"Add the result of the square of 14 to the product of 8 and 9, then divide by 12.","expected_code":"def solve(): return (14 ** 2 + 8 * 9) \/ 12"}
+{"question":"What is the sum of 98 and 12?","expected_code":"def solve(): return 98 + 12"}
+{"question":"What is the square of 11 plus the product of 3 and 6?","expected_code":"def solve(): return 11 ** 2 + 3 * 6"}
+{"question":"What is the sum of 83 and 35?","expected_code":"def solve(): return 83 + 35"}
+{"question":"What is the sum of 31 and 96?","expected_code":"def solve(): return 31 + 96"}
+{"question":"What is the result of dividing 16 and 96?","expected_code":"def solve(): return 96 \/ 16"}
+{"question":"What is the result of subtracting 71 and 2?","expected_code":"def solve(): return 71 - 2"}
+{"question":"What is the product of 9 and 63?","expected_code":"def solve(): return 9 * 63"}
+{"question":"What is the result of dividing 68 and 65?","expected_code":"def solve(): return 68 \/ 65"}
+{"question":"What is the result of subtracting 44 and 50?","expected_code":"def solve(): return 44 - 50"}
+{"question":"Can you determine the result of dividing 65 and 27?","expected_code":"def solve(): return 65 \/ 27"}
+{"question":"What is the result of subtracting 75 and 90?","expected_code":"def solve(): return 75 - 90"}
+{"question":"What is the sum of 57 and 37?","expected_code":"def solve(): return 57 + 37"}
+{"question":"What is the result of dividing 72 and 53?","expected_code":"def solve(): return 72 \/ 53"}
+{"question":"What is the product of 65 and 75?","expected_code":"def solve(): return 65 * 75"}
+{"question":"What is the product of 10 and 41?","expected_code":"def solve(): return 10 * 41"}
+{"question":"What is the sum of 76 and 35?","expected_code":"def solve(): return 76 + 35"}
+{"question":"What is the result of dividing 98 and 55?","expected_code":"def solve(): return 98 \/ 55"}
+{"question":"Can you determine the sum of 68 and 78?","expected_code":"def solve(): return 68 + 78"}
+{"question":"What is the product of 80 and 56?","expected_code":"def solve(): return 80 * 56"}
+{"question":"What is the result of subtracting 58 and 93?","expected_code":"def solve(): return 58 - 93"}
+{"question":"What is the result of subtracting 55 and 82?","expected_code":"def solve(): return 55 - 82"}
+{"question":"What is the result of subtracting 76 and 28?","expected_code":"def solve(): return 76 - 28"}
+{"question":"What is the product of 49 and 29?","expected_code":"def solve(): return 49 * 29"}
+{"question":"What is the result of subtracting 36 and 22?","expected_code":"def solve(): return 36 - 22"}
+{"question":"What is the result of subtracting 2 and 80?","expected_code":"def solve(): return 2 - 80"}
+{"question":"What is the product of 27 and 27?","expected_code":"def solve(): return 27 * 27"}
+{"question":"What is the result of subtracting 22 and 36?","expected_code":"def solve(): return 22 - 36"}
+{"question":"What is the product of 93 and 90?","expected_code":"def solve(): return 93 * 90"}
+{"question":"What is the product of 99 and 3?","expected_code":"def solve(): return 99 * 3"}
+{"question":"What is the result of subtracting 31 and 67?","expected_code":"def solve(): return 31 - 67"}
+{"question":"Find the quotient of of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a \/ b \/ c"}
+{"question":"What is the sum of 67 and 22?","expected_code":"def solve(): return 67 + 22"}
+{"question":"What is the product of 9 and 70?","expected_code":"def solve(): return 9 * 70"}
+{"question":"What is the result of dividing 29 and 31?","expected_code":"def solve(): return 31 \/ 29"}
+{"question":"What is the result of subtracting 21 and 25?","expected_code":"def solve(): return 21 - 25"}
+{"question":"What is the result of subtracting 3 and 73?","expected_code":"def solve(): return 3 - 73"}
+{"question":"What is the sum of 91 and 78?","expected_code":"def solve(): return 91 + 78"}
+{"question":"What is the result of subtracting 64 and 73?","expected_code":"def solve(): return 64 - 73"}
+{"question":"What is the result of subtracting 70 and 27?","expected_code":"def solve(): return 70 - 27"}
+{"question":"What is 3 raised to the power of 5?","expected_code":"def solve(): return 3 ** 5"}
+{"question":"What is the result of dividing 80 and 75?","expected_code":"def solve(): return 80 \/ 75"}
+{"question":"What is the result of subtracting 35 and 55?","expected_code":"def solve(): return 35 - 55"}
+{"question":"What is the product of 60 and 94?","expected_code":"def solve(): return 60 * 94"}
+{"question":"What is the result of subtracting 28 and 20?","expected_code":"def solve(): return 28 - 20"}
+{"question":"What is the sum of 12 and 28?","expected_code":"def solve(): return 12 + 28"}
+{"question":"What is the result of subtracting 9 and 4?","expected_code":"def solve(): return 9 - 4"}
+{"question":"What is the result of dividing 31 and 34?","expected_code":"def solve(): return 34 \/ 31"}
+{"question":"What is the sum of 61 and 67?","expected_code":"def solve(): return 61 + 67"}
+{"question":"What is the result of subtracting 41 and 10?","expected_code":"def solve(): return 41 - 10"}
+{"question":"Combine 42 and 58.","expected_code":"def solve(): return 42 + 58"}
+{"question":"What is the sum of 25 and 1?","expected_code":"def solve(): return 25 + 1"}
+{"question":"What is the result of subtracting 68 and 68?","expected_code":"def solve(): return 68 - 68"}
+{"question":"What is the sum of 19 and 28?","expected_code":"def solve(): return 19 + 28"}
+{"question":"What is the product of 56 and 75?","expected_code":"def solve(): return 56 * 75"}
+{"question":"What is the sum of 39 and 79?","expected_code":"def solve(): return 39 + 79"}
+{"question":"Can you determine the result of subtracting 55 and 5?","expected_code":"def solve(): return 55 - 5"}
+{"question":"What is the product of 68 and 96?","expected_code":"def solve(): return 68 * 96"}
+{"question":"What is the result of dividing 20 and 77?","expected_code":"def solve(): return 77 \/ 20"}
+{"question":"What is the sum of 91 and 63?","expected_code":"def solve(): return 91 + 63"}
+{"question":"What is the product of 97 and 29?","expected_code":"def solve(): return 97 * 29"}
+{"question":"What is the sum of 10 and 21?","expected_code":"def solve(): return 10 + 21"}
+{"question":"Can you determine the product of 1 and 95?","expected_code":"def solve(): return 1 * 95"}
+{"question":"What is the product of 37 and 14?","expected_code":"def solve(): return 37 * 14"}
+{"question":"What is the sum of 15 and 85?","expected_code":"def solve(): return 15 + 85"}
+{"question":"What is the result of subtracting 86 and 31?","expected_code":"def solve(): return 86 - 31"}
+{"question":"What is the sum of 34 and 15?","expected_code":"def solve(): return 34 + 15"}
+{"question":"What is the sum of 8 and 58?","expected_code":"def solve(): return 8 + 58"}
+{"question":"What is the sum of 37 and 98?","expected_code":"def solve(): return 37 + 98"}
+{"question":"Can you determine the product of 56 and 43?","expected_code":"def solve(): return 56 * 43"}
+{"question":"Subtract the cube of 5 from the product of 7 and 9, then add the square of 6.","expected_code":"def solve(): return (7 * 9 - 5 ** 3) + 6 ** 2"}
+{"question":"Can you determine the product of 96 and 46?","expected_code":"def solve(): return 96 * 46"}
+{"question":"What is the sum of 53 and 7?","expected_code":"def solve(): return 53 + 7"}
+{"question":"Add 33, 45, and 12.","expected_code":"def solve(): return 33 + 45 + 12"}
+{"question":"What is the sum of 36 and 40?","expected_code":"def solve(): return 36 + 40"}
+{"question":"What is the result of dividing 34 and 46?","expected_code":"def solve(): return 46 \/ 34"}
+{"question":"What is the result of dividing 13 and 44?","expected_code":"def solve(): return 44 \/ 13"}
+{"question":"What is the product of 82 and 64?","expected_code":"def solve(): return 82 * 64"}
+{"question":"Find the sum of the cubes of 4 and 5.","expected_code":"def solve(): return 4 ** 3 + 5 ** 3"}
+{"question":"What is the result of subtracting 18 and 32?","expected_code":"def solve(): return 18 - 32"}
+{"question":"What is the sum of 77 and 25?","expected_code":"def solve(): return 77 + 25"}
+{"question":"What is the result of dividing 19 and 73?","expected_code":"def solve(): return 73 \/ 19"}
+{"question":"Can you determine the sum of 27 and 60?","expected_code":"def solve(): return 27 + 60"}
+{"question":"What is the result of dividing 56 and 35?","expected_code":"def solve(): return 56 \/ 35"}
+{"question":"Can you determine the product of 27 and 95?","expected_code":"def solve(): return 27 * 95"}
+{"question":"What is the result of dividing 3 and 38?","expected_code":"def solve(): return 38 \/ 3"}
+{"question":"What is the result of dividing 18 and 60?","expected_code":"def solve(): return 60 \/ 18"}
+{"question":"What is the product of 98 and 74?","expected_code":"def solve(): return 98 * 74"}
+{"question":"Divide 210 by 7.","expected_code":"def solve(): return 210 \/ 7"}
+{"question":"Can you determine the sum of 29 and 11?","expected_code":"def solve(): return 29 + 11"}
+{"question":"What is the sum of 47 and 86?","expected_code":"def solve(): return 47 + 86"}
+{"question":"What is the result of subtracting 82 and 29?","expected_code":"def solve(): return 82 - 29"}
+{"question":"Can you determine the product of 46 and 40?","expected_code":"def solve(): return 46 * 40"}
+{"question":"Can you determine the result of subtracting 39 and 39?","expected_code":"def solve(): return 39 - 39"}
+{"question":"What is the result of dividing 76 and 95?","expected_code":"def solve(): return 95 \/ 76"}
+{"question":"What is the result of dividing 52 and 35?","expected_code":"def solve(): return 52 \/ 35"}
+{"question":"Can you determine the result of dividing 67 and 69?","expected_code":"def solve(): return 69 \/ 67"}
+{"question":"What is the product of 69 and 92?","expected_code":"def solve(): return 69 * 92"}
+{"question":"What is the result of subtracting 17 and 84?","expected_code":"def solve(): return 17 - 84"}
+{"question":"What is the result of dividing 27 and 90?","expected_code":"def solve(): return 90 \/ 27"}
+{"question":"What is the result of dividing 60 and 50?","expected_code":"def solve(): return 60 \/ 50"}
+{"question":"Can you determine the product of 61 and 87?","expected_code":"def solve(): return 61 * 87"}
+{"question":"What is the modulus of of variables a and b? Implement it in Python.","expected_code":"def solve(a, b):\n    return a % b"}
+{"question":"What is the product of 88 and 67?","expected_code":"def solve(): return 88 * 67"}
+{"question":"Raise 2 to the fifth power.","expected_code":"def solve(): return 2 ** 5"}
+{"question":"What is the result of subtracting 42 and 19?","expected_code":"def solve(): return 42 - 19"}
+{"question":"Can you determine the result of dividing 20 and 59?","expected_code":"def solve(): return 59 \/ 20"}
+{"question":"Can you determine the product of 30 and 31?","expected_code":"def solve(): return 30 * 31"}
+{"question":"What is the result of dividing 31 and 39?","expected_code":"def solve(): return 39 \/ 31"}
+{"question":"What is the result of dividing 69 and 62?","expected_code":"def solve(): return 69 \/ 62"}
+{"question":"What is the result of subtracting 85 and 52?","expected_code":"def solve(): return 85 - 52"}
+{"question":"What is the result of subtracting 83 and 50?","expected_code":"def solve(): return 83 - 50"}
+{"question":"What is the result of subtracting 29 and 97?","expected_code":"def solve(): return 29 - 97"}
+{"question":"Divide 18 by 6.","expected_code":"def solve(): return 18 \/ 6"}
+{"question":"What is the product of 69 and 15?","expected_code":"def solve(): return 69 * 15"}
+{"question":"What is the result of subtracting 75 and 60?","expected_code":"def solve(): return 75 - 60"}
+{"question":"What is the result of dividing 65 and 73?","expected_code":"def solve(): return 73 \/ 65"}
+{"question":"Can you determine the product of 19 and 70?","expected_code":"def solve(): return 19 * 70"}
+{"question":"What is the product of 47 and 93?","expected_code":"def solve(): return 47 * 93"}
+{"question":"Find the sum of 25, 30, and the square of 12, then divide by 5.","expected_code":"def solve(): return (25 + 30 + 12 ** 2) \/ 5"}
+{"question":"What is the product of 39 and 95?","expected_code":"def solve(): return 39 * 95"}
+{"question":"Compute the quotient of of variables p and q, and r using a Python function.","expected_code":"def solve(p, q, r):\n    return p \/ q \/ r"}
+{"question":"What is the result of subtracting 74 and 99?","expected_code":"def solve(): return 74 - 99"}
+{"question":"What is the result of dividing 50 and 44?","expected_code":"def solve(): return 50 \/ 44"}
+{"question":"What is the sum of 89 and 88?","expected_code":"def solve(): return 89 + 88"}
+{"question":"Calculate the modulus of of variables m and n.","expected_code":"def solve(m, n):\n    return m % n"}
+{"question":"What is the result of subtracting 74 and 77?","expected_code":"def solve(): return 74 - 77"}
+{"question":"What is the result of dividing 15 and 9?","expected_code":"def solve(): return 15 \/ 9"}
+{"question":"Find the sum of of variables alpha and beta, and gamma.","expected_code":"def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question":"What is the product of 99 and 1?","expected_code":"def solve(): return 99 * 1"}
+{"question":"Can you determine the product of 100 and 26?","expected_code":"def solve(): return 100 * 26"}
+{"question":"Can you determine the product of 83 and 63?","expected_code":"def solve(): return 83 * 63"}
+{"question":"What is the result of dividing 38 and 12?","expected_code":"def solve(): return 38 \/ 12"}
+{"question":"What is the result of dividing 71 and 2?","expected_code":"def solve(): return 71 \/ 2"}
+{"question":"Can you determine the result of dividing 56 and 15?","expected_code":"def solve(): return 56 \/ 15"}
+{"question":"What is the sum of 60 and 60?","expected_code":"def solve(): return 60 + 60"}
+{"question":"What is the result of dividing 46 and 57?","expected_code":"def solve(): return 57 \/ 46"}
+{"question":"What is the result of subtracting 80 and 11?","expected_code":"def solve(): return 80 - 11"}
+{"question":"What is the result of dividing 40 and 55?","expected_code":"def solve(): return 55 \/ 40"}
+{"question":"Can you determine the result of dividing 72 and 40?","expected_code":"def solve(): return 72 \/ 40"}
+{"question":"Can you determine the product of 32 and 88?","expected_code":"def solve(): return 32 * 88"}
+{"question":"What is the result of subtracting 9 and 67?","expected_code":"def solve(): return 9 - 67"}
+{"question":"What is the result of subtracting 81 and 84?","expected_code":"def solve(): return 81 - 84"}
+{"question":"What is the result of dividing 9 and 95?","expected_code":"def solve(): return 95 \/ 9"}
+{"question":"What is the result of subtracting 87 and 50?","expected_code":"def solve(): return 87 - 50"}
+{"question":"Can you determine the result of dividing 97 and 19?","expected_code":"def solve(): return 97 \/ 19"}
+{"question":"What is the result of dividing 47 and 88?","expected_code":"def solve(): return 88 \/ 47"}
+{"question":"What is the result of subtracting 10 and 30?","expected_code":"def solve(): return 10 - 30"}
+{"question":"What is the result of dividing 25 and 73?","expected_code":"def solve(): return 73 \/ 25"}
+{"question":"What is the sum of 62 and 50?","expected_code":"def solve(): return 62 + 50"}
+{"question":"What is the result of dividing 40 and 87?","expected_code":"def solve(): return 87 \/ 40"}
+{"question":"What is the result of subtracting 25 and 84?","expected_code":"def solve(): return 25 - 84"}
+{"question":"What is the result of dividing 84 and 62?","expected_code":"def solve(): return 84 \/ 62"}
+{"question":"What is the sum of 14 and 67?","expected_code":"def solve(): return 14 + 67"}
+{"question":"What is the result of subtracting 25 and 67?","expected_code":"def solve(): return 25 - 67"}
+{"question":"What is the sum of 53 and 16?","expected_code":"def solve(): return 53 + 16"}
+{"question":"What is the result of subtracting 4 and 35?","expected_code":"def solve(): return 4 - 35"}
+{"question":"Square the number 10.","expected_code":"def solve(): return 10 ** 2"}
+{"question":"What is the product of 51 and 95?","expected_code":"def solve(): return 51 * 95"}
+{"question":"What is the product of 30 and 45?","expected_code":"def solve(): return 30 * 45"}
+{"question":"Can you determine the sum of 3 and 76?","expected_code":"def solve(): return 3 + 76"}
+{"question":"What is the sum of 70 and 34?","expected_code":"def solve(): return 70 + 34"}
+{"question":"What is the result of subtracting 57 and 98?","expected_code":"def solve(): return 57 - 98"}
+{"question":"What is the sum of 81 and 51?","expected_code":"def solve(): return 81 + 51"}
+{"question":"Can you determine the product of 15 and 10?","expected_code":"def solve(): return 15 * 10"}
+{"question":"Multiply 14 by 9.","expected_code":"def solve(): return 14 * 9"}
+{"question":"What is the sum of 13 and 85?","expected_code":"def solve(): return 13 + 85"}
+{"question":"What is the sum of 67 and 69?","expected_code":"def solve(): return 67 + 69"}
+{"question":"Find the quotient of of variables alpha and beta.","expected_code":"def solve(alpha, beta):\n    return alpha \/ beta"}
+{"question":"What is the result of subtracting 85 and 61?","expected_code":"def solve(): return 85 - 61"}
+{"question":"What is the product of 40 and 51?","expected_code":"def solve(): return 40 * 51"}
+{"question":"What is the result of dividing 16 and 3?","expected_code":"def solve(): return 16 \/ 3"}
+{"question":"What is the result of dividing 73 and 52?","expected_code":"def solve(): return 73 \/ 52"}
+{"question":"What is the sum of 53 and 74?","expected_code":"def solve(): return 53 + 74"}
+{"question":"Can you determine the sum of 66 and 78?","expected_code":"def solve(): return 66 + 78"}
+{"question":"What is the product of 51 and 80?","expected_code":"def solve(): return 51 * 80"}
+{"question":"What is the result of dividing 4 and 38?","expected_code":"def solve(): return 38 \/ 4"}
+{"question":"Can you determine the sum of 31 and 84?","expected_code":"def solve(): return 31 + 84"}
+{"question":"What is the sum of 17 and 99?","expected_code":"def solve(): return 17 + 99"}
+{"question":"What is the sum of 20 and 1?","expected_code":"def solve(): return 20 + 1"}
+{"question":"What is the result of dividing 18 and 96?","expected_code":"def solve(): return 96 \/ 18"}
+{"question":"What is the result of dividing 16 and 5?","expected_code":"def solve(): return 16 \/ 5"}
+{"question":"What is the result of subtracting 78 and 21?","expected_code":"def solve(): return 78 - 21"}
+{"question":"What is the product of 44 and 34?","expected_code":"def solve(): return 44 * 34"}
+{"question":"Can you determine the result of subtracting 60 and 44?","expected_code":"def solve(): return 60 - 44"}
+{"question":"What is the product of 88 and 27?","expected_code":"def solve(): return 88 * 27"}
+{"question":"Find the modulus of of variables value1 and value2, and value3.","expected_code":"def solve(value1, value2, value3):\n    return value1 % value2 % value3"}
+{"question":"What is the result of dividing 10 and 97?","expected_code":"def solve(): return 97 \/ 10"}
+{"question":"What is the sum of 82 and 32?","expected_code":"def solve(): return 82 + 32"}
+{"question":"Calculate the square root of 81.","expected_code":"import math\ndef solve(): return math.sqrt(81)"}
+{"question":"What\u2019s 300 divided by 6, then added to 45?","expected_code":"def solve(): return (300 \/ 6) + 45"}
+{"question":"Can you determine the result of subtracting 78 and 63?","expected_code":"def solve(): return 78 - 63"}
+{"question":"What is the sum of 84 and 44?","expected_code":"def solve(): return 84 + 44"}
+{"question":"What is the sum of 7 and 76?","expected_code":"def solve(): return 7 + 76"}
+{"question":"What is the product of of variables alpha and beta, and gamma? Implement it in Python.","expected_code":"def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question":"What is the result of dividing 35 and 53?","expected_code":"def solve(): return 53 \/ 35"}
+{"question":"Simplify: 10 - (4 + 6) * (3 - 1).","expected_code":"def solve(): return 10 - (4 + 6) * (3 - 1)"}
+{"question":"Can you determine the product of 85 and 58?","expected_code":"def solve(): return 85 * 58"}
+{"question":"What is the sum of 89 and 85?","expected_code":"def solve(): return 89 + 85"}
+{"question":"What is the result of dividing 27 and 18?","expected_code":"def solve(): return 27 \/ 18"}
+{"question":"What is the result of dividing 82 and 77?","expected_code":"def solve(): return 82 \/ 77"}
+{"question":"Can you determine the sum of 4 and 6?","expected_code":"def solve(): return 4 + 6"}
+{"question":"What is the sum of 35 and 20?","expected_code":"def solve(): return 35 + 20"}
+{"question":"What is the product of 6 and 27?","expected_code":"def solve(): return 6 * 27"}
+{"question":"Subtract 8 from 30.","expected_code":"def solve(): return 30 - 8"}
+{"question":"What is the sum of the square of 18 and the product of 5 and 10, then divided by 4?","expected_code":"def solve(): return (18 ** 2 + 5 * 10) \/ 4"}
+{"question":"What is the sum of 57 and 82?","expected_code":"def solve(): return 57 + 82"}
+{"question":"What is the sum of 52 and 70?","expected_code":"def solve(): return 52 + 70"}
+{"question":"What is the sum of 45 and 49?","expected_code":"def solve(): return 45 + 49"}
+{"question":"What is the result of subtracting 30 and 41?","expected_code":"def solve(): return 30 - 41"}
+{"question":"Can you determine the result of subtracting 42 and 25?","expected_code":"def solve(): return 42 - 25"}
+{"question":"What is the sum of 87 and 33?","expected_code":"def solve(): return 87 + 33"}
+{"question":"What is the result of subtracting 18 and 45?","expected_code":"def solve(): return 18 - 45"}
+{"question":"What is the sum of 2 and 39?","expected_code":"def solve(): return 2 + 39"}
+{"question":"What is the result of subtracting 86 and 47?","expected_code":"def solve(): return 86 - 47"}
+{"question":"What is the result of subtracting 2 and 91?","expected_code":"def solve(): return 2 - 91"}
+{"question":"Can you determine the result of subtracting 32 and 55?","expected_code":"def solve(): return 32 - 55"}
+{"question":"What is the result of subtracting 41 and 46?","expected_code":"def solve(): return 41 - 46"}
+{"question":"What is the result of subtracting 70 and 38?","expected_code":"def solve(): return 70 - 38"}
+{"question":"Can you determine the sum of 2 and 5?","expected_code":"def solve(): return 2 + 5"}
+{"question":"What is the result of subtracting 7 and 18?","expected_code":"def solve(): return 7 - 18"}
+{"question":"What is the sum of 27 and 5?","expected_code":"def solve(): return 27 + 5"}
+{"question":"What is the result of dividing 86 and 88?","expected_code":"def solve(): return 88 \/ 86"}
+{"question":"Can you determine the result of dividing 23 and 43?","expected_code":"def solve(): return 43 \/ 23"}
+{"question":"What is the result of dividing 43 and 56?","expected_code":"def solve(): return 56 \/ 43"}
+{"question":"Can you determine the result of dividing 94 and 94?","expected_code":"def solve(): return 94 \/ 94"}
+{"question":"What is the sum of 60 and 90?","expected_code":"def solve(): return 60 + 90"}
+{"question":"What is the result of dividing 28 and 44?","expected_code":"def solve(): return 44 \/ 28"}
+{"question":"What is the result of dividing 79 and 23?","expected_code":"def solve(): return 79 \/ 23"}
+{"question":"What is the result of subtracting 20 and 58?","expected_code":"def solve(): return 20 - 58"}
+{"question":"What is the result of dividing 95 and 85?","expected_code":"def solve(): return 95 \/ 85"}
+{"question":"What is the result of dividing 71 and 78?","expected_code":"def solve(): return 78 \/ 71"}
+{"question":"Can you determine the sum of 21 and 26?","expected_code":"def solve(): return 21 + 26"}
+{"question":"What is the result of dividing 21 and 46?","expected_code":"def solve(): return 46 \/ 21"}
+{"question":"Can you determine the product of 19 and 91?","expected_code":"def solve(): return 19 * 91"}
+{"question":"What is the sum of 53 and 19?","expected_code":"def solve(): return 53 + 19"}
+{"question":"What is the sum of 51 and 7?","expected_code":"def solve(): return 51 + 7"}
+{"question":"What is the product of 78 and 18?","expected_code":"def solve(): return 78 * 18"}
+{"question":"What is the result of subtracting 84 and 37?","expected_code":"def solve(): return 84 - 37"}
+{"question":"What is the product of 84 and 91?","expected_code":"def solve(): return 84 * 91"}
+{"question":"What is the result of subtracting 36 and 19?","expected_code":"def solve(): return 36 - 19"}
+{"question":"What is the product of 48 and 95?","expected_code":"def solve(): return 48 * 95"}
+{"question":"What is the result of subtracting 50 and 79?","expected_code":"def solve(): return 50 - 79"}
+{"question":"What is the product of 30 and 43?","expected_code":"def solve(): return 30 * 43"}
+{"question":"What is the result of subtracting 36 and 56?","expected_code":"def solve(): return 36 - 56"}
+{"question":"What is the product of 44 and 79?","expected_code":"def solve(): return 44 * 79"}
+{"question":"What is the result of dividing 98 and 22?","expected_code":"def solve(): return 98 \/ 22"}
+{"question":"Can you determine the sum of 55 and 43?","expected_code":"def solve(): return 55 + 43"}
+{"question":"Can you determine the result of dividing 44 and 51?","expected_code":"def solve(): return 51 \/ 44"}
+{"question":"What is the product of 49 and 9?","expected_code":"def solve(): return 49 * 9"}
+{"question":"What is the result of dividing 17 and 80?","expected_code":"def solve(): return 80 \/ 17"}
+{"question":"What is the result of dividing 16 and 54?","expected_code":"def solve(): return 54 \/ 16"}
+{"question":"What is the result of dividing 38 and 27?","expected_code":"def solve(): return 38 \/ 27"}
+{"question":"What is the sum of 35 and 23?","expected_code":"def solve(): return 35 + 23"}
+{"question":"What is the product of 98 and 93?","expected_code":"def solve(): return 98 * 93"}
+{"question":"What is the result of subtracting 3 and 61?","expected_code":"def solve(): return 3 - 61"}
+{"question":"What is the sum of 97 and 35?","expected_code":"def solve(): return 97 + 35"}
+{"question":"What is the result of subtracting 31 and 13?","expected_code":"def solve(): return 31 - 13"}
+{"question":"What is the result of subtracting 23 and 46?","expected_code":"def solve(): return 23 - 46"}
+{"question":"What is the product of 15 and 53?","expected_code":"def solve(): return 15 * 53"}
+{"question":"What is the result of dividing 47 and 99?","expected_code":"def solve(): return 99 \/ 47"}
+{"question":"What is the sum of 31 and 37?","expected_code":"def solve(): return 31 + 37"}
+{"question":"What is the product of 86 and 34?","expected_code":"def solve(): return 86 * 34"}
+{"question":"What is the product of 99 and 9?","expected_code":"def solve(): return 99 * 9"}
+{"question":"Can you determine the result of subtracting 25 and 18?","expected_code":"def solve(): return 25 - 18"}
+{"question":"What is the sum of 66 and 1?","expected_code":"def solve(): return 66 + 1"}
+{"question":"What is the result of subtracting 69 and 1?","expected_code":"def solve(): return 69 - 1"}
+{"question":"What is the result of dividing 86 and 12?","expected_code":"def solve(): return 86 \/ 12"}
+{"question":"Can you determine the sum of 34 and 31?","expected_code":"def solve(): return 34 + 31"}
+{"question":"What is the result of subtracting 60 and 8?","expected_code":"def solve(): return 60 - 8"}
+{"question":"What is the result of dividing 16 and 47?","expected_code":"def solve(): return 47 \/ 16"}
+{"question":"What is the product of 10 and 72?","expected_code":"def solve(): return 10 * 72"}
+{"question":"What is the result of dividing 18 and 33?","expected_code":"def solve(): return 33 \/ 18"}
+{"question":"What is the product of 100 and 89?","expected_code":"def solve(): return 100 * 89"}
+{"question":"What is the product of 75 and 23?","expected_code":"def solve(): return 75 * 23"}
+{"question":"What is the sum of 78 and 38?","expected_code":"def solve(): return 78 + 38"}
+{"question":"What is the result of subtracting 89 and 37?","expected_code":"def solve(): return 89 - 37"}
+{"question":"What is the result of subtracting 75 and 7?","expected_code":"def solve(): return 75 - 7"}
+{"question":"What is the sum of 95 and 67?","expected_code":"def solve(): return 95 + 67"}
+{"question":"What is the product of 47 and 87?","expected_code":"def solve(): return 47 * 87"}
+{"question":"What is the product of 71 and 100?","expected_code":"def solve(): return 71 * 100"}
+{"question":"What is the result of dividing 58 and 57?","expected_code":"def solve(): return 58 \/ 57"}
+{"question":"What is the result of dividing 80 and 91?","expected_code":"def solve(): return 91 \/ 80"}
+{"question":"What is the sum of 21 and 53?","expected_code":"def solve(): return 21 + 53"}
+{"question":"What is the result of subtracting 26 and 91?","expected_code":"def solve(): return 26 - 91"}
+{"question":"Can you determine the sum of 55 and 60?","expected_code":"def solve(): return 55 + 60"}
+{"question":"Find the cube of 3 added to the difference between 100 and the square of 8, then divide by 10.","expected_code":"def solve(): return (3 ** 3 + (100 - 8 ** 2)) \/ 10"}
+{"question":"Can you determine the result of dividing 20 and 97?","expected_code":"def solve(): return 97 \/ 20"}
+{"question":"What is the sum of 11 and 60?","expected_code":"def solve(): return 11 + 60"}
+{"question":"What is the sum of 94 and 74?","expected_code":"def solve(): return 94 + 74"}
+{"question":"Can you determine the product of 21 and 59?","expected_code":"def solve(): return 21 * 59"}
+{"question":"Can you determine the result of dividing 87 and 34?","expected_code":"def solve(): return 87 \/ 34"}
+{"question":"What is the sum of 83 and 18?","expected_code":"def solve(): return 83 + 18"}
+{"question":"What is the product of 43 and 10?","expected_code":"def solve(): return 43 * 10"}
+{"question":"What is the product of 68 and 28?","expected_code":"def solve(): return 68 * 28"}
+{"question":"What is the result of 7 raised to the power of 4, divided by the square of 9?","expected_code":"def solve(): return 7 ** 4 \/ 9 ** 2"}
+{"question":"What is the result of dividing 92 and 89?","expected_code":"def solve(): return 92 \/ 89"}
+{"question":"Square 3.","expected_code":"def solve(): return 3 ** 2"}
+{"question":"What is the product of 5 and 87?","expected_code":"def solve(): return 5 * 87"}
+{"question":"What is the product of 64 and 63?","expected_code":"def solve(): return 64 * 63"}
+{"question":"What is the result of subtracting 41 and 49?","expected_code":"def solve(): return 41 - 49"}
+{"question":"What is the result of subtracting 75 and 81?","expected_code":"def solve(): return 75 - 81"}
+{"question":"What is the product of 95 and 78?","expected_code":"def solve(): return 95 * 78"}
+{"question":"What is the product of 59 and 75?","expected_code":"def solve(): return 59 * 75"}
+{"question":"What is the result of subtracting 53 and 93?","expected_code":"def solve(): return 53 - 93"}
+{"question":"What is the result of subtracting 47 and 63?","expected_code":"def solve(): return 47 - 63"}
+{"question":"What is the sum of 5 and 31?","expected_code":"def solve(): return 5 + 31"}
+{"question":"What is the sum of 96 and 51?","expected_code":"def solve(): return 96 + 51"}
+{"question":"What is the product of 12 and 18?","expected_code":"def solve(): return 12 * 18"}
+{"question":"What is the result of dividing 91 and 52?","expected_code":"def solve(): return 91 \/ 52"}
+{"question":"What is the result of dividing 44 and 58?","expected_code":"def solve(): return 58 \/ 44"}
+{"question":"What is the product of 21 and 70?","expected_code":"def solve(): return 21 * 70"}
+{"question":"What is the result of dividing 59 and 2?","expected_code":"def solve(): return 59 \/ 2"}
+{"question":"What is the sum of 23 and 41?","expected_code":"def solve(): return 23 + 41"}
+{"question":"What is the product of 56 and 30?","expected_code":"def solve(): return 56 * 30"}
+{"question":"What is the result of dividing 12 by 12 and subtracting 15?","expected_code":"def solve(): return (12 \/ 12) - 15"}
+{"question":"What is the sum of 16 and 73?","expected_code":"def solve(): return 16 + 73"}
+{"question":"What is the sum of 36 and 28?","expected_code":"def solve(): return 36 + 28"}
+{"question":"What is the result of dividing 39 and 9?","expected_code":"def solve(): return 39 \/ 9"}
+{"question":"What is the sum of 47 and 59?","expected_code":"def solve(): return 47 + 59"}
+{"question":"Can you determine the result of subtracting 50 and 82?","expected_code":"def solve(): return 50 - 82"}
+{"question":"What is the product of 28 and 89?","expected_code":"def solve(): return 28 * 89"}
+{"question":"What is the sum of 4 and 64?","expected_code":"def solve(): return 4 + 64"}
+{"question":"What is the sum of 93 and 84?","expected_code":"def solve(): return 93 + 84"}
+{"question":"Can you determine the result of subtracting 5 and 13?","expected_code":"def solve(): return 5 - 13"}
+{"question":"What is the sum of 88 and 82?","expected_code":"def solve(): return 88 + 82"}
+{"question":"Compute the sum of of variables value1 and value2, and value3 by writing a Python function.","expected_code":"def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question":"What is the result of dividing 81 and 31?","expected_code":"def solve(): return 81 \/ 31"}
+{"question":"What is the result of dividing 43 and 19?","expected_code":"def solve(): return 43 \/ 19"}
+{"question":"What is the result of subtracting 65 and 11?","expected_code":"def solve(): return 65 - 11"}
+{"question":"What is the sum of 60 and 14?","expected_code":"def solve(): return 60 + 14"}
+{"question":"Can you determine the product of 8 and 65?","expected_code":"def solve(): return 8 * 65"}
+{"question":"What is the result of subtracting 67 and 16?","expected_code":"def solve(): return 67 - 16"}
+{"question":"Can you determine the result of subtracting 81 and 26?","expected_code":"def solve(): return 81 - 26"}
+{"question":"What is the result of dividing 58 and 100?","expected_code":"def solve(): return 100 \/ 58"}
+{"question":"What is the result of subtracting 89 and 49?","expected_code":"def solve(): return 89 - 49"}
+{"question":"Can you determine the sum of 3 and 28?","expected_code":"def solve(): return 3 + 28"}
+{"question":"What is the result of dividing 25 and 55?","expected_code":"def solve(): return 55 \/ 25"}
+{"question":"What is the result of dividing 23 and 63?","expected_code":"def solve(): return 63 \/ 23"}
+{"question":"What is the result of dividing 55 and 33?","expected_code":"def solve(): return 55 \/ 33"}
+{"question":"What is the product of 20 and 17?","expected_code":"def solve(): return 20 * 17"}
+{"question":"What is the result of dividing 62 and 91?","expected_code":"def solve(): return 91 \/ 62"}
+{"question":"What is the product of 84 and 69?","expected_code":"def solve(): return 84 * 69"}
+{"question":"What is the result of the square root of 169, multiplied by the sum of 10 and 15?","expected_code":"import math\ndef solve(): return math.sqrt(169) * (10 + 15)"}
+{"question":"What is the result of subtracting 8 and 30?","expected_code":"def solve(): return 8 - 30"}
+{"question":"Can you determine the sum of 31 and 44?","expected_code":"def solve(): return 31 + 44"}
+{"question":"Can you determine the result of subtracting 55 and 15?","expected_code":"def solve(): return 55 - 15"}
+{"question":"Compute the square of of a variable a using a Python function.","expected_code":"def solve(a):\n    return a ** 2"}
+{"question":"What is the result of dividing 45 and 20?","expected_code":"def solve(): return 45 \/ 20"}
+{"question":"What is the result of dividing 51 and 65?","expected_code":"def solve(): return 65 \/ 51"}
+{"question":"What is the result of subtracting 1 and 16?","expected_code":"def solve(): return 1 - 16"}
+{"question":"Can you determine the sum of 15 and 56?","expected_code":"def solve(): return 15 + 56"}
+{"question":"Multiply the square of 9 by the sum of 10 and 6, then subtract 150.","expected_code":"def solve(): return (9 ** 2 * (10 + 6)) - 150"}
+{"question":"What is the result of subtracting 23 and 42?","expected_code":"def solve(): return 23 - 42"}
+{"question":"Can you determine the result of subtracting 25 and 5?","expected_code":"def solve(): return 25 - 5"}
+{"question":"What is the product of 30 and 46?","expected_code":"def solve(): return 30 * 46"}
+{"question":"What is the result of subtracting 36 and 33?","expected_code":"def solve(): return 36 - 33"}
+{"question":"What is the result of dividing 81 and 35?","expected_code":"def solve(): return 81 \/ 35"}
+{"question":"What is the product of 50 and 81?","expected_code":"def solve(): return 50 * 81"}
+{"question":"What is the result of subtracting 21 and 83?","expected_code":"def solve(): return 21 - 83"}
+{"question":"What is the result of dividing 92 and 93?","expected_code":"def solve(): return 93 \/ 92"}
+{"question":"What is the result of dividing 91 and 17?","expected_code":"def solve(): return 91 \/ 17"}
+{"question":"Can you determine the result of subtracting 68 and 69?","expected_code":"def solve(): return 68 - 69"}
+{"question":"What is the result of dividing 29 and 82?","expected_code":"def solve(): return 82 \/ 29"}
+{"question":"Find the cube of of a variable p.","expected_code":"def solve(p):\n    return p ** 3"}
+{"question":"What is the product of 15 and 12?","expected_code":"def solve(): return 15 * 12"}
+{"question":"What is the product of 56 and 79?","expected_code":"def solve(): return 56 * 79"}
+{"question":"Can you determine the result of dividing 81 and 19?","expected_code":"def solve(): return 81 \/ 19"}
+{"question":"Can you determine the result of subtracting 71 and 21?","expected_code":"def solve(): return 71 - 21"}
+{"question":"What is the product of 90 and 72?","expected_code":"def solve(): return 90 * 72"}
+{"question":"What is the result of subtracting 45 and 92?","expected_code":"def solve(): return 45 - 92"}
+{"question":"What is the sum of 85 and 34?","expected_code":"def solve(): return 85 + 34"}
+{"question":"What is the result of dividing 76 and 93?","expected_code":"def solve(): return 93 \/ 76"}
+{"question":"What is the sum of 28 and 17?","expected_code":"def solve(): return 28 + 17"}
+{"question":"What is the product of 12 and 59?","expected_code":"def solve(): return 12 * 59"}
+{"question":"What is the result of subtracting 10 and 80?","expected_code":"def solve(): return 10 - 80"}
+{"question":"What is the sum of 79 and 99?","expected_code":"def solve(): return 79 + 99"}
+{"question":"Can you determine the result of subtracting 20 from 60 and dividing by 2?","expected_code":"def solve(): return (60 - 20) \/ 2"}
+{"question":"What is the sum of 64 and 36?","expected_code":"def solve(): return 64 + 36"}
+{"question":"What is the result of dividing 14 and 65?","expected_code":"def solve(): return 65 \/ 14"}
+{"question":"Can you determine the product of 61 and 95?","expected_code":"def solve(): return 61 * 95"}
+{"question":"What is the product of 70 and 59?","expected_code":"def solve(): return 70 * 59"}
+{"question":"What is the result of dividing 23 and 5?","expected_code":"def solve(): return 23 \/ 5"}
+{"question":"What is the product of 55 and 53?","expected_code":"def solve(): return 55 * 53"}
+{"question":"What is the sum of 27 and 85?","expected_code":"def solve(): return 27 + 85"}
+{"question":"What is the product of 8 and 17?","expected_code":"def solve(): return 8 * 17"}
+{"question":"What is the sum of 66 and 75?","expected_code":"def solve(): return 66 + 75"}
+{"question":"What is the sum of 11 and 83?","expected_code":"def solve(): return 11 + 83"}
+{"question":"Can you determine the result of dividing 45 and 60?","expected_code":"def solve(): return 60 \/ 45"}
+{"question":"What is the sum of 1 and 53?","expected_code":"def solve(): return 1 + 53"}
+{"question":"What is the result of subtracting 70 and 35?","expected_code":"def solve(): return 70 - 35"}
+{"question":"What is the sum of 33 and 7?","expected_code":"def solve(): return 33 + 7"}
+{"question":"What is the sum of 41 and 100?","expected_code":"def solve(): return 41 + 100"}
+{"question":"Can you determine the result of subtracting 67 and 18?","expected_code":"def solve(): return 67 - 18"}
+{"question":"What is the sum of 46 and 67?","expected_code":"def solve(): return 46 + 67"}
+{"question":"What is the sum of 77 and 13?","expected_code":"def solve(): return 77 + 13"}
+{"question":"What is the result of dividing 49 and 91?","expected_code":"def solve(): return 91 \/ 49"}
+{"question":"What is the product of 22 and 85?","expected_code":"def solve(): return 22 * 85"}
+{"question":"What is the sum of 89 and 58?","expected_code":"def solve(): return 89 + 58"}
+{"question":"What is the product of 96 and 18?","expected_code":"def solve(): return 96 * 18"}
+{"question":"What is the sum of 5 and 50?","expected_code":"def solve(): return 5 + 50"}
+{"question":"What is the result of dividing 69 and 27?","expected_code":"def solve(): return 69 \/ 27"}
+{"question":"What is the result of dividing 10 and 13?","expected_code":"def solve(): return 13 \/ 10"}
+{"question":"What is 10 raised to the power of 4, then divided by 50?","expected_code":"def solve(): return 10 ** 4 \/ 50"}
+{"question":"What is the result of dividing 99 and 99?","expected_code":"def solve(): return 99 \/ 99"}
+{"question":"Add 22 and 44.","expected_code":"def solve(): return 22 + 44"}
+{"question":"What is the product of 4 and 26?","expected_code":"def solve(): return 4 * 26"}
+{"question":"What is the result of dividing 11 and 34?","expected_code":"def solve(): return 34 \/ 11"}
+{"question":"Subtract 12 from 34.","expected_code":"def solve(): return 34 - 12"}
+{"question":"What is the result of dividing 34 and 99?","expected_code":"def solve(): return 99 \/ 34"}
+{"question":"What is the product of 46 and 16?","expected_code":"def solve(): return 46 * 16"}
+{"question":"Can you determine the result of subtracting 12 and 47?","expected_code":"def solve(): return 12 - 47"}
+{"question":"What is the product of 50 and 80?","expected_code":"def solve(): return 50 * 80"}
+{"question":"What is the product of 38 and 42?","expected_code":"def solve(): return 38 * 42"}
+{"question":"What is the sum of 10 and 78?","expected_code":"def solve(): return 10 + 78"}
+{"question":"What is the result of subtracting 33 and 12?","expected_code":"def solve(): return 33 - 12"}
+{"question":"What is the result of subtracting 59 and 32?","expected_code":"def solve(): return 59 - 32"}
+{"question":"What is the product of 85 and 39?","expected_code":"def solve(): return 85 * 39"}
+{"question":"What is the product of 54 and 46?","expected_code":"def solve(): return 54 * 46"}
+{"question":"What is the result of subtracting 73 and 29?","expected_code":"def solve(): return 73 - 29"}
+{"question":"What is the result of dividing 68 and 89?","expected_code":"def solve(): return 89 \/ 68"}
+{"question":"What is 2 raised to the power of 10?","expected_code":"def solve(): return 2 ** 10"}
+{"question":"What is the result of dividing 91 and 58?","expected_code":"def solve(): return 91 \/ 58"}
+{"question":"What is the sum of 34 and 48?","expected_code":"def solve(): return 34 + 48"}
+{"question":"What is the result of dividing 46 and 86?","expected_code":"def solve(): return 86 \/ 46"}
+{"question":"What is the product of 44 and 59?","expected_code":"def solve(): return 44 * 59"}
+{"question":"Can you determine the result of subtracting 14 and 13?","expected_code":"def solve(): return 14 - 13"}
+{"question":"What is the sum of 63 and 29?","expected_code":"def solve(): return 63 + 29"}
+{"question":"What is the sum of 18 and 63?","expected_code":"def solve(): return 18 + 63"}
+{"question":"What is the result of dividing 7 and 77?","expected_code":"def solve(): return 77 \/ 7"}
+{"question":"Can you determine the result of subtracting 76 and 69?","expected_code":"def solve(): return 76 - 69"}
+{"question":"What is the result of dividing 74 and 58?","expected_code":"def solve(): return 74 \/ 58"}
+{"question":"What is the result of subtracting 7 and 98?","expected_code":"def solve(): return 7 - 98"}
+{"question":"What is the product of 32 and 32?","expected_code":"def solve(): return 32 * 32"}
+{"question":"What is the result of subtracting 98 and 83?","expected_code":"def solve(): return 98 - 83"}
+{"question":"What is the result of dividing 70 and 26?","expected_code":"def solve(): return 70 \/ 26"}
+{"question":"What is the result of dividing 91 and 16?","expected_code":"def solve(): return 91 \/ 16"}
+{"question":"What is the product of 13 and 50?","expected_code":"def solve(): return 13 * 50"}
+{"question":"What is the sum of 35 and 8?","expected_code":"def solve(): return 35 + 8"}
+{"question":"What is the result of subtracting 94 and 42?","expected_code":"def solve(): return 94 - 42"}
+{"question":"What is the product of 28 and 52?","expected_code":"def solve(): return 28 * 52"}
+{"question":"Can you determine the product of 48 and 34?","expected_code":"def solve(): return 48 * 34"}
+{"question":"Can you determine the result of dividing 23 and 44?","expected_code":"def solve(): return 44 \/ 23"}
+{"question":"What is the result of subtracting 83 and 28?","expected_code":"def solve(): return 83 - 28"}
+{"question":"Create a function to calculate the difference between of variables a and b.","expected_code":"def solve(a, b):\n    return a - b"}
+{"question":"Can you determine the sum of 49 and 20?","expected_code":"def solve(): return 49 + 20"}
+{"question":"What is the sum of 2 and 56?","expected_code":"def solve(): return 2 + 56"}
+{"question":"Determine the product of of variables num1 and num2.","expected_code":"def solve(num1, num2):\n    return num1 * num2"}
+{"question":"What is the product of 21 and 29?","expected_code":"def solve(): return 21 * 29"}
+{"question":"Create a function to calculate the quotient of of variables value1 and value2, and value3.","expected_code":"def solve(value1, value2, value3):\n    return value1 \/ value2 \/ value3"}
+{"question":"Can you determine the result of dividing 72 and 31?","expected_code":"def solve(): return 72 \/ 31"}
+{"question":"Find the square of 25, then add 100, and divide by 5.","expected_code":"def solve(): return (25 ** 2 + 100) \/ 5"}
+{"question":"What is the product of 4 and 62?","expected_code":"def solve(): return 4 * 62"}
+{"question":"What is the product of 100 and 71?","expected_code":"def solve(): return 100 * 71"}
+{"question":"What is the result of subtracting 49 and 95?","expected_code":"def solve(): return 49 - 95"}
+{"question":"Can you determine the product of 48 and 9?","expected_code":"def solve(): return 48 * 9"}
+{"question":"What is the product of 81 and 93?","expected_code":"def solve(): return 81 * 93"}
+{"question":"What is the result of dividing 29 and 27?","expected_code":"def solve(): return 29 \/ 27"}
+{"question":"What is the product of 15 and 32?","expected_code":"def solve(): return 15 * 32"}
+{"question":"What is the result of subtracting 59 and 95?","expected_code":"def solve(): return 59 - 95"}
+{"question":"Create a function to calculate the quotient of of variables p and q.","expected_code":"def solve(p, q):\n    return p \/ q"}
+{"question":"What is the sum of 24 and 78?","expected_code":"def solve(): return 24 + 78"}
+{"question":"What is the product of 38 and 73?","expected_code":"def solve(): return 38 * 73"}
+{"question":"What is the sum of 18 and 83?","expected_code":"def solve(): return 18 + 83"}
+{"question":"What is the product of 24 and 54?","expected_code":"def solve(): return 24 * 54"}
+{"question":"Can you determine the sum of 8 and 27?","expected_code":"def solve(): return 8 + 27"}
+{"question":"What is the result of dividing 77 and 28?","expected_code":"def solve(): return 77 \/ 28"}
+{"question":"Multiply 7 by 13.","expected_code":"def solve(): return 7 * 13"}
+{"question":"What is the result of subtracting 9 and 33?","expected_code":"def solve(): return 9 - 33"}
+{"question":"What is the result of subtracting 47 and 25?","expected_code":"def solve(): return 47 - 25"}
+{"question":"What is the result of subtracting 19 and 44?","expected_code":"def solve(): return 19 - 44"}
+{"question":"What is the product of 96 and 26?","expected_code":"def solve(): return 96 * 26"}
+{"question":"What is the result of dividing 97 and 75?","expected_code":"def solve(): return 97 \/ 75"}
+{"question":"What is the result of dividing 62 and 58?","expected_code":"def solve(): return 62 \/ 58"}
+{"question":"Can you determine the sum of 32 and 43?","expected_code":"def solve(): return 32 + 43"}
+{"question":"What is the product of 82 and 59?","expected_code":"def solve(): return 82 * 59"}
+{"question":"What is the sum of 28 and 26?","expected_code":"def solve(): return 28 + 26"}
+{"question":"What is the result of dividing 16 and 23?","expected_code":"def solve(): return 23 \/ 16"}
+{"question":"Find the difference between of variables alpha and beta.","expected_code":"def solve(alpha, beta):\n    return alpha - beta"}
+{"question":"Can you determine the sum of 23 and 82?","expected_code":"def solve(): return 23 + 82"}
+{"question":"What is the result of subtracting 97 and 25?","expected_code":"def solve(): return 97 - 25"}
+{"question":"What is the sum of 69 and 58?","expected_code":"def solve(): return 69 + 58"}
+{"question":"What is the sum of 63 and 53?","expected_code":"def solve(): return 63 + 53"}
+{"question":"What is the sum of 25 and 91?","expected_code":"def solve(): return 25 + 91"}
+{"question":"Determine the cube of of a variable value1 using a Python function.","expected_code":"def solve(value1):\n    return value1 ** 3"}
+{"question":"Create a function to calculate the modulus of of variables p and q.","expected_code":"def solve(p, q):\n    return p % q"}
+{"question":"What is the result of subtracting 50 and 25?","expected_code":"def solve(): return 50 - 25"}
+{"question":"What is the sum of 74 and 23?","expected_code":"def solve(): return 74 + 23"}
+{"question":"What is the result of the sum of the product of 5 and 12 with the square of 8, then subtract the cube of 4?","expected_code":"def solve(): return (5 * 12 + 8 ** 2) - 4 ** 3"}
+{"question":"What is the product of 100 and 14?","expected_code":"def solve(): return 100 * 14"}
+{"question":"What is the result of dividing 63 and 78?","expected_code":"def solve(): return 78 \/ 63"}
+{"question":"What is the result of dividing 49 and 66?","expected_code":"def solve(): return 66 \/ 49"}
+{"question":"What is the product of 96 and 90?","expected_code":"def solve(): return 96 * 90"}
+{"question":"Can you determine the result of dividing 73 and 16?","expected_code":"def solve(): return 73 \/ 16"}
+{"question":"What is the product of 29 and 23?","expected_code":"def solve(): return 29 * 23"}
+{"question":"What is the result of subtracting 49 and 19?","expected_code":"def solve(): return 49 - 19"}
+{"question":"What is the result of dividing 88 and 26?","expected_code":"def solve(): return 88 \/ 26"}
+{"question":"Can you determine the sum of 51 and 69?","expected_code":"def solve(): return 51 + 69"}
+{"question":"Find the difference between of variables p and q.","expected_code":"def solve(p, q):\n    return p - q"}
+{"question":"What is the result of subtracting 27 and 92?","expected_code":"def solve(): return 27 - 92"}
+{"question":"What is the product of 58 and 48?","expected_code":"def solve(): return 58 * 48"}
+{"question":"What is the sum of 41 and 10?","expected_code":"def solve(): return 41 + 10"}
+{"question":"What is 9 * 5?","expected_code":"def solve(): return 9 * 5"}
+{"question":"What is the result of dividing 42 and 96?","expected_code":"def solve(): return 96 \/ 42"}
+{"question":"What is the result of dividing 89 and 45?","expected_code":"def solve(): return 89 \/ 45"}
+{"question":"What is the result of 50 multiplied by the square of 9?","expected_code":"def solve(): return 50 * 9 ** 2"}
+{"question":"What is the result of dividing 11 and 8?","expected_code":"def solve(): return 11 \/ 8"}
+{"question":"Can you determine the product of 39 and 39?","expected_code":"def solve(): return 39 * 39"}
+{"question":"What is the result of subtracting 45 from 90?","expected_code":"def solve(): return 90 - 45"}
+{"question":"Write a Python function for the sum of of variables m and n.","expected_code":"def solve(m, n):\n    return m + n"}
+{"question":"Create a function to calculate the sum of of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a + b + c"}
+{"question":"What is the sum of 4 and 72?","expected_code":"def solve(): return 4 + 72"}
+{"question":"What is the result of dividing 26 and 57?","expected_code":"def solve(): return 57 \/ 26"}
+{"question":"What is the result of subtracting 88 and 85?","expected_code":"def solve(): return 88 - 85"}
+{"question":"What is the result of subtracting 23 and 28?","expected_code":"def solve(): return 23 - 28"}
+{"question":"What is the sum of 27 and 65?","expected_code":"def solve(): return 27 + 65"}
+{"question":"Can you determine the result of dividing 85 and 44?","expected_code":"def solve(): return 85 \/ 44"}
+{"question":"What is the product of 31 and 6?","expected_code":"def solve(): return 31 * 6"}
+{"question":"Determine the square of of a variable alpha.","expected_code":"def solve(alpha):\n    return alpha ** 2"}
+{"question":"Can you determine the product of 75 and 54?","expected_code":"def solve(): return 75 * 54"}
+{"question":"What is the product of 67 and 3?","expected_code":"def solve(): return 67 * 3"}
+{"question":"Can you determine the result of subtracting 61 and 29?","expected_code":"def solve(): return 61 - 29"}
+{"question":"What is the product of 15 and 7?","expected_code":"def solve(): return 15 * 7"}
+{"question":"What is the result of subtracting 49 and 65?","expected_code":"def solve(): return 49 - 65"}
+{"question":"What is the result of subtracting 14 and 4?","expected_code":"def solve(): return 14 - 4"}
+{"question":"What is the product of 55 and 36?","expected_code":"def solve(): return 55 * 36"}
+{"question":"What is 50 raised to the power of 2, divided by the cube of 5, and then added to 20?","expected_code":"def solve(): return (50 ** 2 \/ 5 ** 3) + 20"}
+{"question":"What is the result of dividing 84 and 36?","expected_code":"def solve(): return 84 \/ 36"}
+{"question":"What is the result of dividing 10 and 30?","expected_code":"def solve(): return 30 \/ 10"}
+{"question":"What is the sum of 83 and 15?","expected_code":"def solve(): return 83 + 15"}
+{"question":"What is the result of subtracting 37 and 85?","expected_code":"def solve(): return 37 - 85"}
+{"question":"Can you determine the result of dividing 35 and 25?","expected_code":"def solve(): return 35 \/ 25"}
+{"question":"What is the product of 75 and 87?","expected_code":"def solve(): return 75 * 87"}
+{"question":"What is the product of 68 and 22?","expected_code":"def solve(): return 68 * 22"}
+{"question":"What is the sum of 99 and 62?","expected_code":"def solve(): return 99 + 62"}
+{"question":"Can you determine the result of dividing 47 and 17?","expected_code":"def solve(): return 47 \/ 17"}
+{"question":"What is the product of 34 and 91?","expected_code":"def solve(): return 34 * 91"}
+{"question":"What is the product of 80 and 14?","expected_code":"def solve(): return 80 * 14"}
+{"question":"What is the result of subtracting 78 and 78?","expected_code":"def solve(): return 78 - 78"}
+{"question":"What is the product of 42 and 81?","expected_code":"def solve(): return 42 * 81"}
+{"question":"What is the product of 19 and 5?","expected_code":"def solve(): return 19 * 5"}
+{"question":"What is the result of dividing 45 and 7?","expected_code":"def solve(): return 45 \/ 7"}
+{"question":"What is the result of dividing 82 and 37?","expected_code":"def solve(): return 82 \/ 37"}
+{"question":"What is the result of subtracting 82 and 71?","expected_code":"def solve(): return 82 - 71"}
+{"question":"What is the result of dividing 86 and 65?","expected_code":"def solve(): return 86 \/ 65"}
+{"question":"What is the result of dividing 82 and 89?","expected_code":"def solve(): return 89 \/ 82"}
+{"question":"What is the sum of 44 and 2?","expected_code":"def solve(): return 44 + 2"}
+{"question":"Can you determine the sum of 47 and 93?","expected_code":"def solve(): return 47 + 93"}
+{"question":"What is the sum of 53 and 51?","expected_code":"def solve(): return 53 + 51"}
+{"question":"What is the result of subtracting 1 and 70?","expected_code":"def solve(): return 1 - 70"}
+{"question":"What is the result of subtracting 38 and 1?","expected_code":"def solve(): return 38 - 1"}
+{"question":"What is the sum of 1 and 28?","expected_code":"def solve(): return 1 + 28"}
+{"question":"What is the result of dividing 89 and 7?","expected_code":"def solve(): return 89 \/ 7"}
+{"question":"Multiply the square of 10 by the sum of 7 and 9, then subtract the square root of 64.","expected_code":"import math\ndef solve(): return (10 ** 2 * (7 + 9)) - math.sqrt(64)"}
+{"question":"What is the result of subtracting 14 and 35?","expected_code":"def solve(): return 14 - 35"}
+{"question":"What is the sum of 47 and 78?","expected_code":"def solve(): return 47 + 78"}
+{"question":"What is the product of 84 and 40?","expected_code":"def solve(): return 84 * 40"}
+{"question":"What is the result of dividing 11 and 51?","expected_code":"def solve(): return 51 \/ 11"}
+{"question":"What is the result of subtracting 44 and 95?","expected_code":"def solve(): return 44 - 95"}
+{"question":"What is the result of subtracting 70 and 29?","expected_code":"def solve(): return 70 - 29"}
+{"question":"What is the result of subtracting 7 and 14?","expected_code":"def solve(): return 7 - 14"}
+{"question":"What is the product of 30 and 84?","expected_code":"def solve(): return 30 * 84"}
+{"question":"What is the product of 71 and 42?","expected_code":"def solve(): return 71 * 42"}
+{"question":"What is the product of 66 and 7?","expected_code":"def solve(): return 66 * 7"}
+{"question":"What is the result of subtracting 66 and 76?","expected_code":"def solve(): return 66 - 76"}
+{"question":"What is the result of subtracting 90 and 12?","expected_code":"def solve(): return 90 - 12"}
+{"question":"What is the product of 63 and 53?","expected_code":"def solve(): return 63 * 53"}
+{"question":"What is the result of dividing 81 and 63?","expected_code":"def solve(): return 81 \/ 63"}
+{"question":"Find the sum of of variables alpha and beta.","expected_code":"def solve(alpha, beta):\n    return alpha + beta"}
+{"question":"What is the product of 66 and 31?","expected_code":"def solve(): return 66 * 31"}
+{"question":"What is the result of dividing 91 and 12?","expected_code":"def solve(): return 91 \/ 12"}
+{"question":"What is the sum of 71 and 41?","expected_code":"def solve(): return 71 + 41"}
+{"question":"What is the result of subtracting 26 and 67?","expected_code":"def solve(): return 26 - 67"}
+{"question":"What is the product of 34 and 57?","expected_code":"def solve(): return 34 * 57"}
+{"question":"What is the result of dividing 54 and 12?","expected_code":"def solve(): return 54 \/ 12"}
+{"question":"Calculate the square of 4 added to the product of 15 and 6, then divide by 20.","expected_code":"def solve(): return (4 ** 2 + 15 * 6) \/ 20"}
+{"question":"Can you determine the result of subtracting 50 and 91?","expected_code":"def solve(): return 50 - 91"}
+{"question":"What is the result of dividing 83 and 76?","expected_code":"def solve(): return 83 \/ 76"}
+{"question":"What is the result of subtracting 31 and 73?","expected_code":"def solve(): return 31 - 73"}
+{"question":"What is the product of 60 and 61?","expected_code":"def solve(): return 60 * 61"}
+{"question":"Find the sum of the product of 18 and 3, and the square of 11, then divide by 10.","expected_code":"def solve(): return (18 * 3 + 11 ** 2) \/ 10"}
+{"question":"Can you determine the sum of 100 and 28?","expected_code":"def solve(): return 100 + 28"}
+{"question":"Can you determine the product of 96 and 12?","expected_code":"def solve(): return 96 * 12"}
+{"question":"What is the sum of 64 and 88?","expected_code":"def solve(): return 64 + 88"}
+{"question":"What is the sum of 54 and 27?","expected_code":"def solve(): return 54 + 27"}
+{"question":"What is the product of 63 and 71?","expected_code":"def solve(): return 63 * 71"}
+{"question":"What is the sum of 33 and 48?","expected_code":"def solve(): return 33 + 48"}
+{"question":"What is the result of subtracting 50 and 60?","expected_code":"def solve(): return 50 - 60"}
+{"question":"What is the result of dividing 55 and 8?","expected_code":"def solve(): return 55 \/ 8"}
+{"question":"What is the result of dividing 74 and 45?","expected_code":"def solve(): return 74 \/ 45"}
+{"question":"What is the product of 50 and 30?","expected_code":"def solve(): return 50 * 30"}
+{"question":"What is the product of 60 and 44?","expected_code":"def solve(): return 60 * 44"}
+{"question":"What is the result of dividing 96 and 15?","expected_code":"def solve(): return 96 \/ 15"}
+{"question":"What is the result of dividing 9 and 26?","expected_code":"def solve(): return 26 \/ 9"}
+{"question":"Can you determine the sum of 71 and 21?","expected_code":"def solve(): return 71 + 21"}
+{"question":"What is the result of dividing 18 and 52?","expected_code":"def solve(): return 52 \/ 18"}
+{"question":"Can you determine the sum of 66 and 62?","expected_code":"def solve(): return 66 + 62"}
+{"question":"What is the product of 43 and 14?","expected_code":"def solve(): return 43 * 14"}
+{"question":"What is the result of dividing 4 and 89?","expected_code":"def solve(): return 89 \/ 4"}
+{"question":"Can you determine the result of subtracting 90 and 6?","expected_code":"def solve(): return 90 - 6"}
+{"question":"Can you determine the sum of 29 and 26?","expected_code":"def solve(): return 29 + 26"}
+{"question":"What is the sum of 27 and 7?","expected_code":"def solve(): return 27 + 7"}
+{"question":"What is the result of dividing 72 and 6?","expected_code":"def solve(): return 72 \/ 6"}
+{"question":"Can you determine the product of 83 and 88?","expected_code":"def solve(): return 83 * 88"}
+{"question":"What is the result of subtracting 46 and 53?","expected_code":"def solve(): return 46 - 53"}
+{"question":"What is the product of 18 and 66?","expected_code":"def solve(): return 18 * 66"}
+{"question":"What is the sum of 93 and 23?","expected_code":"def solve(): return 93 + 23"}
+{"question":"What is the sum of 68 and 9?","expected_code":"def solve(): return 68 + 9"}
+{"question":"What is the sum of 72 and 100?","expected_code":"def solve(): return 72 + 100"}
+{"question":"What is the sum of 38 and 19?","expected_code":"def solve(): return 38 + 19"}
+{"question":"What is the product of 50 and 90?","expected_code":"def solve(): return 50 * 90"}
+{"question":"Can you determine the result of dividing 33 and 15?","expected_code":"def solve(): return 33 \/ 15"}
+{"question":"Can you determine the result of subtracting 16 and 1?","expected_code":"def solve(): return 16 - 1"}
+{"question":"What is the result of subtracting 6 and 35?","expected_code":"def solve(): return 6 - 35"}
+{"question":"What is the result of subtracting 63 and 33?","expected_code":"def solve(): return 63 - 33"}
+{"question":"What is the result of subtracting 42 and 35?","expected_code":"def solve(): return 42 - 35"}
+{"question":"Create a function to calculate the quotient of of variables p and q, and r.","expected_code":"def solve(p, q, r):\n    return p \/ q \/ r"}
+{"question":"What is the product of 62 and 10?","expected_code":"def solve(): return 62 * 10"}
+{"question":"What is the product of 43 and 61?","expected_code":"def solve(): return 43 * 61"}
+{"question":"What is the sum of 53 and 68?","expected_code":"def solve(): return 53 + 68"}
+{"question":"What is the product of 55 and 49?","expected_code":"def solve(): return 55 * 49"}
+{"question":"What is the result of subtracting 88 and 30?","expected_code":"def solve(): return 88 - 30"}
+{"question":"What is the result of subtracting 23 and 29?","expected_code":"def solve(): return 23 - 29"}
+{"question":"What is the result of dividing 62 and 24?","expected_code":"def solve(): return 62 \/ 24"}
+{"question":"What is the result of dividing 82 and 46?","expected_code":"def solve(): return 82 \/ 46"}
+{"question":"What is the sum of 24 and 32?","expected_code":"def solve(): return 24 + 32"}
+{"question":"What is the product of 39 and 97?","expected_code":"def solve(): return 39 * 97"}
+{"question":"What is the sum of 34 and 30?","expected_code":"def solve(): return 34 + 30"}
+{"question":"Can you determine the result of dividing 33 and 8?","expected_code":"def solve(): return 33 \/ 8"}
+{"question":"What is the sum of 50 and 19?","expected_code":"def solve(): return 50 + 19"}
+{"question":"What is the result of dividing 50 and 14?","expected_code":"def solve(): return 50 \/ 14"}
+{"question":"What is the result of dividing 2 and 77?","expected_code":"def solve(): return 77 \/ 2"}
+{"question":"What is the result of dividing 19 and 88?","expected_code":"def solve(): return 88 \/ 19"}
+{"question":"What is the product of 88 and 41?","expected_code":"def solve(): return 88 * 41"}
+{"question":"What is the result of dividing 9 and 56?","expected_code":"def solve(): return 56 \/ 9"}
+{"question":"What is the product of 61 and 6?","expected_code":"def solve(): return 61 * 6"}
+{"question":"What is the result of dividing 28 and 30?","expected_code":"def solve(): return 30 \/ 28"}
+{"question":"What is the product of 18 and 37?","expected_code":"def solve(): return 18 * 37"}
+{"question":"What is the sum of 39 and 52?","expected_code":"def solve(): return 39 + 52"}
+{"question":"What is the product of 57 and 31?","expected_code":"def solve(): return 57 * 31"}
+{"question":"What is the product of 26 and 9?","expected_code":"def solve(): return 26 * 9"}
+{"question":"What is the result of dividing 41 and 84?","expected_code":"def solve(): return 84 \/ 41"}
+{"question":"What is the sum of 47 and 68?","expected_code":"def solve(): return 47 + 68"}
+{"question":"What is the result of dividing 33 and 2?","expected_code":"def solve(): return 33 \/ 2"}
+{"question":"What is the result of subtracting 65 and 28?","expected_code":"def solve(): return 65 - 28"}
+{"question":"Can you determine the product of 95 and 72?","expected_code":"def solve(): return 95 * 72"}
+{"question":"Can you determine the product of 61 and 26?","expected_code":"def solve(): return 61 * 26"}
+{"question":"What is the sum of 40 and 17?","expected_code":"def solve(): return 40 + 17"}
+{"question":"What is the product of 78 and 44?","expected_code":"def solve(): return 78 * 44"}
+{"question":"Add 9, 13, and 15.","expected_code":"def solve(): return 9 + 13 + 15"}
+{"question":"What is the result of subtracting 43 and 39?","expected_code":"def solve(): return 43 - 39"}
+{"question":"What is the result of subtracting 60 and 77?","expected_code":"def solve(): return 60 - 77"}
+{"question":"What is the product of 42 and 43?","expected_code":"def solve(): return 42 * 43"}
+{"question":"What is the result of subtracting 66 and 82?","expected_code":"def solve(): return 66 - 82"}
+{"question":"What is the product of 18 and the difference between the cube of 4 and the square of 6?","expected_code":"def solve(): return 18 * (4 ** 3 - 6 ** 2)"}
+{"question":"What is the result of subtracting 87 and 69?","expected_code":"def solve(): return 87 - 69"}
+{"question":"Can you determine the product of 55 and 83?","expected_code":"def solve(): return 55 * 83"}
+{"question":"What is the result of dividing 39 and 85?","expected_code":"def solve(): return 85 \/ 39"}
+{"question":"What is the result of dividing 5 and 90?","expected_code":"def solve(): return 90 \/ 5"}
+{"question":"What is the result of subtracting 87 and 38?","expected_code":"def solve(): return 87 - 38"}
+{"question":"What is the result of subtracting 83 and 2?","expected_code":"def solve(): return 83 - 2"}
+{"question":"What is the result of dividing 35 and 64?","expected_code":"def solve(): return 64 \/ 35"}
+{"question":"What is the product of 71 and 97?","expected_code":"def solve(): return 71 * 97"}
+{"question":"What is the product of 37 and 17?","expected_code":"def solve(): return 37 * 17"}
+{"question":"What is the sum of 73 and 100?","expected_code":"def solve(): return 73 + 100"}
+{"question":"Can you determine the product of 54 and 47?","expected_code":"def solve(): return 54 * 47"}
+{"question":"What is the result of dividing 77 and 57?","expected_code":"def solve(): return 77 \/ 57"}
+{"question":"Can you determine the result of subtracting 11 and 47?","expected_code":"def solve(): return 11 - 47"}
+{"question":"What is the result of subtracting 78 and 49?","expected_code":"def solve(): return 78 - 49"}
+{"question":"What is the sum of 73 and 50?","expected_code":"def solve(): return 73 + 50"}
+{"question":"What is the result of dividing 6 and 37?","expected_code":"def solve(): return 37 \/ 6"}
+{"question":"Can you determine the product of 40 and 93?","expected_code":"def solve(): return 40 * 93"}
+{"question":"What is the sum of 33 and 56?","expected_code":"def solve(): return 33 + 56"}
+{"question":"What is the product of 66 and 87?","expected_code":"def solve(): return 66 * 87"}
+{"question":"What is the product of 58 and 27?","expected_code":"def solve(): return 58 * 27"}
+{"question":"What is the product of 4 and 49?","expected_code":"def solve(): return 4 * 49"}
+{"question":"What is the result of dividing 4 and 62?","expected_code":"def solve(): return 62 \/ 4"}
+{"question":"What is 5 raised to the power of 2?","expected_code":"def solve(): return 5 ** 2"}
+{"question":"Can you determine the result of dividing 56 and 19?","expected_code":"def solve(): return 56 \/ 19"}
+{"question":"What is the product of 62 and 85?","expected_code":"def solve(): return 62 * 85"}
+{"question":"Calculate the square root of 256.","expected_code":"import math\ndef solve(): return math.sqrt(256)"}
+{"question":"What is the result of dividing 17 and 3?","expected_code":"def solve(): return 17 \/ 3"}
+{"question":"Can you determine the result of dividing 54 and 38?","expected_code":"def solve(): return 54 \/ 38"}
+{"question":"What is the result of subtracting 97 and 47?","expected_code":"def solve(): return 97 - 47"}
+{"question":"What is the result of subtracting 46 and 55?","expected_code":"def solve(): return 46 - 55"}
+{"question":"Can you determine the product of 61 and 82?","expected_code":"def solve(): return 61 * 82"}
+{"question":"Multiply 14 by 6.","expected_code":"def solve(): return 14 * 6"}
+{"question":"What is the result of dividing 65 and 50?","expected_code":"def solve(): return 65 \/ 50"}
+{"question":"What is the result of dividing 100 and 97?","expected_code":"def solve(): return 100 \/ 97"}
+{"question":"Multiply 8, 9, and 2.","expected_code":"def solve(): return 8 * 9 * 2"}
+{"question":"What is the result of subtracting 85 and 99?","expected_code":"def solve(): return 85 - 99"}
+{"question":"What is the result of dividing 84 and 12?","expected_code":"def solve(): return 84 \/ 12"}
+{"question":"What is the product of 32 and 69?","expected_code":"def solve(): return 32 * 69"}
+{"question":"What is the product of 100 and 93?","expected_code":"def solve(): return 100 * 93"}
+{"question":"What is the result of dividing 10 and 93?","expected_code":"def solve(): return 93 \/ 10"}
+{"question":"What is the result of dividing 6 and 5?","expected_code":"def solve(): return 6 \/ 5"}
+{"question":"What is the product of 24 and 97?","expected_code":"def solve(): return 24 * 97"}
+{"question":"What is the sum of 45 and 41?","expected_code":"def solve(): return 45 + 41"}
+{"question":"What is the result of subtracting 60 and 14?","expected_code":"def solve(): return 60 - 14"}
+{"question":"What is the sum of 55 and 81?","expected_code":"def solve(): return 55 + 81"}
+{"question":"What is the result of subtracting 67 and 82?","expected_code":"def solve(): return 67 - 82"}
+{"question":"What is the sum of 74 and 36?","expected_code":"def solve(): return 74 + 36"}
+{"question":"What is the product of 82 and 42?","expected_code":"def solve(): return 82 * 42"}
+{"question":"What is the result of subtracting 2 and 97?","expected_code":"def solve(): return 2 - 97"}
+{"question":"Find the square of 16, then subtract the product of 5 and 8, and divide by 2.","expected_code":"def solve(): return (16 ** 2 - 5 * 8) \/ 2"}
+{"question":"What is the product of 75 and 26?","expected_code":"def solve(): return 75 * 26"}
+{"question":"What is the result of dividing 68 and 56?","expected_code":"def solve(): return 68 \/ 56"}
+{"question":"What is the result of subtracting 6 and 73?","expected_code":"def solve(): return 6 - 73"}
+{"question":"What is the sum of 32 and 46?","expected_code":"def solve(): return 32 + 46"}
+{"question":"What is the result of dividing 74 and 87?","expected_code":"def solve(): return 87 \/ 74"}
+{"question":"What is the product of 74 and 95?","expected_code":"def solve(): return 74 * 95"}
+{"question":"Can you determine the product of 92 and 86?","expected_code":"def solve(): return 92 * 86"}
+{"question":"What is the sum of 23 and 16?","expected_code":"def solve(): return 23 + 16"}
+{"question":"What is the result of dividing 3 and 3?","expected_code":"def solve(): return 3 \/ 3"}
+{"question":"Compute the difference between of variables p and q using a Python function.","expected_code":"def solve(p, q):\n    return p - q"}
+{"question":"What is the sum of the product of 10 and 8 with the square of 7, then divide by 12?","expected_code":"def solve(): return (10 * 8 + 7 ** 2) \/ 12"}
+{"question":"What is the sum of 83 and 20?","expected_code":"def solve(): return 83 + 20"}
+{"question":"What is the result of subtracting 77 and 3?","expected_code":"def solve(): return 77 - 3"}
+{"question":"Can you determine the result of subtracting 14 and 1?","expected_code":"def solve(): return 14 - 1"}
+{"question":"Can you determine the product of 82 and 34?","expected_code":"def solve(): return 82 * 34"}
+{"question":"What is the result of subtracting 60 and 27?","expected_code":"def solve(): return 60 - 27"}
+{"question":"Can you determine the product of 7 and 62?","expected_code":"def solve(): return 7 * 62"}
+{"question":"What is the result of dividing 61 and 53?","expected_code":"def solve(): return 61 \/ 53"}
+{"question":"What is the sum of 54 and 90?","expected_code":"def solve(): return 54 + 90"}
+{"question":"What is the sum of 10 and 15?","expected_code":"def solve(): return 10 + 15"}
+{"question":"What is the product of 64 and 79?","expected_code":"def solve(): return 64 * 79"}
+{"question":"What is the product of 76 and 65?","expected_code":"def solve(): return 76 * 65"}
+{"question":"What is the sum of 80 and 5?","expected_code":"def solve(): return 80 + 5"}
+{"question":"What is the result of dividing 20 and 10?","expected_code":"def solve(): return 20 \/ 10"}
+{"question":"Can you determine the result of subtracting 72 and 17?","expected_code":"def solve(): return 72 - 17"}
+{"question":"What is the result of subtracting 46 and 66?","expected_code":"def solve(): return 46 - 66"}
+{"question":"What is the result of dividing 96 and 1?","expected_code":"def solve(): return 96 \/ 1"}
+{"question":"What is the product of 16 and the sum of the square of 7 and the cube of 2?","expected_code":"def solve(): return 16 * (7 ** 2 + 2 ** 3)"}
+{"question":"What is the result of dividing 87 and 21?","expected_code":"def solve(): return 87 \/ 21"}
+{"question":"What is the result of dividing 32 and 81?","expected_code":"def solve(): return 81 \/ 32"}
+{"question":"Determine the quotient of of variables alpha and beta.","expected_code":"def solve(alpha, beta):\n    return alpha \/ beta"}
+{"question":"What is the result of dividing 47 and 6?","expected_code":"def solve(): return 47 \/ 6"}
+{"question":"What is the sum of 28 and 53?","expected_code":"def solve(): return 28 + 53"}
+{"question":"What is the quotient of of variables value1 and value2, and value3? Implement it in Python.","expected_code":"def solve(value1, value2, value3):\n    return value1 \/ value2 \/ value3"}
+{"question":"What is the product of 23 and 96?","expected_code":"def solve(): return 23 * 96"}
+{"question":"Write a Python function for the product of of variables m and n.","expected_code":"def solve(m, n):\n    return m * n"}
+{"question":"What is the sum of 11 and 3?","expected_code":"def solve(): return 11 + 3"}
+{"question":"Square the number 8.","expected_code":"def solve(): return 8 ** 2"}
+{"question":"Can you determine the product of 38 and 77?","expected_code":"def solve(): return 38 * 77"}
+{"question":"Can you determine the result of subtracting 69 and 80?","expected_code":"def solve(): return 69 - 80"}
+{"question":"Determine the difference between of variables a and b.","expected_code":"def solve(a, b):\n    return a - b"}
+{"question":"Add the cube of 4 to the product of 11 and 8, then divide by 3.","expected_code":"def solve(): return (4 ** 3 + 11 * 8) \/ 3"}
+{"question":"What is the square of the difference between 10 and 2?","expected_code":"def solve(): return (10 - 2) ** 2"}
+{"question":"What is the sum of 96 and 69?","expected_code":"def solve(): return 96 + 69"}
+{"question":"What is the result of dividing 68 and 39?","expected_code":"def solve(): return 68 \/ 39"}
+{"question":"What is the result of dividing 75 and 14?","expected_code":"def solve(): return 75 \/ 14"}
+{"question":"What is the result of dividing 69 and 19?","expected_code":"def solve(): return 69 \/ 19"}
+{"question":"What is the product of 3 and 45?","expected_code":"def solve(): return 3 * 45"}
+{"question":"Find the result of dividing the square of 12 by the square of 4.","expected_code":"def solve(): return (12 ** 2) \/ (4 ** 2)"}
+{"question":"What is the product of 57 and 19?","expected_code":"def solve(): return 57 * 19"}
+{"question":"What is the result of subtracting 56 and 39?","expected_code":"def solve(): return 56 - 39"}
+{"question":"What is the result of dividing 24 and 88?","expected_code":"def solve(): return 88 \/ 24"}
+{"question":"What is the product of 65 and 23?","expected_code":"def solve(): return 65 * 23"}
+{"question":"What is the result of subtracting 18 and 3?","expected_code":"def solve(): return 18 - 3"}
+{"question":"What is the result of subtracting 54 and 85?","expected_code":"def solve(): return 54 - 85"}
+{"question":"Can you determine the result of dividing 1 and 94?","expected_code":"def solve(): return 94 \/ 1"}
+{"question":"Can you determine the product of 55 and 67?","expected_code":"def solve(): return 55 * 67"}
+{"question":"What is the sum of 27 and 93?","expected_code":"def solve(): return 27 + 93"}
+{"question":"What is the product of 94 and 67?","expected_code":"def solve(): return 94 * 67"}
+{"question":"Can you determine the result of dividing 58 and 5?","expected_code":"def solve(): return 58 \/ 5"}
+{"question":"What is the result of subtracting 20 and 57?","expected_code":"def solve(): return 20 - 57"}
+{"question":"What is the sum of 74 and 7?","expected_code":"def solve(): return 74 + 7"}
+{"question":"What is the sum of 4 and 36?","expected_code":"def solve(): return 4 + 36"}
+{"question":"Subtract 24 from 80.","expected_code":"def solve(): return 80 - 24"}
+{"question":"Create a function to calculate the difference between of variables alpha and beta, and gamma.","expected_code":"def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question":"Can you determine the sum of 97 and 95?","expected_code":"def solve(): return 97 + 95"}
+{"question":"What is the sum of 61 and 31?","expected_code":"def solve(): return 61 + 31"}
+{"question":"What is the sum of 66 and 6?","expected_code":"def solve(): return 66 + 6"}
+{"question":"What is the result of subtracting 6 and 60?","expected_code":"def solve(): return 6 - 60"}
+{"question":"Can you determine the result of dividing 88 and 17?","expected_code":"def solve(): return 88 \/ 17"}
+{"question":"What is the result of dividing 64 and 24?","expected_code":"def solve(): return 64 \/ 24"}
+{"question":"What is the product of 86 and 59?","expected_code":"def solve(): return 86 * 59"}
+{"question":"What is the sum of 86 and 3?","expected_code":"def solve(): return 86 + 3"}
+{"question":"What is the sum of 90 and 39?","expected_code":"def solve(): return 90 + 39"}
+{"question":"What is the sum of 57 and 95?","expected_code":"def solve(): return 57 + 95"}
+{"question":"What is the result of dividing 17 and 78?","expected_code":"def solve(): return 78 \/ 17"}
+{"question":"Can you determine the product of 26 and 40?","expected_code":"def solve(): return 26 * 40"}
+{"question":"What is the result of subtracting 5 and 88?","expected_code":"def solve(): return 5 - 88"}
+{"question":"Can you determine the sum of 64 and 92?","expected_code":"def solve(): return 64 + 92"}
+{"question":"What is the result of subtracting 91 and 46?","expected_code":"def solve(): return 91 - 46"}
+{"question":"What is the product of 80 and 6?","expected_code":"def solve(): return 80 * 6"}
+{"question":"What is the sum of 2 and 31?","expected_code":"def solve(): return 2 + 31"}
+{"question":"What is the result of dividing 52 and 3?","expected_code":"def solve(): return 52 \/ 3"}
+{"question":"Determine the product of of variables m and n, and o.","expected_code":"def solve(m, n, o):\n    return m * n * o"}
+{"question":"What is the result of dividing 37 and 70?","expected_code":"def solve(): return 70 \/ 37"}
+{"question":"What is the result of subtracting 43 and 25?","expected_code":"def solve(): return 43 - 25"}
+{"question":"What is the product of 96 and 67?","expected_code":"def solve(): return 96 * 67"}
+{"question":"What is the sum of 68 and 25?","expected_code":"def solve(): return 68 + 25"}
+{"question":"Can you determine the product of 56 and 27?","expected_code":"def solve(): return 56 * 27"}
+{"question":"What is the result of dividing 44 and 86?","expected_code":"def solve(): return 86 \/ 44"}
+{"question":"Take 110 and deduct 45.","expected_code":"def solve(): return 110 - 45"}
+{"question":"What is the result of subtracting 100 and 62?","expected_code":"def solve(): return 100 - 62"}
+{"question":"Can you determine the product of 64 and 78?","expected_code":"def solve(): return 64 * 78"}
+{"question":"What is the sum of 3 and 100?","expected_code":"def solve(): return 3 + 100"}
+{"question":"What is the product of 73 and 86?","expected_code":"def solve(): return 73 * 86"}
+{"question":"What is the result of dividing 121 by 11?","expected_code":"def solve(): return 121 \/ 11"}
+{"question":"What is the sum of 81 and 87?","expected_code":"def solve(): return 81 + 87"}
+{"question":"What is the product of 7 and 9?","expected_code":"def solve(): return 7 * 9"}
+{"question":"What is the result of subtracting 1 and 49?","expected_code":"def solve(): return 1 - 49"}
+{"question":"What is the product of 28 and 93?","expected_code":"def solve(): return 28 * 93"}
+{"question":"What is the result of subtracting 32 and 26?","expected_code":"def solve(): return 32 - 26"}
+{"question":"Determine the difference between of variables m and n, and o.","expected_code":"def solve(m, n, o):\n    return m - n - o"}
+{"question":"What is the product of 52 and 39?","expected_code":"def solve(): return 52 * 39"}
+{"question":"Can you determine the product of 13 and 15?","expected_code":"def solve(): return 13 * 15"}
+{"question":"What is the result of dividing 88 and 45?","expected_code":"def solve(): return 88 \/ 45"}
+{"question":"What is the result of dividing 93 and 25?","expected_code":"def solve(): return 93 \/ 25"}
+{"question":"What is the product of 24 and 16?","expected_code":"def solve(): return 24 * 16"}
+{"question":"Can you determine the product of 68 and 27?","expected_code":"def solve(): return 68 * 27"}
+{"question":"What is the sum of 32 and 27?","expected_code":"def solve(): return 32 + 27"}
+{"question":"What is the result of dividing 69 and 35?","expected_code":"def solve(): return 69 \/ 35"}
+{"question":"What is the product of 52 and 3?","expected_code":"def solve(): return 52 * 3"}
+{"question":"Determine the quotient of of variables value1 and value2, and value3 using a Python function.","expected_code":"def solve(value1, value2, value3):\n    return value1 \/ value2 \/ value3"}
+{"question":"What is the result of dividing 30 and 30?","expected_code":"def solve(): return 30 \/ 30"}
+{"question":"What is the result of subtracting 2 and 5?","expected_code":"def solve(): return 2 - 5"}
+{"question":"What is the sum of 74 and 46?","expected_code":"def solve(): return 74 + 46"}
+{"question":"Can you determine the product of 72 and 8?","expected_code":"def solve(): return 72 * 8"}
+{"question":"What is the product of 41 and 10?","expected_code":"def solve(): return 41 * 10"}
+{"question":"What is the result of subtracting 38 and 51?","expected_code":"def solve(): return 38 - 51"}
+{"question":"What is the result of subtracting 1 and 74?","expected_code":"def solve(): return 1 - 74"}
+{"question":"What is the result of subtracting 19 and 84?","expected_code":"def solve(): return 19 - 84"}
+{"question":"What is the result of dividing 14 and 72?","expected_code":"def solve(): return 72 \/ 14"}
+{"question":"What is the sum of 76 and 30?","expected_code":"def solve(): return 76 + 30"}
+{"question":"Can you determine the result of subtracting 44 and 26?","expected_code":"def solve(): return 44 - 26"}
+{"question":"What is the result of subtracting 84 and 100?","expected_code":"def solve(): return 84 - 100"}
+{"question":"What is the result of dividing 57 and 60?","expected_code":"def solve(): return 60 \/ 57"}
+{"question":"Can you determine the sum of 29 and 77?","expected_code":"def solve(): return 29 + 77"}
+{"question":"What is the result of subtracting 71 and 23?","expected_code":"def solve(): return 71 - 23"}
+{"question":"Write a Python function for the sum of of variables value1 and value2.","expected_code":"def solve(value1, value2):\n    return value1 + value2"}
+{"question":"Can you determine the result of dividing 41 and 83?","expected_code":"def solve(): return 83 \/ 41"}
+{"question":"Can you determine the product of 17 and 62?","expected_code":"def solve(): return 17 * 62"}
+{"question":"What is the product of 87 and 31?","expected_code":"def solve(): return 87 * 31"}
+{"question":"Can you determine the product of 13 and 98?","expected_code":"def solve(): return 13 * 98"}
+{"question":"What is the result of subtracting 14 and 44?","expected_code":"def solve(): return 14 - 44"}
+{"question":"What is the product of 89 and 42?","expected_code":"def solve(): return 89 * 42"}
+{"question":"What is the result of dividing 96 and 36?","expected_code":"def solve(): return 96 \/ 36"}
+{"question":"What is the product of 85 and 36?","expected_code":"def solve(): return 85 * 36"}
+{"question":"What is the sum of 22 and 37?","expected_code":"def solve(): return 22 + 37"}
+{"question":"What is the sum of 43 and 30?","expected_code":"def solve(): return 43 + 30"}
+{"question":"What is the sum of 69 and 77?","expected_code":"def solve(): return 69 + 77"}
+{"question":"Can you determine the sum of 68 and 60?","expected_code":"def solve(): return 68 + 60"}
+{"question":"What is the result of dividing 24 and 31?","expected_code":"def solve(): return 31 \/ 24"}
+{"question":"What is the result of dividing 78 and 96?","expected_code":"def solve(): return 96 \/ 78"}
+{"question":"Create a function to calculate the difference between of variables a and b, and c.","expected_code":"def solve(a, b, c):\n    return a - b - c"}
+{"question":"What is the sum of 53 and 23?","expected_code":"def solve(): return 53 + 23"}
+{"question":"What is the product of 30 and 80?","expected_code":"def solve(): return 30 * 80"}
+{"question":"What is the product of 74 and 32?","expected_code":"def solve(): return 74 * 32"}
+{"question":"What is the result of subtracting 75 and 74?","expected_code":"def solve(): return 75 - 74"}
+{"question":"What is the result of subtracting 1 and 11?","expected_code":"def solve(): return 1 - 11"}
+{"question":"What is the sum of 56 and 57?","expected_code":"def solve(): return 56 + 57"}
+{"question":"What is the product of 53 and 37?","expected_code":"def solve(): return 53 * 37"}
+{"question":"What is the product of 27 and 49?","expected_code":"def solve(): return 27 * 49"}
+{"question":"What is the sum of 69 and 57?","expected_code":"def solve(): return 69 + 57"}
+{"question":"What is the result of subtracting 55 and 17?","expected_code":"def solve(): return 55 - 17"}
+{"question":"What is the result of subtracting 8 and 67?","expected_code":"def solve(): return 8 - 67"}
+{"question":"What is the result of subtracting 49 and 54?","expected_code":"def solve(): return 49 - 54"}
+{"question":"What is the result of subtracting 9 and 44?","expected_code":"def solve(): return 9 - 44"}
+{"question":"What is the product of 86 and 45?","expected_code":"def solve(): return 86 * 45"}
+{"question":"What is the sum of 94 and 85?","expected_code":"def solve(): return 94 + 85"}
+{"question":"What is the product of 4 and 89?","expected_code":"def solve(): return 4 * 89"}
+{"question":"Create a function to calculate the cube of of a variable p.","expected_code":"def solve(p):\n    return p ** 3"}
+{"question":"What is the sum of 51 and 30?","expected_code":"def solve(): return 51 + 30"}

@@ -1,0 +1,1592 @@
+{"question": "convert this word problem into python code: divide 18 by 6."}
+{"question": "convert this word problem into python code: divide 50 by 5."}
+{"question": "convert this word problem into python code: divide 100 by 25."}
+{"question": "convert this word problem into python code: divide 144 by 12."}
+{"question": "convert this word problem into python code: divide 64 by 8."}
+{"question": "convert this word problem into python code: divide 300 by 15."}
+{"question": "convert this word problem into python code: divide 42 by 7."}
+{"question": "convert this word problem into python code: divide 90 by 9."}
+{"question": "convert this word problem into python code: divide 80 by 8."}
+{"question": "convert this word problem into python code: divide 36 by 6."}
+{"question": "convert this word problem into python code: divide 48 by 12."}
+{"question": "convert this word problem into python code: divide 72 by 9."}
+{"question": "convert this word problem into python code: divide 100 by 5."}
+{"question": "convert this word problem into python code: divide 64 by 8."}
+{"question": "convert this word problem into python code: divide 81 by 9."}
+{"question": "convert this word problem into python code: divide 100 by 4."}
+{"question": "convert this word problem into python code: divide 120 by 10."}
+{"question": "convert this word problem into python code: divide 210 by 7."}
+{"question": "convert this word problem into python code: what do you get if you divide 99 by 3?"}
+{"question": "convert this word problem into python code: divide 80 into 4 equal parts."}
+{"question": "convert this word problem into python code: divide 72 by 8."}
+{"question": "convert this word problem into python code: what is 125 divided by 25?"}
+{"question": "convert this word problem into python code: what's the result when you divide 56 by 7?"}
+{"question": "convert this word problem into python code: divide 144 by 12."}
+{"question": "convert this word problem into python code: how much is 36 divided by 4?"}
+{"question": "convert this word problem into python code: what do you get when you divide 200 by 4?"}
+{"question": "convert this word problem into python code: divide 81 by 9."}
+{"question": "convert this word problem into python code: what is 180 divided by 6?"}
+{"question": "convert this word problem into python code: what is 60 divided by 3?"}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}
+{"question": "divide 6 by 10."}
+{"question": "10 divided by 6."}
+{"question": "what is 5 / 6?"}
+{"question": "divide 2 by 8."}
+{"question": "divide 9 and 9."}

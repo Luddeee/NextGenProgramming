@@ -1,0 +1,867 @@
+{"question": "Convert this word problem into Python code: What is the result of subtracting 35 and 18?", "expected_code": "def solve(): return 35 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 41?", "expected_code": "def solve(): return 7 - 41"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 43 and 25?", "expected_code": "def solve(): return 43 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 18?", "expected_code": "def solve(): return 22 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 63 and 91?", "expected_code": "def solve(): return 63 - 91"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 10 and 38?", "expected_code": "def solve(): return 10 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 71 and 37?", "expected_code": "def solve(): return 71 - 37"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 10 and 63?", "expected_code": "def solve(): return 10 - 63"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 27?", "expected_code": "def solve(): return 49 - 27"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 31 and 54?", "expected_code": "def solve(): return 31 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 37?", "expected_code": "def solve(): return 47 - 37"}
+{"question": "Determine the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Write a Python function for the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 18?", "expected_code": "def solve(): return 25 - 18"}
+{"question": "Create a function to calculate the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 25?", "expected_code": "def solve(): return 47 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 77 and 83?", "expected_code": "def solve(): return 77 - 83"}
+{"question": "Calculate the difference between of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 77 and 52?", "expected_code": "def solve(): return 77 - 52"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 91?", "expected_code": "def solve(): return 79 - 91"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 84 and 100?", "expected_code": "def solve(): return 84 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 24 and 24?", "expected_code": "def solve(): return 24 - 24"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 14 and 55?", "expected_code": "def solve(): return 14 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 19 and 70?", "expected_code": "def solve(): return 19 - 70"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 35?", "expected_code": "def solve(): return 97 - 35"}
+{"question": "What is the difference between of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: Determine the square root of 121, then subtract 8.", "expected_code": "import math\ndef solve(): return math.sqrt(121) - 8"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 41 and 86?", "expected_code": "def solve(): return 41 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 44 and 41?", "expected_code": "def solve(): return 44 - 41"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 60?", "expected_code": "def solve(): return 50 - 60"}
+{"question": "Convert this word problem into Python code: Determine the product of the square of 12 and the cube of 5, then subtract the square of 3.", "expected_code": "def solve(): return 12 ** 2 * 5 ** 3 - 3 ** 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 16?", "expected_code": "def solve(): return 49 - 16"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 75?", "expected_code": "def solve(): return 66 - 75"}
+{"question": "Create a function to calculate the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 73 and 99?", "expected_code": "def solve(): return 73 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 91?", "expected_code": "def solve(): return 53 - 91"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 19 and 30?", "expected_code": "def solve(): return 19 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 19?", "expected_code": "def solve(): return 39 - 19"}
+{"question": "What is the difference between of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 55?", "expected_code": "def solve(): return 12 - 55"}
+{"question": "Create a function to calculate the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 56?", "expected_code": "def solve(): return 47 - 56"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 26 and 38?", "expected_code": "def solve(): return 26 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 71 and 48?", "expected_code": "def solve(): return 71 - 48"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 64?", "expected_code": "def solve(): return 75 - 64"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 52 and 25?", "expected_code": "def solve(): return 52 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 7?", "expected_code": "def solve(): return 45 - 7"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 200 from 500?", "expected_code": "def solve(): return 500 - 200"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 11 and 51?", "expected_code": "def solve(): return 11 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 20?", "expected_code": "def solve(): return 68 - 20"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 25?", "expected_code": "def solve(): return 95 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 96 and 58?", "expected_code": "def solve(): return 96 - 58"}
+{"question": "Convert this word problem into Python code: Subtract 44 from 88.", "expected_code": "def solve(): return 88 - 44"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 33?", "expected_code": "def solve(): return 5 - 33"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 35 and 60?", "expected_code": "def solve(): return 35 - 60"}
+{"question": "Calculate the difference between of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 18 and 45?", "expected_code": "def solve(): return 18 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 32?", "expected_code": "def solve(): return 59 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 44 and 55?", "expected_code": "def solve(): return 44 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 84?", "expected_code": "def solve(): return 7 - 84"}
+{"question": "Create a function to calculate the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 52?", "expected_code": "def solve(): return 5 - 52"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 47?", "expected_code": "def solve(): return 21 - 47"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 31 and 79?", "expected_code": "def solve(): return 31 - 79"}
+{"question": "Calculate the difference between of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 84 and 83?", "expected_code": "def solve(): return 84 - 83"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 2?", "expected_code": "def solve(): return 32 - 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 27?", "expected_code": "def solve(): return 21 - 27"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 4?", "expected_code": "def solve(): return 17 - 4"}
+{"question": "Convert this word problem into Python code: Subtract 200 from 500, then multiply by the square root of 81.", "expected_code": "import math\ndef solve(): return (500 - 200) * math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 24 and 46?", "expected_code": "def solve(): return 24 - 46"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 31 and 54?", "expected_code": "def solve(): return 31 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 55 and 71?", "expected_code": "def solve(): return 55 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 29?", "expected_code": "def solve(): return 33 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 85 and 2?", "expected_code": "def solve(): return 85 - 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 42?", "expected_code": "def solve(): return 93 - 42"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 64?", "expected_code": "def solve(): return 75 - 64"}
+{"question": "Write a Python function for the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 and 99?", "expected_code": "def solve(): return 60 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 11?", "expected_code": "def solve(): return 79 - 11"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 58 and 55?", "expected_code": "def solve(): return 58 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 62 and 47?", "expected_code": "def solve(): return 62 - 47"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 from 90?", "expected_code": "def solve(): return 90 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 58?", "expected_code": "def solve(): return 79 - 58"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 and 38?", "expected_code": "def solve(): return 100 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 100?", "expected_code": "def solve(): return 93 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 90?", "expected_code": "def solve(): return 54 - 90"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Calculate the difference between of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 76?", "expected_code": "def solve(): return 70 - 76"}
+{"question": "Calculate the difference between of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 73?", "expected_code": "def solve(): return 68 - 73"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 54?", "expected_code": "def solve(): return 59 - 54"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 55 and 71?", "expected_code": "def solve(): return 55 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 18?", "expected_code": "def solve(): return 25 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 51?", "expected_code": "def solve(): return 22 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 24?", "expected_code": "def solve(): return 53 - 24"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 2 and 98?", "expected_code": "def solve(): return 2 - 98"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 3 and 60?", "expected_code": "def solve(): return 3 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 67 and 90?", "expected_code": "def solve(): return 67 - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 17?", "expected_code": "def solve(): return 95 - 17"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 18 and 57?", "expected_code": "def solve(): return 18 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 91 and 11?", "expected_code": "def solve(): return 91 - 11"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 91 and 46?", "expected_code": "def solve(): return 91 - 46"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 76?", "expected_code": "def solve(): return 49 - 76"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 63 and 74?", "expected_code": "def solve(): return 63 - 74"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 76?", "expected_code": "def solve(): return 49 - 76"}
+{"question": "Determine the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 27?", "expected_code": "def solve(): return 21 - 27"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 19?", "expected_code": "def solve(): return 17 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 36 and 88?", "expected_code": "def solve(): return 36 - 88"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 74 and 73?", "expected_code": "def solve(): return 74 - 73"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 41 and 22?", "expected_code": "def solve(): return 41 - 22"}
+{"question": "Calculate the difference between of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 26 and 53?", "expected_code": "def solve(): return 26 - 53"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 46 and 27?", "expected_code": "def solve(): return 46 - 27"}
+{"question": "Write a Python function for the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 38 and 20?", "expected_code": "def solve(): return 38 - 20"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 4 and 40?", "expected_code": "def solve(): return 4 - 40"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 2 and 1?", "expected_code": "def solve(): return 2 - 1"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 56 and 100?", "expected_code": "def solve(): return 56 - 100"}
+{"question": "Convert this word problem into Python code: Subtract 12 from 50.", "expected_code": "def solve(): return 50 - 12"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 94 and 45?", "expected_code": "def solve(): return 94 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 63?", "expected_code": "def solve(): return 76 - 63"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 77 and 19?", "expected_code": "def solve(): return 77 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 63?", "expected_code": "def solve(): return 30 - 63"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 71?", "expected_code": "def solve(): return 47 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 19?", "expected_code": "def solve(): return 81 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 60?", "expected_code": "def solve(): return 79 - 60"}
+{"question": "Calculate the difference between of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 92 and 65?", "expected_code": "def solve(): return 92 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 81?", "expected_code": "def solve(): return 65 - 81"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 28?", "expected_code": "def solve(): return 65 - 28"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 63?", "expected_code": "def solve(): return 82 - 63"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 21?", "expected_code": "def solve(): return 32 - 21"}
+{"question": "Convert this word problem into Python code: Multiply 15 by the cube of 3, then subtract 100.", "expected_code": "def solve(): return 15 * 3 ** 3 - 100"}
+{"question": "Write a Python function for the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: Multiply the cube of 5 by the square of 8, then subtract 200.", "expected_code": "def solve(): return 5 ** 3 * 8 ** 2 - 200"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 from 10?", "expected_code": "def solve(): return 10 - 7"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 42 and 60?", "expected_code": "def solve(): return 42 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 200 from 500?", "expected_code": "def solve(): return 500 - 200"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 29 and 45?", "expected_code": "def solve(): return 29 - 45"}
+{"question": "Convert this word problem into Python code: Determine the product of 12 and 15, then subtract the cube of 2.", "expected_code": "def solve(): return 12 * 15 - 2 ** 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 75?", "expected_code": "def solve(): return 20 - 75"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 47?", "expected_code": "def solve(): return 47 - 47"}
+{"question": "Write a Python function for the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 51?", "expected_code": "def solve(): return 22 - 51"}
+{"question": "Calculate the difference between of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 57?", "expected_code": "def solve(): return 47 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 26?", "expected_code": "def solve(): return 82 - 26"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 86?", "expected_code": "def solve(): return 23 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 36?", "expected_code": "def solve(): return 93 - 36"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 95?", "expected_code": "def solve(): return 49 - 95"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 84?", "expected_code": "def solve(): return 33 - 84"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 55?", "expected_code": "def solve(): return 53 - 55"}
+{"question": "Determine the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 26?", "expected_code": "def solve(): return 66 - 26"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 86?", "expected_code": "def solve(): return 95 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 19?", "expected_code": "def solve(): return 81 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 30?", "expected_code": "def solve(): return 75 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 31 and 25?", "expected_code": "def solve(): return 31 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 80 and 59?", "expected_code": "def solve(): return 80 - 59"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 87 and 25?", "expected_code": "def solve(): return 87 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 18 and 32?", "expected_code": "def solve(): return 18 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 27 and 49?", "expected_code": "def solve(): return 27 - 49"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 from 50?", "expected_code": "def solve(): return 50 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 7?", "expected_code": "def solve(): return 37 - 7"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 99 and 46?", "expected_code": "def solve(): return 99 - 46"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 58 and 61?", "expected_code": "def solve(): return 58 - 61"}
+{"question": "What is the difference between of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 56 and 90?", "expected_code": "def solve(): return 56 - 90"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 92?", "expected_code": "def solve(): return 45 - 92"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 58?", "expected_code": "def solve(): return 22 - 58"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 19?", "expected_code": "def solve(): return 53 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 92 and 35?", "expected_code": "def solve(): return 92 - 35"}
+{"question": "Calculate the difference between of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 62?", "expected_code": "def solve(): return 33 - 62"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 18?", "expected_code": "def solve(): return 7 - 18"}
+{"question": "Create a function to calculate the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 14 and 22?", "expected_code": "def solve(): return 14 - 22"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 73 and 99?", "expected_code": "def solve(): return 73 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 38 and 28?", "expected_code": "def solve(): return 38 - 28"}
+{"question": "What is the difference between of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 78 and 44?", "expected_code": "def solve(): return 78 - 44"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 25?", "expected_code": "def solve(): return 6 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 15?", "expected_code": "def solve(): return 12 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 and 65?", "expected_code": "def solve(): return 60 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 55?", "expected_code": "def solve(): return 32 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 21?", "expected_code": "def solve(): return 75 - 21"}
+{"question": "Write a Python function for the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 69 and 30?", "expected_code": "def solve(): return 69 - 30"}
+{"question": "Write a Python function for the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Determine the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: Determine the difference between 1000 and the square of 31, then multiply by 5.", "expected_code": "def solve(): return (1000 - 31 ** 2) * 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 55 and 15?", "expected_code": "def solve(): return 55 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 44?", "expected_code": "def solve(): return 49 - 44"}
+{"question": "Write a Python function for the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 36?", "expected_code": "def solve(): return 93 - 36"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 55?", "expected_code": "def solve(): return 7 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 92?", "expected_code": "def solve(): return 47 - 92"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 46 and 90?", "expected_code": "def solve(): return 46 - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 88 and 24?", "expected_code": "def solve(): return 88 - 24"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 42 and 58?", "expected_code": "def solve(): return 42 - 58"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 61 and 34?", "expected_code": "def solve(): return 61 - 34"}
+{"question": "What is the difference between of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 46 and 29?", "expected_code": "def solve(): return 46 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 50?", "expected_code": "def solve(): return 76 - 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 55?", "expected_code": "def solve(): return 66 - 55"}
+{"question": "Determine the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 29?", "expected_code": "def solve(): return 30 - 29"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 1 and 54?", "expected_code": "def solve(): return 1 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 48 and 70?", "expected_code": "def solve(): return 48 - 70"}
+{"question": "What is the difference between of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 93?", "expected_code": "def solve(): return 72 - 93"}
+{"question": "What is the difference between of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Calculate the difference between of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 42?", "expected_code": "def solve(): return 39 - 42"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 77 and 18?", "expected_code": "def solve(): return 77 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 69?", "expected_code": "def solve(): return 23 - 69"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 87?", "expected_code": "def solve(): return 13 - 87"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 3 and 61?", "expected_code": "def solve(): return 3 - 61"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 60?", "expected_code": "def solve(): return 57 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 54?", "expected_code": "def solve(): return 17 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 75?", "expected_code": "def solve(): return 33 - 75"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 15?", "expected_code": "def solve(): return 81 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 43?", "expected_code": "def solve(): return 54 - 43"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 97?", "expected_code": "def solve(): return 66 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 72?", "expected_code": "def solve(): return 8 - 72"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 29?", "expected_code": "def solve(): return 49 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 27 and 65?", "expected_code": "def solve(): return 27 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 35 and 23?", "expected_code": "def solve(): return 35 - 23"}
+{"question": "Calculate the difference between of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 91?", "expected_code": "def solve(): return 21 - 91"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting the square of 8 from the product of 16 and 5, then dividing by 4?", "expected_code": "def solve(): return ((16 * 5 - 8 ** 2) / 4)"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 3?", "expected_code": "def solve(): return 57 - 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 99 and 10?", "expected_code": "def solve(): return 99 - 10"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 58 and 61?", "expected_code": "def solve(): return 58 - 61"}
+{"question": "Determine the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 27 and 16?", "expected_code": "def solve(): return 27 - 16"}
+{"question": "What is the difference between of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 88 and 46?", "expected_code": "def solve(): return 88 - 46"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 1 and 95?", "expected_code": "def solve(): return 1 - 95"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 18?", "expected_code": "def solve(): return 82 - 18"}
+{"question": "Determine the difference between of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 40 and 14?", "expected_code": "def solve(): return 40 - 14"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 67 and 82?", "expected_code": "def solve(): return 67 - 82"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 69?", "expected_code": "def solve(): return 93 - 69"}
+{"question": "Calculate the difference between of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "What is the difference between of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 94 and 45?", "expected_code": "def solve(): return 94 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 2 and 61?", "expected_code": "def solve(): return 2 - 61"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 62?", "expected_code": "def solve(): return 22 - 62"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 89 and 38?", "expected_code": "def solve(): return 89 - 38"}
+{"question": "Create a function to calculate the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 58?", "expected_code": "def solve(): return 23 - 58"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 19 and 95?", "expected_code": "def solve(): return 19 - 95"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 60?", "expected_code": "def solve(): return 66 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 63 and 21?", "expected_code": "def solve(): return 63 - 21"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 74 and 1?", "expected_code": "def solve(): return 74 - 1"}
+{"question": "Calculate the difference between of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 48?", "expected_code": "def solve(): return 45 - 48"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 96 and 91?", "expected_code": "def solve(): return 96 - 91"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 38 and 85?", "expected_code": "def solve(): return 38 - 85"}
+{"question": "Create a function to calculate the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 4?", "expected_code": "def solve(): return 37 - 4"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 10 and 26?", "expected_code": "def solve(): return 10 - 26"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 36 and 5?", "expected_code": "def solve(): return 36 - 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 83 and 11?", "expected_code": "def solve(): return 83 - 11"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 56?", "expected_code": "def solve(): return 5 - 56"}
+{"question": "Calculate the difference between of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 65?", "expected_code": "def solve(): return 66 - 65"}
+{"question": "Convert this word problem into Python code: Subtract 35 from 75.", "expected_code": "def solve(): return 75 - 35"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 81?", "expected_code": "def solve(): return 64 - 81"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Create a function to calculate the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 69 and 38?", "expected_code": "def solve(): return 69 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 6?", "expected_code": "def solve(): return 20 - 6"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 57?", "expected_code": "def solve(): return 33 - 57"}
+{"question": "Write a Python function for the difference between of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 29?", "expected_code": "def solve(): return 30 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 99 and 66?", "expected_code": "def solve(): return 99 - 66"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 94 and 2?", "expected_code": "def solve(): return 94 - 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 52?", "expected_code": "def solve(): return 50 - 52"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 67?", "expected_code": "def solve(): return 97 - 67"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 37?", "expected_code": "def solve(): return 39 - 37"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 94 and 100?", "expected_code": "def solve(): return 94 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 95?", "expected_code": "def solve(): return 79 - 95"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 13?", "expected_code": "def solve(): return 33 - 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 96 and 73?", "expected_code": "def solve(): return 96 - 73"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 59?", "expected_code": "def solve(): return 45 - 59"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 54?", "expected_code": "def solve(): return 33 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 53?", "expected_code": "def solve(): return 39 - 53"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 27?", "expected_code": "def solve(): return 53 - 27"}
+{"question": "What is the difference between of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 57?", "expected_code": "def solve(): return 72 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 63?", "expected_code": "def solve(): return 72 - 63"}
+{"question": "Calculate the difference between of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Write a Python function for the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 72?", "expected_code": "def solve(): return 25 - 72"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 42?", "expected_code": "def solve(): return 21 - 42"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 54?", "expected_code": "def solve(): return 65 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 35?", "expected_code": "def solve(): return 54 - 35"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 2 and 2?", "expected_code": "def solve(): return 2 - 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 33?", "expected_code": "def solve(): return 50 - 33"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 32?", "expected_code": "def solve(): return 79 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 93?", "expected_code": "def solve(): return 13 - 93"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 97?", "expected_code": "def solve(): return 76 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 79?", "expected_code": "def solve(): return 76 - 79"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 78 and 31?", "expected_code": "def solve(): return 78 - 31"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 51?", "expected_code": "def solve(): return 21 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 28?", "expected_code": "def solve(): return 37 - 28"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 34?", "expected_code": "def solve(): return 90 - 34"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 75?", "expected_code": "def solve(): return 93 - 75"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 97?", "expected_code": "def solve(): return 54 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 68?", "expected_code": "def solve(): return 70 - 68"}
+{"question": "Calculate the difference between of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Write a Python function for the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Write a Python function for the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 96?", "expected_code": "def solve(): return 30 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 29 and 99?", "expected_code": "def solve(): return 29 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 3 and 54?", "expected_code": "def solve(): return 3 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 98 and 55?", "expected_code": "def solve(): return 98 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 87 and 47?", "expected_code": "def solve(): return 87 - 47"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 34 and 23?", "expected_code": "def solve(): return 34 - 23"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 30?", "expected_code": "def solve(): return 47 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 87 and 94?", "expected_code": "def solve(): return 87 - 94"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 10 and 80?", "expected_code": "def solve(): return 10 - 80"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 13?", "expected_code": "def solve(): return 93 - 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 80 and 39?", "expected_code": "def solve(): return 80 - 39"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 74 and 73?", "expected_code": "def solve(): return 74 - 73"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 19?", "expected_code": "def solve(): return 76 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 8?", "expected_code": "def solve(): return 90 - 8"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 88?", "expected_code": "def solve(): return 30 - 88"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 11 and 13?", "expected_code": "def solve(): return 11 - 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 38?", "expected_code": "def solve(): return 68 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 61 and 32?", "expected_code": "def solve(): return 61 - 32"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 62 and 71?", "expected_code": "def solve(): return 62 - 71"}
+{"question": "Create a function to calculate the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "What is the difference between of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 87?", "expected_code": "def solve(): return 70 - 87"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 67 and 22?", "expected_code": "def solve(): return 67 - 22"}
+{"question": "What is the difference between of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 2 and 5?", "expected_code": "def solve(): return 2 - 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 35?", "expected_code": "def solve(): return 6 - 35"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 26 and 71?", "expected_code": "def solve(): return 26 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 85 and 50?", "expected_code": "def solve(): return 85 - 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 96 and 91?", "expected_code": "def solve(): return 96 - 91"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 74 and 3?", "expected_code": "def solve(): return 74 - 3"}
+{"question": "Convert this word problem into Python code: Determine the product of 25 and the difference between the cube of 5 and the square of 4.", "expected_code": "def solve(): return 25 * (5 ** 3 - 4 ** 2)"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 86?", "expected_code": "def solve(): return 45 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 13?", "expected_code": "def solve(): return 8 - 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 67?", "expected_code": "def solve(): return 8 - 67"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 96?", "expected_code": "def solve(): return 50 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 9 and 89?", "expected_code": "def solve(): return 9 - 89"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 36 and 1?", "expected_code": "def solve(): return 36 - 1"}
+{"question": "Write a Python function for the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 80 and 52?", "expected_code": "def solve(): return 80 - 52"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 53?", "expected_code": "def solve(): return 8 - 53"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 39?", "expected_code": "def solve(): return 32 - 39"}
+{"question": "Write a Python function for the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Calculate the difference between of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 61?", "expected_code": "def solve(): return 8 - 61"}
+{"question": "Determine the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 83 and 3?", "expected_code": "def solve(): return 83 - 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 34 and 41?", "expected_code": "def solve(): return 34 - 41"}
+{"question": "Determine the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 28 and 59?", "expected_code": "def solve(): return 28 - 59"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 1 and 49?", "expected_code": "def solve(): return 1 - 49"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 58?", "expected_code": "def solve(): return 97 - 58"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 74 and 100?", "expected_code": "def solve(): return 74 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 18?", "expected_code": "def solve(): return 82 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 80 and 43?", "expected_code": "def solve(): return 80 - 43"}
+{"question": "Create a function to calculate the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Create a function to calculate the difference between of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "What is the difference between of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 99 and 66?", "expected_code": "def solve(): return 99 - 66"}
+{"question": "Create a function to calculate the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 26 and 97?", "expected_code": "def solve(): return 26 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 86 and 93?", "expected_code": "def solve(): return 86 - 93"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 85 and 19?", "expected_code": "def solve(): return 85 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 and 8?", "expected_code": "def solve(): return 60 - 8"}
+{"question": "Calculate the difference between of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Write a Python function for the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 62?", "expected_code": "def solve(): return 79 - 62"}
+{"question": "Determine the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 27 and 78?", "expected_code": "def solve(): return 27 - 78"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "What is the difference between of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 1?", "expected_code": "def solve(): return 30 - 1"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 15?", "expected_code": "def solve(): return 79 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 1 and 49?", "expected_code": "def solve(): return 1 - 49"}
+{"question": "Calculate the difference between of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 19?", "expected_code": "def solve(): return 81 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 50?", "expected_code": "def solve(): return 70 - 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 2?", "expected_code": "def solve(): return 32 - 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 44 and 81?", "expected_code": "def solve(): return 44 - 81"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 15?", "expected_code": "def solve(): return 13 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 47?", "expected_code": "def solve(): return 39 - 47"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 18?", "expected_code": "def solve(): return 25 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 2?", "expected_code": "def solve(): return 57 - 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 80 and 59?", "expected_code": "def solve(): return 80 - 59"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 6?", "expected_code": "def solve(): return 20 - 6"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 67?", "expected_code": "def solve(): return 75 - 67"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 78?", "expected_code": "def solve(): return 81 - 78"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 52 and 38?", "expected_code": "def solve(): return 52 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 87?", "expected_code": "def solve(): return 53 - 87"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 14 and 82?", "expected_code": "def solve(): return 14 - 82"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 86 and 75?", "expected_code": "def solve(): return 86 - 75"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 69 and 47?", "expected_code": "def solve(): return 69 - 47"}
+{"question": "Convert this word problem into Python code: Determine the square of 16, then subtract the product of 5 and 8, and divide by 2.", "expected_code": "def solve(): return (16 ** 2 - 5 * 8) / 2"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 and 68?", "expected_code": "def solve(): return 60 - 68"}
+{"question": "Write a Python function for the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 28?", "expected_code": "def solve(): return 21 - 28"}
+{"question": "What is the difference between of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 79?", "expected_code": "def solve(): return 25 - 79"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Create a function to calculate the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 96?", "expected_code": "def solve(): return 93 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 71 and 27?", "expected_code": "def solve(): return 71 - 27"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 48?", "expected_code": "def solve(): return 76 - 48"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 2?", "expected_code": "def solve(): return 53 - 2"}
+{"question": "Determine the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 76?", "expected_code": "def solve(): return 25 - 76"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 40 and 38?", "expected_code": "def solve(): return 40 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 16 and 15?", "expected_code": "def solve(): return 16 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 45?", "expected_code": "def solve(): return 97 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 56?", "expected_code": "def solve(): return 68 - 56"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 63 and 19?", "expected_code": "def solve(): return 63 - 19"}
+{"question": "Convert this word problem into Python code: What is 10 raised to the power of 3, minus the cube of 4?", "expected_code": "def solve(): return 10 ** 3 - 4 ** 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 85 and 35?", "expected_code": "def solve(): return 85 - 35"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 49?", "expected_code": "def solve(): return 17 - 49"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 45?", "expected_code": "def solve(): return 20 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 44?", "expected_code": "def solve(): return 5 - 44"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 88 and 27?", "expected_code": "def solve(): return 88 - 27"}
+{"question": "What is the difference between of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "What is the difference between of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: Subtract the square of 25 from the product of 6 and 20, then divide by 30.", "expected_code": "def solve(): return (6 * 20 - 25 ** 2) / 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 71?", "expected_code": "def solve(): return 47 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 85 and 50?", "expected_code": "def solve(): return 85 - 50"}
+{"question": "Create a function to calculate the difference between of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 28?", "expected_code": "def solve(): return 76 - 28"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 36 and 55?", "expected_code": "def solve(): return 36 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 43 and 30?", "expected_code": "def solve(): return 43 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 64?", "expected_code": "def solve(): return 13 - 64"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 16 and 72?", "expected_code": "def solve(): return 16 - 72"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 28?", "expected_code": "def solve(): return 7 - 28"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 78?", "expected_code": "def solve(): return 81 - 78"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 96?", "expected_code": "def solve(): return 13 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 65?", "expected_code": "def solve(): return 82 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 67?", "expected_code": "def solve(): return 97 - 67"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 88 and 5?", "expected_code": "def solve(): return 88 - 5"}
+{"question": "What is the difference between of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Calculate the difference between of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 from 250?", "expected_code": "def solve(): return 250 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 55?", "expected_code": "def solve(): return 47 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 38?", "expected_code": "def solve(): return 66 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 43?", "expected_code": "def solve(): return 93 - 43"}
+{"question": "What is the difference between of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 59?", "expected_code": "def solve(): return 70 - 59"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 77?", "expected_code": "def solve(): return 49 - 77"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 26?", "expected_code": "def solve(): return 32 - 26"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 3 and 99?", "expected_code": "def solve(): return 3 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 62?", "expected_code": "def solve(): return 45 - 62"}
+{"question": "Calculate the difference between of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 27?", "expected_code": "def solve(): return 50 - 27"}
+{"question": "Create a function to calculate the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 96?", "expected_code": "def solve(): return 30 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 51?", "expected_code": "def solve(): return 32 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 49 and 19?", "expected_code": "def solve(): return 49 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 77 and 51?", "expected_code": "def solve(): return 77 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 70?", "expected_code": "def solve(): return 23 - 70"}
+{"question": "What is the difference between of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Determine the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 56?", "expected_code": "def solve(): return 59 - 56"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 41?", "expected_code": "def solve(): return 7 - 41"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 87?", "expected_code": "def solve(): return 54 - 87"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 25?", "expected_code": "def solve(): return 32 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 77 and 90?", "expected_code": "def solve(): return 77 - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 41 and 68?", "expected_code": "def solve(): return 41 - 68"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 62?", "expected_code": "def solve(): return 95 - 62"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 and 87?", "expected_code": "def solve(): return 100 - 87"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 15 from 100 and dividing by 5?", "expected_code": "def solve(): return (100 - 15) / 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 and 68?", "expected_code": "def solve(): return 60 - 68"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 88?", "expected_code": "def solve(): return 33 - 88"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 78 and 95?", "expected_code": "def solve(): return 78 - 95"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 72?", "expected_code": "def solve(): return 7 - 72"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 8?", "expected_code": "def solve(): return 8 - 8"}
+{"question": "Determine the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 57?", "expected_code": "def solve(): return 8 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 24?", "expected_code": "def solve(): return 17 - 24"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 94?", "expected_code": "def solve(): return 22 - 94"}
+{"question": "Calculate the difference between of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 9 and 2?", "expected_code": "def solve(): return 9 - 2"}
+{"question": "Write a Python function for the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: Determine the square of 16, then subtract the product of 5 and 8, and divide by 2.", "expected_code": "def solve(): return (16 ** 2 - 5 * 8) / 2"}
+{"question": "Create a function to calculate the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 14 and 10?", "expected_code": "def solve(): return 14 - 10"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 20?", "expected_code": "def solve(): return 68 - 20"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 89 and 56?", "expected_code": "def solve(): return 89 - 56"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 29?", "expected_code": "def solve(): return 12 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 13?", "expected_code": "def solve(): return 17 - 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 24 and 100?", "expected_code": "def solve(): return 24 - 100"}
+{"question": "What is the difference between of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Write a Python function for the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 92 and 10?", "expected_code": "def solve(): return 92 - 10"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 88 and 86?", "expected_code": "def solve(): return 88 - 86"}
+{"question": "Write a Python function for the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 90?", "expected_code": "def solve(): return 54 - 90"}
+{"question": "Convert this word problem into Python code: Determine the square root of 121, then subtract 8.", "expected_code": "import math\ndef solve(): return math.sqrt(121) - 8"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 78 and 36?", "expected_code": "def solve(): return 78 - 36"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 48 and 29?", "expected_code": "def solve(): return 48 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 21?", "expected_code": "def solve(): return 65 - 21"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 55 and 50?", "expected_code": "def solve(): return 55 - 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 86?", "expected_code": "def solve(): return 39 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 80 and 37?", "expected_code": "def solve(): return 80 - 37"}
+{"question": "Calculate the difference between of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 84 and 33?", "expected_code": "def solve(): return 84 - 33"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 88?", "expected_code": "def solve(): return 33 - 88"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 57?", "expected_code": "def solve(): return 72 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 91 and 40?", "expected_code": "def solve(): return 91 - 40"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 45?", "expected_code": "def solve(): return 17 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 61 and 6?", "expected_code": "def solve(): return 61 - 6"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 24 and 24?", "expected_code": "def solve(): return 24 - 24"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 25?", "expected_code": "def solve(): return 95 - 25"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 12?", "expected_code": "def solve(): return 17 - 12"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 9 and 60?", "expected_code": "def solve(): return 9 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 48 and 57?", "expected_code": "def solve(): return 48 - 57"}
+{"question": "Create a function to calculate the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 94 and 5?", "expected_code": "def solve(): return 94 - 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 18 and 69?", "expected_code": "def solve(): return 18 - 69"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 52?", "expected_code": "def solve(): return 72 - 52"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 96?", "expected_code": "def solve(): return 59 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 27 and 78?", "expected_code": "def solve(): return 27 - 78"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 86?", "expected_code": "def solve(): return 95 - 86"}
+{"question": "Create a function to calculate the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 66?", "expected_code": "def solve(): return 12 - 66"}
+{"question": "What is the difference between of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 16 and 40?", "expected_code": "def solve(): return 16 - 40"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 16?", "expected_code": "def solve(): return 5 - 16"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 86?", "expected_code": "def solve(): return 7 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 31?", "expected_code": "def solve(): return 23 - 31"}
+{"question": "Determine the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "What is the difference between of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Write a Python function for the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Write a Python function for the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 97?", "expected_code": "def solve(): return 68 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 6?", "expected_code": "def solve(): return 20 - 6"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 13?", "expected_code": "def solve(): return 17 - 13"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 29?", "expected_code": "def solve(): return 23 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 92 and 14?", "expected_code": "def solve(): return 92 - 14"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 29?", "expected_code": "def solve(): return 82 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 79 and 91?", "expected_code": "def solve(): return 79 - 91"}
+{"question": "Write a Python function for the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 97?", "expected_code": "def solve(): return 22 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 100?", "expected_code": "def solve(): return 6 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 38?", "expected_code": "def solve(): return 37 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 74?", "expected_code": "def solve(): return 45 - 74"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 76?", "expected_code": "def solve(): return 70 - 76"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 31 and 32?", "expected_code": "def solve(): return 31 - 32"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 28?", "expected_code": "def solve(): return 50 - 28"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 69 and 85?", "expected_code": "def solve(): return 69 - 85"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 78 and 60?", "expected_code": "def solve(): return 78 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 79?", "expected_code": "def solve(): return 50 - 79"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 16 and 1?", "expected_code": "def solve(): return 16 - 1"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 12?", "expected_code": "def solve(): return 93 - 12"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 87?", "expected_code": "def solve(): return 53 - 87"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 86?", "expected_code": "def solve(): return 64 - 86"}
+{"question": "Create a function to calculate the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 92 and 35?", "expected_code": "def solve(): return 92 - 35"}
+{"question": "Write a Python function for the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 82 and 79?", "expected_code": "def solve(): return 82 - 79"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 52 and 54?", "expected_code": "def solve(): return 52 - 54"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 100?", "expected_code": "def solve(): return 12 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 98?", "expected_code": "def solve(): return 50 - 98"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 19 and 37?", "expected_code": "def solve(): return 19 - 37"}
+{"question": "Calculate the difference between of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 3?", "expected_code": "def solve(): return 90 - 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 86?", "expected_code": "def solve(): return 20 - 86"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 1 and 20?", "expected_code": "def solve(): return 1 - 20"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 71 and 15?", "expected_code": "def solve(): return 71 - 15"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 15 and 75?", "expected_code": "def solve(): return 15 - 75"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 32?", "expected_code": "def solve(): return 17 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 3 and 48?", "expected_code": "def solve(): return 3 - 48"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 98?", "expected_code": "def solve(): return 7 - 98"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 73 and 99?", "expected_code": "def solve(): return 73 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 10 and 35?", "expected_code": "def solve(): return 10 - 35"}
+{"question": "What is the difference between of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Calculate the difference between of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 72?", "expected_code": "def solve(): return 8 - 72"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 66?", "expected_code": "def solve(): return 8 - 66"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 9 and 77?", "expected_code": "def solve(): return 9 - 77"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 88 and 30?", "expected_code": "def solve(): return 88 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 47?", "expected_code": "def solve(): return 21 - 47"}
+{"question": "Convert this word problem into Python code: Determine the difference between 1000 and the square of 31, then multiply by 5.", "expected_code": "def solve(): return (1000 - 31 ** 2) * 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 78 and 60?", "expected_code": "def solve(): return 78 - 60"}
+{"question": "Create a function to calculate the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 67 and 68?", "expected_code": "def solve(): return 67 - 68"}
+{"question": "What is the difference between of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 86 and 75?", "expected_code": "def solve(): return 86 - 75"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 58?", "expected_code": "def solve(): return 90 - 58"}
+{"question": "Calculate the difference between of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 53 and 77?", "expected_code": "def solve(): return 53 - 77"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 99 and 16?", "expected_code": "def solve(): return 99 - 16"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 29 and 62?", "expected_code": "def solve(): return 29 - 62"}
+{"question": "Determine the difference between of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 7?", "expected_code": "def solve(): return 50 - 7"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 40 and 65?", "expected_code": "def solve(): return 40 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 93?", "expected_code": "def solve(): return 39 - 93"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 90?", "expected_code": "def solve(): return 20 - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 38 and 31?", "expected_code": "def solve(): return 38 - 31"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 51?", "expected_code": "def solve(): return 90 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 93?", "expected_code": "def solve(): return 64 - 93"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 16?", "expected_code": "def solve(): return 64 - 16"}
+{"question": "Create a function to calculate the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 46?", "expected_code": "def solve(): return 7 - 46"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 42 and 26?", "expected_code": "def solve(): return 42 - 26"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 43 and 38?", "expected_code": "def solve(): return 43 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 60 and 97?", "expected_code": "def solve(): return 60 - 97"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 16 and 46?", "expected_code": "def solve(): return 16 - 46"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 79?", "expected_code": "def solve(): return 33 - 79"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 37?", "expected_code": "def solve(): return 57 - 37"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 44 and 81?", "expected_code": "def solve(): return 44 - 81"}
+{"question": "Convert this word problem into Python code: Determine the result of 25 minus the square root of 225, then multiplied by 5.", "expected_code": "import math\ndef solve(): return (25 - math.sqrt(225)) * 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 55 and 63?", "expected_code": "def solve(): return 55 - 63"}
+{"question": "Convert this word problem into Python code: From 250, subtract 60.", "expected_code": "def solve(): return 250 - 60"}
+{"question": "Write a Python function for the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Determine the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 71?", "expected_code": "def solve(): return 59 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 45 and 92?", "expected_code": "def solve(): return 45 - 92"}
+{"question": "Calculate the difference between of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Determine the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "What is the difference between of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Calculate the difference between of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 and 73?", "expected_code": "def solve(): return 100 - 73"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 70?", "expected_code": "def solve(): return 59 - 70"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 86 and 83?", "expected_code": "def solve(): return 86 - 83"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 83 and 25?", "expected_code": "def solve(): return 83 - 25"}
+{"question": "What is the difference between of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 67 and 65?", "expected_code": "def solve(): return 67 - 65"}
+{"question": "Calculate the difference between of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 32?", "expected_code": "def solve(): return 17 - 32"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 69?", "expected_code": "def solve(): return 93 - 69"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 99?", "expected_code": "def solve(): return 20 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 56 and 90?", "expected_code": "def solve(): return 56 - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 74?", "expected_code": "def solve(): return 75 - 74"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 93?", "expected_code": "def solve(): return 64 - 93"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 12?", "expected_code": "def solve(): return 5 - 12"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 73?", "expected_code": "def solve(): return 95 - 73"}
+{"question": "Write a Python function for the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 86 and 79?", "expected_code": "def solve(): return 86 - 79"}
+{"question": "Write a Python function for the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 50?", "expected_code": "def solve(): return 12 - 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 26 and 57?", "expected_code": "def solve(): return 26 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 59?", "expected_code": "def solve(): return 6 - 59"}
+{"question": "What is the difference between of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Calculate the difference between of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 6?", "expected_code": "def solve(): return 20 - 6"}
+{"question": "Calculate the difference between of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 86?", "expected_code": "def solve(): return 22 - 86"}
+{"question": "Write a Python function for the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 32?", "expected_code": "def solve(): return 6 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 83?", "expected_code": "def solve(): return 17 - 83"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 35?", "expected_code": "def solve(): return 6 - 35"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 35?", "expected_code": "def solve(): return 81 - 35"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 68?", "expected_code": "def solve(): return 8 - 68"}
+{"question": "Calculate the difference between of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 91 and 18?", "expected_code": "def solve(): return 91 - 18"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 4?", "expected_code": "def solve(): return 5 - 4"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 60?", "expected_code": "def solve(): return 57 - 60"}
+{"question": "Create a function to calculate the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Calculate the difference between of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Create a function to calculate the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 69?", "expected_code": "def solve(): return 93 - 69"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 81 and 78?", "expected_code": "def solve(): return 81 - 78"}
+{"question": "Convert this word problem into Python code: How much is 64 minus 19?", "expected_code": "def solve(): return 64 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 78?", "expected_code": "def solve(): return 6 - 78"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 69 and 5?", "expected_code": "def solve(): return 69 - 5"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 4 and 58?", "expected_code": "def solve(): return 4 - 58"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 70?", "expected_code": "def solve(): return 59 - 70"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "What is the difference between of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 47?", "expected_code": "def solve(): return 97 - 47"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 39 and 51?", "expected_code": "def solve(): return 39 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 93?", "expected_code": "def solve(): return 25 - 93"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 76 and 78?", "expected_code": "def solve(): return 76 - 78"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 11?", "expected_code": "def solve(): return 65 - 11"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 32 and 39?", "expected_code": "def solve(): return 32 - 39"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 19 and 30?", "expected_code": "def solve(): return 19 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 35?", "expected_code": "def solve(): return 64 - 35"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 97 and 90?", "expected_code": "def solve(): return 97 - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 58?", "expected_code": "def solve(): return 20 - 58"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Create a function to calculate the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 47?", "expected_code": "def solve(): return 25 - 47"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 43 and 30?", "expected_code": "def solve(): return 43 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 32?", "expected_code": "def solve(): return 75 - 32"}
+{"question": "Determine the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 30 and 59?", "expected_code": "def solve(): return 30 - 59"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 36?", "expected_code": "def solve(): return 93 - 36"}
+{"question": "Calculate the difference between of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 6 and 32?", "expected_code": "def solve(): return 6 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 2 and 32?", "expected_code": "def solve(): return 2 - 32"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 40 and 10?", "expected_code": "def solve(): return 40 - 10"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 71?", "expected_code": "def solve(): return 13 - 71"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 13 and 92?", "expected_code": "def solve(): return 13 - 92"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 52 and 19?", "expected_code": "def solve(): return 52 - 19"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 1 and 80?", "expected_code": "def solve(): return 1 - 80"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 68 and 20?", "expected_code": "def solve(): return 68 - 20"}
+{"question": "What is the difference between of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 and 89?", "expected_code": "def solve(): return 100 - 89"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 8?", "expected_code": "def solve(): return 8 - 8"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 70 and 45?", "expected_code": "def solve(): return 70 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 62 and 60?", "expected_code": "def solve(): return 62 - 60"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 56?", "expected_code": "def solve(): return 93 - 56"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 74 and 74?", "expected_code": "def solve(): return 74 - 74"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 38?", "expected_code": "def solve(): return 37 - 38"}
+{"question": "Convert this word problem into Python code: Determine the result of 25 raised to the power of 3, then subtract the square of 10.", "expected_code": "def solve(): return 25 ** 3 - 10 ** 2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 61 and 2?", "expected_code": "def solve(): return 61 - 2"}
+{"question": "Determine the difference between of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 40?", "expected_code": "def solve(): return 50 - 40"}
+{"question": "Determine the difference between of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 - value2 - value3"}
+{"question": "What is the difference between of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Write a Python function for the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of 4 raised to the power of 6, minus the square root of 256?", "expected_code": "import math\ndef solve(): return 4 ** 6 - math.sqrt(256)"}
+{"question": "Write a Python function for the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What's 100 minus 25?", "expected_code": "def solve(): return 100 - 25"}
+{"question": "What is the difference between of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 52?", "expected_code": "def solve(): return 66 - 52"}
+{"question": "Determine the difference between of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 - value2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 17 and 49?", "expected_code": "def solve(): return 17 - 49"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 63?", "expected_code": "def solve(): return 90 - 63"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 26 and 69?", "expected_code": "def solve(): return 26 - 69"}
+{"question": "What is the difference between of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 51 and 65?", "expected_code": "def solve(): return 51 - 65"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 33 and 45?", "expected_code": "def solve(): return 33 - 45"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 57?", "expected_code": "def solve(): return 20 - 57"}
+{"question": "Determine the difference between of variables m and n.", "expected_code": "def solve(m, n):\n    return m - n"}
+{"question": "Write a Python function for the difference between of variables p and q.", "expected_code": "def solve(p, q):\n    return p - q"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 52?", "expected_code": "def solve(): return 50 - 52"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 21 and 81?", "expected_code": "def solve(): return 21 - 81"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 63 and 51?", "expected_code": "def solve(): return 63 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 63?", "expected_code": "def solve(): return 72 - 63"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 29?", "expected_code": "def solve(): return 23 - 29"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 54?", "expected_code": "def solve(): return 57 - 54"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Create a function to calculate the difference between of variables a and b.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 50 and 76?", "expected_code": "def solve(): return 50 - 76"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 80?", "expected_code": "def solve(): return 5 - 80"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 72 and 58?", "expected_code": "def solve(): return 72 - 58"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 96 and 62?", "expected_code": "def solve(): return 96 - 62"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 93 and 43?", "expected_code": "def solve(): return 93 - 43"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 99?", "expected_code": "def solve(): return 37 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 62 and 3?", "expected_code": "def solve(): return 62 - 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 71 and 23?", "expected_code": "def solve(): return 71 - 23"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 36 and 62?", "expected_code": "def solve(): return 36 - 62"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 20 and 57?", "expected_code": "def solve(): return 20 - 57"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 10 and 34?", "expected_code": "def solve(): return 10 - 34"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 43 and 28?", "expected_code": "def solve(): return 43 - 28"}
+{"question": "Create a function to calculate the difference between of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a - b - c"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 16?", "expected_code": "def solve(): return 64 - 16"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 4 and 82?", "expected_code": "def solve(): return 4 - 82"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 43 and 30?", "expected_code": "def solve(): return 43 - 30"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 66 and 82?", "expected_code": "def solve(): return 66 - 82"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 15 and 34?", "expected_code": "def solve(): return 15 - 34"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 55 and 72?", "expected_code": "def solve(): return 55 - 72"}
+{"question": "Determine the difference between of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 - num2"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 34 and 65?", "expected_code": "def solve(): return 34 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 59 and 16?", "expected_code": "def solve(): return 59 - 16"}
+{"question": "Determine the difference between of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m - n - o"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 89 and 65?", "expected_code": "def solve(): return 89 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 37 and 80?", "expected_code": "def solve(): return 37 - 80"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 73 and 99?", "expected_code": "def solve(): return 73 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 28 and 50?", "expected_code": "def solve(): return 28 - 50"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 63 and 29?", "expected_code": "def solve(): return 63 - 29"}
+{"question": "Calculate the difference between of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha - beta"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 12?", "expected_code": "def solve(): return 65 - 12"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 35 and 83?", "expected_code": "def solve(): return 35 - 83"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 23 and 44?", "expected_code": "def solve(): return 23 - 44"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 8?", "expected_code": "def solve(): return 90 - 8"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 91 and 51?", "expected_code": "def solve(): return 91 - 51"}
+{"question": "Convert this word problem into Python code: Determine the difference between 25 squared and 100, then multiply by 4.", "expected_code": "def solve(): return (25 ** 2 - 100) * 4"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 31?", "expected_code": "def solve(): return 8 - 31"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 and 89?", "expected_code": "def solve(): return 100 - 89"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 73 and 99?", "expected_code": "def solve(): return 73 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 98 and 89?", "expected_code": "def solve(): return 98 - 89"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 4 and 74?", "expected_code": "def solve(): return 4 - 74"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 12 and 100?", "expected_code": "def solve(): return 12 - 100"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 40 and 79?", "expected_code": "def solve(): return 40 - 79"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 22 and 34?", "expected_code": "def solve(): return 22 - 34"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 25 and 51?", "expected_code": "def solve(): return 25 - 51"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 57 and 3?", "expected_code": "def solve(): return 57 - 3"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 94 and 1?", "expected_code": "def solve(): return 94 - 1"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 31 and 11?", "expected_code": "def solve(): return 31 - 11"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 47 and 92?", "expected_code": "def solve(): return 47 - 92"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 90 and 55?", "expected_code": "def solve(): return 90 - 55"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 65 and 13?", "expected_code": "def solve(): return 65 - 13"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 40 and 65?", "expected_code": "def solve(): return 40 - 65"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 64 and 39?", "expected_code": "def solve(): return 64 - 39"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 95 and 73?", "expected_code": "def solve(): return 95 - 73"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 7 and 94?", "expected_code": "def solve(): return 7 - 94"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 16 and 7?", "expected_code": "def solve(): return 16 - 7"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 17?", "expected_code": "def solve(): return 5 - 17"}
+{"question": "Determine the difference between of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 - num2 - num3"}
+{"question": "Determine the difference between of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha - beta - gamma"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 98 and 38?", "expected_code": "def solve(): return 98 - 38"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 54 and 95?", "expected_code": "def solve(): return 54 - 95"}
+{"question": "Calculate the difference between of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a - b"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 85 and 99?", "expected_code": "def solve(): return 85 - 99"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 24 and 37?", "expected_code": "def solve(): return 24 - 37"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 83 and 96?", "expected_code": "def solve(): return 83 - 96"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 8 and 43?", "expected_code": "def solve(): return 8 - 43"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 5 and 88?", "expected_code": "def solve(): return 5 - 88"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 73 and 1?", "expected_code": "def solve(): return 73 - 1"}
+{"question": "Determine the difference between of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p - q - r"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 75 and 89?", "expected_code": "def solve(): return 75 - 89"}

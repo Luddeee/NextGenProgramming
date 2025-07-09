@@ -1,0 +1,864 @@
+{"question": "Create a function to calculate the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 46?", "expected_code": "def solve(): return 15 + 46"}
+{"question": "Convert this word problem into Python code: What is the sum of 29 and 68?", "expected_code": "def solve(): return 29 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 29 and 16?", "expected_code": "def solve(): return 29 + 16"}
+{"question": "What is the sum of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 30, 40, and 50 by 2.", "expected_code": "def solve(): return (30 + 40 + 50) * 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 91 and 63?", "expected_code": "def solve(): return 91 + 63"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 60?", "expected_code": "def solve(): return 68 + 60"}
+{"question": "Convert this word problem into Python code: What is the sum of 32 and 65?", "expected_code": "def solve(): return 32 + 65"}
+{"question": "Convert this word problem into Python code: What is the sum of 23 and 22?", "expected_code": "def solve(): return 23 + 22"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 81?", "expected_code": "def solve(): return 14 + 81"}
+{"question": "Convert this word problem into Python code: What is the sum of 4 and 64?", "expected_code": "def solve(): return 4 + 64"}
+{"question": "Convert this word problem into Python code: What is the sum of 13 and 60?", "expected_code": "def solve(): return 13 + 60"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 5?", "expected_code": "def solve(): return 93 + 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 40 and 72?", "expected_code": "def solve(): return 40 + 72"}
+{"question": "Convert this word problem into Python code: What is the sum of 40 and 13?", "expected_code": "def solve(): return 40 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 21 and 26?", "expected_code": "def solve(): return 21 + 26"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 97?", "expected_code": "def solve(): return 33 + 97"}
+{"question": "What is the sum of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Convert this word problem into Python code: What is the sum of 12 and 97?", "expected_code": "def solve(): return 12 + 97"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 97 and 25?", "expected_code": "def solve(): return 97 + 25"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 82?", "expected_code": "def solve(): return 70 + 82"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 53?", "expected_code": "def solve(): return 54 + 53"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 79?", "expected_code": "def solve(): return 100 + 79"}
+{"question": "Convert this word problem into Python code: What is the sum of 23 and 15?", "expected_code": "def solve(): return 23 + 15"}
+{"question": "Convert this word problem into Python code: What is the sum of 97 and 92?", "expected_code": "def solve(): return 97 + 92"}
+{"question": "Convert this word problem into Python code: What is the sum of 40 and 93?", "expected_code": "def solve(): return 40 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 99?", "expected_code": "def solve(): return 7 + 99"}
+{"question": "Convert this word problem into Python code: What is the sum of 95 and 43?", "expected_code": "def solve(): return 95 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 36 and 12?", "expected_code": "def solve(): return 36 + 12"}
+{"question": "Convert this word problem into Python code: What is the sum of 4 and 23?", "expected_code": "def solve(): return 4 + 23"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 14?", "expected_code": "def solve(): return 20 + 14"}
+{"question": "Convert this word problem into Python code: Subtract the square of 8 from the product of 6 and 7, then add the square root of 49.", "expected_code": "import math\ndef solve(): return (6 * 7 - 8 ** 2) + math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: Determine the sum of the square root of 81 and the product of 10 and 5, then subtract 100.", "expected_code": "import math\ndef solve(): return math.sqrt(81) + 10 * 5 - 100"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 19?", "expected_code": "def solve(): return 99 + 19"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 70?", "expected_code": "def solve(): return 37 + 70"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 90?", "expected_code": "def solve(): return 59 + 90"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 81?", "expected_code": "def solve(): return 79 + 81"}
+{"question": "Convert this word problem into Python code: What is the sum of 98 and 53?", "expected_code": "def solve(): return 98 + 53"}
+{"question": "Convert this word problem into Python code: What is the sum of 63 and 17?", "expected_code": "def solve(): return 63 + 17"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 47?", "expected_code": "def solve(): return 93 + 47"}
+{"question": "Convert this word problem into Python code: What is the sum of 13 and 91?", "expected_code": "def solve(): return 13 + 91"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 52?", "expected_code": "def solve(): return 7 + 52"}
+{"question": "What is the sum of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 55 and 5?", "expected_code": "def solve(): return 55 + 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 71 and 54?", "expected_code": "def solve(): return 71 + 54"}
+{"question": "Write a Python function for the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 49 and 12?", "expected_code": "def solve(): return 49 + 12"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 85 and 34?", "expected_code": "def solve(): return 85 + 34"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 85 and 28?", "expected_code": "def solve(): return 85 + 28"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 1?", "expected_code": "def solve(): return 5 + 1"}
+{"question": "Convert this word problem into Python code: What is the sum of 44 and 11?", "expected_code": "def solve(): return 44 + 11"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 45?", "expected_code": "def solve(): return 58 + 45"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 41 and 74?", "expected_code": "def solve(): return 41 + 74"}
+{"question": "Convert this word problem into Python code: What is the sum of 75 and 14?", "expected_code": "def solve(): return 75 + 14"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Write a Python function for the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "What is the sum of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 21 and 15?", "expected_code": "def solve(): return 21 + 15"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 13?", "expected_code": "def solve(): return 78 + 13"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 43?", "expected_code": "def solve(): return 68 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 25 and 1?", "expected_code": "def solve(): return 25 + 1"}
+{"question": "Convert this word problem into Python code: What is the sum of 50 and 91?", "expected_code": "def solve(): return 50 + 91"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 69?", "expected_code": "def solve(): return 18 + 69"}
+{"question": "Convert this word problem into Python code: What is the sum of 10 and 28?", "expected_code": "def solve(): return 10 + 28"}
+{"question": "Convert this word problem into Python code: Determine the sum of the square of 16 and the cube of 3, then divide by 5.", "expected_code": "def solve(): return (16 ** 2 + 3 ** 3) / 5"}
+{"question": "What is the sum of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 31?", "expected_code": "def solve(): return 8 + 31"}
+{"question": "Write a Python function for the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Determine the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 60?", "expected_code": "def solve(): return 60 + 60"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 2?", "expected_code": "def solve(): return 20 + 2"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 1?", "expected_code": "def solve(): return 70 + 1"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 94?", "expected_code": "def solve(): return 34 + 94"}
+{"question": "What is the sum of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Create a function to calculate the sum of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 19?", "expected_code": "def solve(): return 14 + 19"}
+{"question": "Create a function to calculate the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 32?", "expected_code": "def solve(): return 52 + 32"}
+{"question": "Convert this word problem into Python code: What is the sum of 86 and 66?", "expected_code": "def solve(): return 86 + 66"}
+{"question": "What is the sum of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 77 and 63?", "expected_code": "def solve(): return 77 + 63"}
+{"question": "Convert this word problem into Python code: What is the sum of 17 and 93?", "expected_code": "def solve(): return 17 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 48?", "expected_code": "def solve(): return 27 + 48"}
+{"question": "Write a Python function for the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Create a function to calculate the sum of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 47?", "expected_code": "def solve(): return 59 + 47"}
+{"question": "Convert this word problem into Python code: What is the sum of 81 and 97?", "expected_code": "def solve(): return 81 + 97"}
+{"question": "Write a Python function for the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 15?", "expected_code": "def solve(): return 8 + 15"}
+{"question": "Convert this word problem into Python code: What is the sum of 30 and 88?", "expected_code": "def solve(): return 30 + 88"}
+{"question": "Convert this word problem into Python code: What is the sum of 66 and 59?", "expected_code": "def solve(): return 66 + 59"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 34?", "expected_code": "def solve(): return 70 + 34"}
+{"question": "Convert this word problem into Python code: What is the sum of 12 and 88?", "expected_code": "def solve(): return 12 + 88"}
+{"question": "Convert this word problem into Python code: What is the sum of 12 and 12?", "expected_code": "def solve(): return 12 + 12"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: Add 6 and 14 together.", "expected_code": "def solve(): return 6 + 14"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 250?", "expected_code": "def solve(): return 100 + 250"}
+{"question": "Create a function to calculate the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 13?", "expected_code": "def solve(): return 65 + 13"}
+{"question": "Write a Python function for the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 80 and 64?", "expected_code": "def solve(): return 80 + 64"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 95?", "expected_code": "def solve(): return 59 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 29 and 51?", "expected_code": "def solve(): return 29 + 51"}
+{"question": "Convert this word problem into Python code: What is the sum of 4 and 34?", "expected_code": "def solve(): return 4 + 34"}
+{"question": "Convert this word problem into Python code: What is the sum of 97 and 93?", "expected_code": "def solve(): return 97 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 41?", "expected_code": "def solve(): return 74 + 41"}
+{"question": "Convert this word problem into Python code: What is the sum of 29 and 26?", "expected_code": "def solve(): return 29 + 26"}
+{"question": "Calculate the sum of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Create a function to calculate the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 53 and 21?", "expected_code": "def solve(): return 53 + 21"}
+{"question": "Convert this word problem into Python code: Add the square of 20 to the product of 4 and 15, then divide by 10.", "expected_code": "def solve(): return (20 ** 2 + 4 * 15) / 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 2 and 5?", "expected_code": "def solve(): return 2 + 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 39 and 79?", "expected_code": "def solve(): return 39 + 79"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 84?", "expected_code": "def solve(): return 100 + 84"}
+{"question": "Convert this word problem into Python code: What is the sum of 66 and 97?", "expected_code": "def solve(): return 66 + 97"}
+{"question": "What is the sum of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Calculate the sum of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 2?", "expected_code": "def solve(): return 78 + 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 5?", "expected_code": "def solve(): return 3 + 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 24?", "expected_code": "def solve(): return 48 + 24"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 49?", "expected_code": "def solve(): return 70 + 49"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 78?", "expected_code": "def solve(): return 7 + 78"}
+{"question": "Convert this word problem into Python code: Add the cube of 5 to the product of 10 and 20, then subtract the square of 12.", "expected_code": "def solve(): return (5 ** 3 + 10 * 20) - 12 ** 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 98?", "expected_code": "def solve(): return 3 + 98"}
+{"question": "Convert this word problem into Python code: What is the sum of 82 and 95?", "expected_code": "def solve(): return 82 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 43 and 48?", "expected_code": "def solve(): return 43 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 17?", "expected_code": "def solve(): return 18 + 17"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 85?", "expected_code": "def solve(): return 11 + 85"}
+{"question": "Write a Python function for the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 41 and 10?", "expected_code": "def solve(): return 41 + 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 21 and 17?", "expected_code": "def solve(): return 21 + 17"}
+{"question": "Write a Python function for the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 38?", "expected_code": "def solve(): return 65 + 38"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 29?", "expected_code": "def solve(): return 11 + 29"}
+{"question": "Create a function to calculate the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 72?", "expected_code": "def solve(): return 11 + 72"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "What is the sum of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 81 and 14?", "expected_code": "def solve(): return 81 + 14"}
+{"question": "Convert this word problem into Python code: What is the sum of 97 and 71?", "expected_code": "def solve(): return 97 + 71"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 67?", "expected_code": "def solve(): return 7 + 67"}
+{"question": "What is the sum of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 15?", "expected_code": "def solve(): return 34 + 15"}
+{"question": "What is the sum of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Write a Python function for the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 98 and 44?", "expected_code": "def solve(): return 98 + 44"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 27?", "expected_code": "def solve(): return 78 + 27"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 20?", "expected_code": "def solve(): return 6 + 20"}
+{"question": "Determine the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Convert this word problem into Python code: What is the sum of 25 and 1?", "expected_code": "def solve(): return 25 + 1"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 88 and 5?", "expected_code": "def solve(): return 88 + 5"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 5?", "expected_code": "def solve(): return 93 + 5"}
+{"question": "Calculate the sum of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 14?", "expected_code": "def solve(): return 45 + 14"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 52?", "expected_code": "def solve(): return 59 + 52"}
+{"question": "Convert this word problem into Python code: What is the sum of 96 and 97?", "expected_code": "def solve(): return 96 + 97"}
+{"question": "Convert this word problem into Python code: What is the sum of 55 and 48?", "expected_code": "def solve(): return 55 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 32 and 54?", "expected_code": "def solve(): return 32 + 54"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 1?", "expected_code": "def solve(): return 78 + 1"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 43?", "expected_code": "def solve(): return 27 + 43"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 66 and 65?", "expected_code": "def solve(): return 66 + 65"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 13?", "expected_code": "def solve(): return 6 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 16 and 39?", "expected_code": "def solve(): return 16 + 39"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 41?", "expected_code": "def solve(): return 79 + 41"}
+{"question": "Convert this word problem into Python code: What is the sum of 23 and 52?", "expected_code": "def solve(): return 23 + 52"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 52?", "expected_code": "def solve(): return 100 + 52"}
+{"question": "Convert this word problem into Python code: What is the sum of 42 and 65?", "expected_code": "def solve(): return 42 + 65"}
+{"question": "Convert this word problem into Python code: What is the sum of 2 and 30?", "expected_code": "def solve(): return 2 + 30"}
+{"question": "Convert this word problem into Python code: What is the sum of 77 and 90?", "expected_code": "def solve(): return 77 + 90"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 1?", "expected_code": "def solve(): return 48 + 1"}
+{"question": "Convert this word problem into Python code: Add together 33, 44, and 23.", "expected_code": "def solve(): return 33 + 44 + 23"}
+{"question": "Convert this word problem into Python code: What is the sum of 84 and 51?", "expected_code": "def solve(): return 84 + 51"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 70?", "expected_code": "def solve(): return 54 + 70"}
+{"question": "Convert this word problem into Python code: What is the sum of 42 and 65?", "expected_code": "def solve(): return 42 + 65"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 1?", "expected_code": "def solve(): return 5 + 1"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 68?", "expected_code": "def solve(): return 58 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 4 and 36?", "expected_code": "def solve(): return 4 + 36"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 49?", "expected_code": "def solve(): return 64 + 49"}
+{"question": "Convert this word problem into Python code: Add 5, 10, and 15.", "expected_code": "def solve(): return 5 + 10 + 15"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 37?", "expected_code": "def solve(): return 33 + 37"}
+{"question": "What is the sum of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 43 and 7?", "expected_code": "def solve(): return 43 + 7"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 86?", "expected_code": "def solve(): return 65 + 86"}
+{"question": "Convert this word problem into Python code: Add 7 and 21.", "expected_code": "def solve(): return 7 + 21"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 32?", "expected_code": "def solve(): return 33 + 32"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 51?", "expected_code": "def solve(): return 54 + 51"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 39?", "expected_code": "def solve(): return 62 + 39"}
+{"question": "Convert this word problem into Python code: What is the sum of 30 and 98?", "expected_code": "def solve(): return 30 + 98"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 50?", "expected_code": "def solve(): return 45 + 50"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 79?", "expected_code": "def solve(): return 18 + 79"}
+{"question": "Write a Python function for the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 24 and 32?", "expected_code": "def solve(): return 24 + 32"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 34?", "expected_code": "def solve(): return 79 + 34"}
+{"question": "Determine the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 61?", "expected_code": "def solve(): return 5 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 76 and 61?", "expected_code": "def solve(): return 76 + 61"}
+{"question": "Write a Python function for the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 91 and 28?", "expected_code": "def solve(): return 91 + 28"}
+{"question": "Convert this word problem into Python code: What is the sum of 49 and 6?", "expected_code": "def solve(): return 49 + 6"}
+{"question": "Convert this word problem into Python code: What is the sum of 17 and 74?", "expected_code": "def solve(): return 17 + 74"}
+{"question": "Convert this word problem into Python code: What is the sum of 51 and 75?", "expected_code": "def solve(): return 51 + 75"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 95?", "expected_code": "def solve(): return 78 + 95"}
+{"question": "Write a Python function for the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 23 and 57?", "expected_code": "def solve(): return 23 + 57"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 33?", "expected_code": "def solve(): return 27 + 33"}
+{"question": "Convert this word problem into Python code: What is the sum of 81 and 36?", "expected_code": "def solve(): return 81 + 36"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 5?", "expected_code": "def solve(): return 34 + 5"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Write a Python function for the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 92 and 67?", "expected_code": "def solve(): return 92 + 67"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 43?", "expected_code": "def solve(): return 27 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 63 and 29?", "expected_code": "def solve(): return 63 + 29"}
+{"question": "Calculate the sum of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 94 and 40?", "expected_code": "def solve(): return 94 + 40"}
+{"question": "Convert this word problem into Python code: What is the sum of 25 and 93?", "expected_code": "def solve(): return 25 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 84?", "expected_code": "def solve(): return 99 + 84"}
+{"question": "Create a function to calculate the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 61?", "expected_code": "def solve(): return 99 + 61"}
+{"question": "Write a Python function for the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 89 and 96?", "expected_code": "def solve(): return 89 + 96"}
+{"question": "Convert this word problem into Python code: What is the sum of 2 and 16?", "expected_code": "def solve(): return 2 + 16"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 11?", "expected_code": "def solve(): return 45 + 11"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 13?", "expected_code": "def solve(): return 6 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 63?", "expected_code": "def solve(): return 58 + 63"}
+{"question": "Calculate the sum of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 53?", "expected_code": "def solve(): return 11 + 53"}
+{"question": "Convert this word problem into Python code: What is the sum of 51 and 76?", "expected_code": "def solve(): return 51 + 76"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 48?", "expected_code": "def solve(): return 64 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 88 and 2?", "expected_code": "def solve(): return 88 + 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 72?", "expected_code": "def solve(): return 100 + 72"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 17?", "expected_code": "def solve(): return 26 + 17"}
+{"question": "Convert this word problem into Python code: What is the sum of 71 and 96?", "expected_code": "def solve(): return 71 + 96"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 90?", "expected_code": "def solve(): return 74 + 90"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 43?", "expected_code": "def solve(): return 72 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 57 and 73?", "expected_code": "def solve(): return 57 + 73"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 48?", "expected_code": "def solve(): return 78 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 49 and 74?", "expected_code": "def solve(): return 49 + 74"}
+{"question": "Convert this word problem into Python code: What is the sum of 91 and 90?", "expected_code": "def solve(): return 91 + 90"}
+{"question": "Write a Python function for the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 69 and 78?", "expected_code": "def solve(): return 69 + 78"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 74?", "expected_code": "def solve(): return 54 + 74"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 7?", "expected_code": "def solve(): return 15 + 7"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 61?", "expected_code": "def solve(): return 5 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 90 and 24?", "expected_code": "def solve(): return 90 + 24"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 8?", "expected_code": "def solve(): return 33 + 8"}
+{"question": "Convert this word problem into Python code: What is the sum of 51 and 25?", "expected_code": "def solve(): return 51 + 25"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 58?", "expected_code": "def solve(): return 62 + 58"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 83?", "expected_code": "def solve(): return 64 + 83"}
+{"question": "What is the sum of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 41 and 98?", "expected_code": "def solve(): return 41 + 98"}
+{"question": "Determine the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: What is the sum of 47 and 1?", "expected_code": "def solve(): return 47 + 1"}
+{"question": "Create a function to calculate the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 69 and 28?", "expected_code": "def solve(): return 69 + 28"}
+{"question": "Write a Python function for the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Calculate the sum of of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Create a function to calculate the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 53 and 98?", "expected_code": "def solve(): return 53 + 98"}
+{"question": "Create a function to calculate the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 87 and 48?", "expected_code": "def solve(): return 87 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 20?", "expected_code": "def solve(): return 3 + 20"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 55?", "expected_code": "def solve(): return 62 + 55"}
+{"question": "Convert this word problem into Python code: What is the sum of 88 and 81?", "expected_code": "def solve(): return 88 + 81"}
+{"question": "Convert this word problem into Python code: What is the sum of 63 and 94?", "expected_code": "def solve(): return 63 + 94"}
+{"question": "Write a Python function for the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 94 and 48?", "expected_code": "def solve(): return 94 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 86?", "expected_code": "def solve(): return 65 + 86"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 6?", "expected_code": "def solve(): return 27 + 6"}
+{"question": "Convert this word problem into Python code: What is the sum of 43 and 26?", "expected_code": "def solve(): return 43 + 26"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 52?", "expected_code": "def solve(): return 74 + 52"}
+{"question": "Convert this word problem into Python code: What is the sum of 41 and 74?", "expected_code": "def solve(): return 41 + 74"}
+{"question": "Convert this word problem into Python code: What is the sum of 56 and 91?", "expected_code": "def solve(): return 56 + 91"}
+{"question": "Convert this word problem into Python code: Determine the square of 15 added to the product of 7 and 5, then divide by 10.", "expected_code": "def solve(): return (15 ** 2 + 7 * 5) / 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 96?", "expected_code": "def solve(): return 62 + 96"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Determine the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 61 and 87?", "expected_code": "def solve(): return 61 + 87"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 91?", "expected_code": "def solve(): return 100 + 91"}
+{"question": "Convert this word problem into Python code: What is the sum of 50 and 89?", "expected_code": "def solve(): return 50 + 89"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 5?", "expected_code": "def solve(): return 27 + 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 24 and 97?", "expected_code": "def solve(): return 24 + 97"}
+{"question": "Convert this word problem into Python code: Add the square of 14 to the cube of 3, then subtract 50.", "expected_code": "def solve(): return 14 ** 2 + 3 ** 3 - 50"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 38?", "expected_code": "def solve(): return 54 + 38"}
+{"question": "Convert this word problem into Python code: What is the sum of 97 and 96?", "expected_code": "def solve(): return 97 + 96"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 78?", "expected_code": "def solve(): return 72 + 78"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 51?", "expected_code": "def solve(): return 6 + 51"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 10 and 7 by the square of 8, then subtract 150.", "expected_code": "def solve(): return (10 + 7) * 8 ** 2 - 150"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 66?", "expected_code": "def solve(): return 59 + 66"}
+{"question": "Convert this word problem into Python code: Add the square of 30 to the product of 7 and 5, then divide by 6.", "expected_code": "def solve(): return (30 ** 2 + 7 * 5) / 6"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Create a function to calculate the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 4 and 68?", "expected_code": "def solve(): return 4 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 42?", "expected_code": "def solve(): return 52 + 42"}
+{"question": "Calculate the sum of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 32?", "expected_code": "def solve(): return 70 + 32"}
+{"question": "Create a function to calculate the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 13?", "expected_code": "def solve(): return 45 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 88?", "expected_code": "def solve(): return 79 + 88"}
+{"question": "Convert this word problem into Python code: What is the sum of 76 and 75?", "expected_code": "def solve(): return 76 + 75"}
+{"question": "Determine the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 63?", "expected_code": "def solve(): return 6 + 63"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 8?", "expected_code": "def solve(): return 20 + 8"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 67?", "expected_code": "def solve(): return 46 + 67"}
+{"question": "Convert this word problem into Python code: What is the sum of 61 and 67?", "expected_code": "def solve(): return 61 + 67"}
+{"question": "Convert this word problem into Python code: What is the sum of 22 and 32?", "expected_code": "def solve(): return 22 + 32"}
+{"question": "Calculate the sum of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 12 and 12?", "expected_code": "def solve(): return 12 + 12"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 31?", "expected_code": "def solve(): return 37 + 31"}
+{"question": "Convert this word problem into Python code: What is the sum of 66 and 6?", "expected_code": "def solve(): return 66 + 6"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 14?", "expected_code": "def solve(): return 28 + 14"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 53?", "expected_code": "def solve(): return 45 + 53"}
+{"question": "Convert this word problem into Python code: What is the sum of 84 and 44?", "expected_code": "def solve(): return 84 + 44"}
+{"question": "What is the sum of of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "What is the sum of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 42 and 24?", "expected_code": "def solve(): return 42 + 24"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 44?", "expected_code": "def solve(): return 33 + 44"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 4?", "expected_code": "def solve(): return 100 + 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 69 and 28?", "expected_code": "def solve(): return 69 + 28"}
+{"question": "Convert this word problem into Python code: What is the sum of 89 and 94?", "expected_code": "def solve(): return 89 + 94"}
+{"question": "Determine the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 8 and 10 by the square of 6, then subtract the cube of 4.", "expected_code": "def solve(): return ((8 + 10) * 6 ** 2) - 4 ** 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 67?", "expected_code": "def solve(): return 11 + 67"}
+{"question": "What is the sum of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Write a Python function for the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Calculate the sum of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 49 and 80?", "expected_code": "def solve(): return 49 + 80"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 31?", "expected_code": "def solve(): return 8 + 31"}
+{"question": "Create a function to calculate the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 85?", "expected_code": "def solve(): return 11 + 85"}
+{"question": "Convert this word problem into Python code: What is the sum of 94 and 48?", "expected_code": "def solve(): return 94 + 48"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 72?", "expected_code": "def solve(): return 79 + 72"}
+{"question": "Convert this word problem into Python code: What is the sum of 80 and 10?", "expected_code": "def solve(): return 80 + 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 72?", "expected_code": "def solve(): return 62 + 72"}
+{"question": "Convert this word problem into Python code: What is the sum of 53 and 18?", "expected_code": "def solve(): return 53 + 18"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 4?", "expected_code": "def solve(): return 20 + 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 2 and 11?", "expected_code": "def solve(): return 2 + 11"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 39?", "expected_code": "def solve(): return 46 + 39"}
+{"question": "Convert this word problem into Python code: Determine the difference between the square of 14 and the product of 6 and 9, then add the cube of 3.", "expected_code": "def solve(): return (14 ** 2 - 6 * 9) + 3 ** 3"}
+{"question": "What is the sum of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 84 and 29?", "expected_code": "def solve(): return 84 + 29"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 61?", "expected_code": "def solve(): return 99 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 90?", "expected_code": "def solve(): return 72 + 90"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 40?", "expected_code": "def solve(): return 28 + 40"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 18?", "expected_code": "def solve(): return 74 + 18"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 89?", "expected_code": "def solve(): return 79 + 89"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 87?", "expected_code": "def solve(): return 79 + 87"}
+{"question": "Convert this word problem into Python code: What is the sum of 22 and 54?", "expected_code": "def solve(): return 22 + 54"}
+{"question": "Convert this word problem into Python code: Determine the sum of the square root of 81 and the product of 10 and 5, then subtract 100.", "expected_code": "import math\ndef solve(): return math.sqrt(81) + 10 * 5 - 100"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 12?", "expected_code": "def solve(): return 26 + 12"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 75?", "expected_code": "def solve(): return 54 + 75"}
+{"question": "Convert this word problem into Python code: What is the sum of 53 and 7?", "expected_code": "def solve(): return 53 + 7"}
+{"question": "Determine the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 34?", "expected_code": "def solve(): return 7 + 34"}
+{"question": "Convert this word problem into Python code: What is the sum of 32 and 54?", "expected_code": "def solve(): return 32 + 54"}
+{"question": "Convert this word problem into Python code: What is the sum of 91 and 90?", "expected_code": "def solve(): return 91 + 90"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 22?", "expected_code": "def solve(): return 46 + 22"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Calculate the sum of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 35 and 8?", "expected_code": "def solve(): return 35 + 8"}
+{"question": "Determine the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Determine the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: Determine the sum of the square of 9 and the cube of 3.", "expected_code": "def solve(): return 9 ** 2 + 3 ** 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 21?", "expected_code": "def solve(): return 28 + 21"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of the square of 18 and the product of 5 and 10, then divided by 4?", "expected_code": "def solve(): return (18 ** 2 + 5 * 10) / 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 83 and 15?", "expected_code": "def solve(): return 83 + 15"}
+{"question": "Calculate the sum of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 86?", "expected_code": "def solve(): return 65 + 86"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 7?", "expected_code": "def solve(): return 15 + 7"}
+{"question": "Convert this word problem into Python code: What is the sum of 38 and 52?", "expected_code": "def solve(): return 38 + 52"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 99?", "expected_code": "def solve(): return 7 + 99"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 61?", "expected_code": "def solve(): return 37 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 43 and 30?", "expected_code": "def solve(): return 43 + 30"}
+{"question": "Convert this word problem into Python code: What is the sum of 77 and 1?", "expected_code": "def solve(): return 77 + 1"}
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 95?", "expected_code": "def solve(): return 3 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 97 and 90?", "expected_code": "def solve(): return 97 + 90"}
+{"question": "Convert this word problem into Python code: What is the sum of 96 and 29?", "expected_code": "def solve(): return 96 + 29"}
+{"question": "Convert this word problem into Python code: What is the sum of 82 and 42?", "expected_code": "def solve(): return 82 + 42"}
+{"question": "Convert this word problem into Python code: What is the sum of 17 and 99?", "expected_code": "def solve(): return 17 + 99"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 27?", "expected_code": "def solve(): return 26 + 27"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 6?", "expected_code": "def solve(): return 100 + 6"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 51?", "expected_code": "def solve(): return 60 + 51"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 2?", "expected_code": "def solve(): return 78 + 2"}
+{"question": "Create a function to calculate the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: Add the product of 5 and 10 to the square of 18, then divide by 4.", "expected_code": "def solve(): return (5 * 10 + 18 ** 2) / 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 67 and 95?", "expected_code": "def solve(): return 67 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 48?", "expected_code": "def solve(): return 74 + 48"}
+{"question": "Calculate the sum of of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 71?", "expected_code": "def solve(): return 5 + 71"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 52?", "expected_code": "def solve(): return 59 + 52"}
+{"question": "Determine the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 83 and 20?", "expected_code": "def solve(): return 83 + 20"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 46?", "expected_code": "def solve(): return 11 + 46"}
+{"question": "Convert this word problem into Python code: What is the sum of 40 and 93?", "expected_code": "def solve(): return 40 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 9?", "expected_code": "def solve(): return 14 + 9"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 41?", "expected_code": "def solve(): return 74 + 41"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 27?", "expected_code": "def solve(): return 45 + 27"}
+{"question": "Create a function to calculate the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 82?", "expected_code": "def solve(): return 34 + 82"}
+{"question": "Determine the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 22?", "expected_code": "def solve(): return 74 + 22"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 36?", "expected_code": "def solve(): return 74 + 36"}
+{"question": "Convert this word problem into Python code: Add 18, 27, and 45.", "expected_code": "def solve(): return 18 + 27 + 45"}
+{"question": "Convert this word problem into Python code: What is the sum of 17 and 95?", "expected_code": "def solve(): return 17 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 66?", "expected_code": "def solve(): return 31 + 66"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 80 and 39?", "expected_code": "def solve(): return 80 + 39"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 56 and 95?", "expected_code": "def solve(): return 56 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 85 and 85?", "expected_code": "def solve(): return 85 + 85"}
+{"question": "Convert this word problem into Python code: What is the sum of 83 and 22?", "expected_code": "def solve(): return 83 + 22"}
+{"question": "Convert this word problem into Python code: What is the sum of 13 and 21?", "expected_code": "def solve(): return 13 + 21"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 39?", "expected_code": "def solve(): return 68 + 39"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 22?", "expected_code": "def solve(): return 46 + 22"}
+{"question": "What is the sum of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 69 and 95?", "expected_code": "def solve(): return 69 + 95"}
+{"question": "What is the sum of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 95?", "expected_code": "def solve(): return 58 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 35?", "expected_code": "def solve(): return 31 + 35"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 23?", "expected_code": "def solve(): return 26 + 23"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 83?", "expected_code": "def solve(): return 11 + 83"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 68?", "expected_code": "def solve(): return 1 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 27?", "expected_code": "def solve(): return 72 + 27"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 99?", "expected_code": "def solve(): return 79 + 99"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 3?", "expected_code": "def solve(): return 8 + 3"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Determine the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 70?", "expected_code": "def solve(): return 52 + 70"}
+{"question": "Convert this word problem into Python code: What is the sum of 80 and 42?", "expected_code": "def solve(): return 80 + 42"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 64?", "expected_code": "def solve(): return 46 + 64"}
+{"question": "Convert this word problem into Python code: What is the sum of 9 and 57?", "expected_code": "def solve(): return 9 + 57"}
+{"question": "Convert this word problem into Python code: What is the sum of 80 and 82?", "expected_code": "def solve(): return 80 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 57 and 53?", "expected_code": "def solve(): return 57 + 53"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 90?", "expected_code": "def solve(): return 31 + 90"}
+{"question": "Calculate the sum of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 47 and 68?", "expected_code": "def solve(): return 47 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 39?", "expected_code": "def solve(): return 8 + 39"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 60?", "expected_code": "def solve(): return 34 + 60"}
+{"question": "Convert this word problem into Python code: Multiply the difference between 15 and the square of 7 by the sum of 6 and 9, then divide by 10.", "expected_code": "def solve(): return ((15 - 7 ** 2) * (6 + 9)) / 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 92 and 59?", "expected_code": "def solve(): return 92 + 59"}
+{"question": "Convert this word problem into Python code: What is the sum of 89 and 68?", "expected_code": "def solve(): return 89 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 63?", "expected_code": "def solve(): return 26 + 63"}
+{"question": "Convert this word problem into Python code: What is the sum of 67 and 23?", "expected_code": "def solve(): return 67 + 23"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 10 and 52?", "expected_code": "def solve(): return 10 + 52"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 7?", "expected_code": "def solve(): return 15 + 7"}
+{"question": "Convert this word problem into Python code: What is the sum of 51 and 20?", "expected_code": "def solve(): return 51 + 20"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 31?", "expected_code": "def solve(): return 60 + 31"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 27?", "expected_code": "def solve(): return 72 + 27"}
+{"question": "Convert this word problem into Python code: What is the sum of 87 and 24?", "expected_code": "def solve(): return 87 + 24"}
+{"question": "Convert this word problem into Python code: What is the sum of 9 and 61?", "expected_code": "def solve(): return 9 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 50?", "expected_code": "def solve(): return 79 + 50"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 79?", "expected_code": "def solve(): return 72 + 79"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 14?", "expected_code": "def solve(): return 20 + 14"}
+{"question": "Write a Python function for the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Write a Python function for the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 45?", "expected_code": "def solve(): return 26 + 45"}
+{"question": "Convert this word problem into Python code: What is the sum of 75 and 2?", "expected_code": "def solve(): return 75 + 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 43?", "expected_code": "def solve(): return 60 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 43 and 31?", "expected_code": "def solve(): return 43 + 31"}
+{"question": "Convert this word problem into Python code: What is the sum of 50 and 51?", "expected_code": "def solve(): return 50 + 51"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 99?", "expected_code": "def solve(): return 60 + 99"}
+{"question": "Calculate the sum of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 22 and 1?", "expected_code": "def solve(): return 22 + 1"}
+{"question": "Determine the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 76 and 30?", "expected_code": "def solve(): return 76 + 30"}
+{"question": "Convert this word problem into Python code: What is the sum of 9 and 43?", "expected_code": "def solve(): return 9 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 40?", "expected_code": "def solve(): return 70 + 40"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 74?", "expected_code": "def solve(): return 33 + 74"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 82 and 13?", "expected_code": "def solve(): return 82 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 2 and 56?", "expected_code": "def solve(): return 2 + 56"}
+{"question": "Convert this word problem into Python code: What is the sum of 40 and 38?", "expected_code": "def solve(): return 40 + 38"}
+{"question": "Convert this word problem into Python code: What is the sum of 39 and 76?", "expected_code": "def solve(): return 39 + 76"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 29?", "expected_code": "def solve(): return 6 + 29"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 44 and 2?", "expected_code": "def solve(): return 44 + 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 38 and 49?", "expected_code": "def solve(): return 38 + 49"}
+{"question": "Create a function to calculate the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 63?", "expected_code": "def solve(): return 48 + 63"}
+{"question": "Convert this word problem into Python code: What is the sum of 98 and 75?", "expected_code": "def solve(): return 98 + 75"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 96?", "expected_code": "def solve(): return 48 + 96"}
+{"question": "Convert this word problem into Python code: What is the sum of 86 and 3?", "expected_code": "def solve(): return 86 + 3"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 38?", "expected_code": "def solve(): return 68 + 38"}
+{"question": "Convert this word problem into Python code: What is the sum of 17 and 52?", "expected_code": "def solve(): return 17 + 52"}
+{"question": "Convert this word problem into Python code: What is the sum of 53 and 98?", "expected_code": "def solve(): return 53 + 98"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 39 and 79?", "expected_code": "def solve(): return 39 + 79"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 73?", "expected_code": "def solve(): return 78 + 73"}
+{"question": "Convert this word problem into Python code: What is the sum of 8 and 24?", "expected_code": "def solve(): return 8 + 24"}
+{"question": "Determine the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Write a Python function for the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: Determine the sum of the square root of 256 and the cube of 3, then divide by 12.", "expected_code": "import math\ndef solve(): return (math.sqrt(256) + 3 ** 3) / 12"}
+{"question": "Convert this word problem into Python code: What is the sum of 94 and 13?", "expected_code": "def solve(): return 94 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 26?", "expected_code": "def solve(): return 34 + 26"}
+{"question": "Convert this word problem into Python code: What is the sum of 83 and 40?", "expected_code": "def solve(): return 83 + 40"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Determine the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Calculate the sum of of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: Multiply 25 by the sum of the squares of 3 and 6, then divide by 5.", "expected_code": "def solve(): return 25 * (3 ** 2 + 6 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 29?", "expected_code": "def solve(): return 1 + 29"}
+{"question": "Convert this word problem into Python code: What is the sum of 9 and 62?", "expected_code": "def solve(): return 9 + 62"}
+{"question": "What is the sum of of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Create a function to calculate the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 88?", "expected_code": "def solve(): return 3 + 88"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 70?", "expected_code": "def solve(): return 37 + 70"}
+{"question": "Write a Python function for the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 13 and 21?", "expected_code": "def solve(): return 13 + 21"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 38?", "expected_code": "def solve(): return 54 + 38"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 83?", "expected_code": "def solve(): return 15 + 83"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 84?", "expected_code": "def solve(): return 93 + 84"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Write a Python function for the sum of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 47 and 13?", "expected_code": "def solve(): return 47 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 34?", "expected_code": "def solve(): return 7 + 34"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 12?", "expected_code": "def solve(): return 31 + 12"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 39 and 77?", "expected_code": "def solve(): return 39 + 77"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 42?", "expected_code": "def solve(): return 52 + 42"}
+{"question": "Create a function to calculate the sum of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 32?", "expected_code": "def solve(): return 70 + 32"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 71?", "expected_code": "def solve(): return 26 + 71"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 31?", "expected_code": "def solve(): return 1 + 31"}
+{"question": "Calculate the sum of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 61 and 97?", "expected_code": "def solve(): return 61 + 97"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 80?", "expected_code": "def solve(): return 93 + 80"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 12?", "expected_code": "def solve(): return 26 + 12"}
+{"question": "Convert this word problem into Python code: What is the sum of 66 and 94?", "expected_code": "def solve(): return 66 + 94"}
+{"question": "Convert this word problem into Python code: What is the result of multiplying the sum of 3 and 11 by the difference between the cube of 2 and the square of 4?", "expected_code": "def solve(): return (3 + 11) * (2 ** 3 - 4 ** 2)"}
+{"question": "Convert this word problem into Python code: What is the sum of 32 and 82?", "expected_code": "def solve(): return 32 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 33?", "expected_code": "def solve(): return 28 + 33"}
+{"question": "Convert this word problem into Python code: What is the sum of 41 and 83?", "expected_code": "def solve(): return 41 + 83"}
+{"question": "Convert this word problem into Python code: What is the sum of 96 and 36?", "expected_code": "def solve(): return 96 + 36"}
+{"question": "Create a function to calculate the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 9 and 26?", "expected_code": "def solve(): return 9 + 26"}
+{"question": "Convert this word problem into Python code: Subtract the square of 8 from the product of 6 and 7, then add the square root of 49.", "expected_code": "import math\ndef solve(): return (6 * 7 - 8 ** 2) + math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 75?", "expected_code": "def solve(): return 18 + 75"}
+{"question": "Convert this word problem into Python code: What is the sum of 82 and 78?", "expected_code": "def solve(): return 82 + 78"}
+{"question": "Convert this word problem into Python code: What is the sum of 42 and 71?", "expected_code": "def solve(): return 42 + 71"}
+{"question": "What is the sum of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Determine the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 41?", "expected_code": "def solve(): return 62 + 41"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 57?", "expected_code": "def solve(): return 52 + 57"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 25?", "expected_code": "def solve(): return 72 + 25"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 28?", "expected_code": "def solve(): return 100 + 28"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 94?", "expected_code": "def solve(): return 48 + 94"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: Determine the sum of the square root of 81 and the product of 10 and 5, then subtract 100.", "expected_code": "import math\ndef solve(): return math.sqrt(81) + 10 * 5 - 100"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 89?", "expected_code": "def solve(): return 54 + 89"}
+{"question": "Convert this word problem into Python code: What is the sum of 82 and 83?", "expected_code": "def solve(): return 82 + 83"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 92?", "expected_code": "def solve(): return 62 + 92"}
+{"question": "Convert this word problem into Python code: What is the sum of 25 and 21?", "expected_code": "def solve(): return 25 + 21"}
+{"question": "Convert this word problem into Python code: What is the sum of 39 and 79?", "expected_code": "def solve(): return 39 + 79"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 93?", "expected_code": "def solve(): return 64 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 96?", "expected_code": "def solve(): return 31 + 96"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 51 and 13?", "expected_code": "def solve(): return 51 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 63 and 3?", "expected_code": "def solve(): return 63 + 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 32?", "expected_code": "def solve(): return 26 + 32"}
+{"question": "Convert this word problem into Python code: Determine the product of the cube of 6 and the sum of 12 and 8, then subtract 200.", "expected_code": "def solve(): return (6 ** 3 * (12 + 8)) - 200"}
+{"question": "Convert this word problem into Python code: What is the sum of 94 and 13?", "expected_code": "def solve(): return 94 + 13"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 98?", "expected_code": "def solve(): return 37 + 98"}
+{"question": "Calculate the sum of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 67?", "expected_code": "def solve(): return 1 + 67"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 44?", "expected_code": "def solve(): return 34 + 44"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 23?", "expected_code": "def solve(): return 7 + 23"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 26?", "expected_code": "def solve(): return 58 + 26"}
+{"question": "Convert this word problem into Python code: What is the sum of 23 and 78?", "expected_code": "def solve(): return 23 + 78"}
+{"question": "Determine the sum of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Convert this word problem into Python code: What is the sum of 32 and 46?", "expected_code": "def solve(): return 32 + 46"}
+{"question": "Create a function to calculate the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "What is the sum of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 44 and 5?", "expected_code": "def solve(): return 44 + 5"}
+{"question": "Convert this word problem into Python code: What is the sum of 51 and 99?", "expected_code": "def solve(): return 51 + 99"}
+{"question": "Convert this word problem into Python code: What is the sum of 10 and 78?", "expected_code": "def solve(): return 10 + 78"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 95?", "expected_code": "def solve(): return 78 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 73 and 50?", "expected_code": "def solve(): return 73 + 50"}
+{"question": "Convert this word problem into Python code: What is the sum of 19 and 70?", "expected_code": "def solve(): return 19 + 70"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 44?", "expected_code": "def solve(): return 72 + 44"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 44?", "expected_code": "def solve(): return 99 + 44"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 88 and 76?", "expected_code": "def solve(): return 88 + 76"}
+{"question": "Convert this word problem into Python code: What is the sum of 29 and 70?", "expected_code": "def solve(): return 29 + 70"}
+{"question": "Convert this word problem into Python code: What is the sum of 12 and 84?", "expected_code": "def solve(): return 12 + 84"}
+{"question": "Convert this word problem into Python code: What is the sum of 66 and 82?", "expected_code": "def solve(): return 66 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 86?", "expected_code": "def solve(): return 79 + 86"}
+{"question": "Convert this word problem into Python code: Add 85 and 15 together.", "expected_code": "def solve(): return 85 + 15"}
+{"question": "Convert this word problem into Python code: What is the sum of 11 and 2?", "expected_code": "def solve(): return 11 + 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 76 and 50?", "expected_code": "def solve(): return 76 + 50"}
+{"question": "Calculate the sum of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 1?", "expected_code": "def solve(): return 5 + 1"}
+{"question": "What is the sum of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 56 and 58?", "expected_code": "def solve(): return 56 + 58"}
+{"question": "Convert this word problem into Python code: What is the sum of 98 and 58?", "expected_code": "def solve(): return 98 + 58"}
+{"question": "Create a function to calculate the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: Divide 1000 by 5 and then add the square of 7.", "expected_code": "def solve(): return 1000 / 5 + 7 ** 2"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 90?", "expected_code": "def solve(): return 59 + 90"}
+{"question": "Create a function to calculate the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 61?", "expected_code": "def solve(): return 1 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 47 and 49?", "expected_code": "def solve(): return 47 + 49"}
+{"question": "Create a function to calculate the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 84?", "expected_code": "def solve(): return 31 + 84"}
+{"question": "Convert this word problem into Python code: What is the sum of 39 and 79?", "expected_code": "def solve(): return 39 + 79"}
+{"question": "Convert this word problem into Python code: What is the sum of 34 and 29?", "expected_code": "def solve(): return 34 + 29"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 61?", "expected_code": "def solve(): return 68 + 61"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 44?", "expected_code": "def solve(): return 99 + 44"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 62?", "expected_code": "def solve(): return 93 + 62"}
+{"question": "Convert this word problem into Python code: Determine the square of 20 added to the difference between the product of 4 and 6, then divide by 15.", "expected_code": "def solve(): return (20 ** 2 + (4 * 6)) / 15"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 78?", "expected_code": "def solve(): return 28 + 78"}
+{"question": "Convert this word problem into Python code: What is the sum of 67 and 69?", "expected_code": "def solve(): return 67 + 69"}
+{"question": "Convert this word problem into Python code: What is the sum of 61 and 96?", "expected_code": "def solve(): return 61 + 96"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 78?", "expected_code": "def solve(): return 7 + 78"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 41?", "expected_code": "def solve(): return 14 + 41"}
+{"question": "Convert this word problem into Python code: What is the sum of 43 and 54?", "expected_code": "def solve(): return 43 + 54"}
+{"question": "Convert this word problem into Python code: What is the sum of 19 and 10?", "expected_code": "def solve(): return 19 + 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 84?", "expected_code": "def solve(): return 1 + 84"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 63?", "expected_code": "def solve(): return 37 + 63"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 57?", "expected_code": "def solve(): return 28 + 57"}
+{"question": "Convert this word problem into Python code: What is the sum of 81 and 97?", "expected_code": "def solve(): return 81 + 97"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 93?", "expected_code": "def solve(): return 14 + 93"}
+{"question": "Convert this word problem into Python code: What is the sum of 90 and 23?", "expected_code": "def solve(): return 90 + 23"}
+{"question": "Determine the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 94 and 35?", "expected_code": "def solve(): return 94 + 35"}
+{"question": "Convert this word problem into Python code: What is the sum of 30 and 98?", "expected_code": "def solve(): return 30 + 98"}
+{"question": "Convert this word problem into Python code: What is the square root of the sum of 81 and 19?", "expected_code": "import math\ndef solve(): return math.sqrt(81 + 19)"}
+{"question": "Convert this word problem into Python code: What is the sum of 91 and 50?", "expected_code": "def solve(): return 91 + 50"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 2?", "expected_code": "def solve(): return 20 + 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 57?", "expected_code": "def solve(): return 74 + 57"}
+{"question": "Convert this word problem into Python code: Add 10, 25, and 40.", "expected_code": "def solve(): return 10 + 25 + 40"}
+{"question": "Convert this word problem into Python code: What is the sum of 57 and 4?", "expected_code": "def solve(): return 57 + 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 34?", "expected_code": "def solve(): return 70 + 34"}
+{"question": "Convert this word problem into Python code: Add the square of 30 to the product of 7 and 5, then divide by 6.", "expected_code": "def solve(): return (30 ** 2 + 7 * 5) / 6"}
+{"question": "Convert this word problem into Python code: What is the sum of 31 and 95?", "expected_code": "def solve(): return 31 + 95"}
+{"question": "Determine the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Determine the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 17?", "expected_code": "def solve(): return 7 + 17"}
+{"question": "Convert this word problem into Python code: What is the sum of 88 and 76?", "expected_code": "def solve(): return 88 + 76"}
+{"question": "Calculate the sum of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 81?", "expected_code": "def solve(): return 52 + 81"}
+{"question": "Convert this word problem into Python code: What is the sum of 93 and 24?", "expected_code": "def solve(): return 93 + 24"}
+{"question": "Convert this word problem into Python code: What is the sum of 81 and 64?", "expected_code": "def solve(): return 81 + 64"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 44 and 82?", "expected_code": "def solve(): return 44 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 30 and 96?", "expected_code": "def solve(): return 30 + 96"}
+{"question": "Convert this word problem into Python code: What is the sum of 91 and 53?", "expected_code": "def solve(): return 91 + 53"}
+{"question": "Convert this word problem into Python code: What is the sum of 92 and 45?", "expected_code": "def solve(): return 92 + 45"}
+{"question": "Convert this word problem into Python code: What is the sum of 67 and 41?", "expected_code": "def solve(): return 67 + 41"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 68?", "expected_code": "def solve(): return 1 + 68"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 23?", "expected_code": "def solve(): return 7 + 23"}
+{"question": "Convert this word problem into Python code: What is the sum of 87 and 24?", "expected_code": "def solve(): return 87 + 24"}
+{"question": "Determine the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Calculate the sum of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 5 and 55?", "expected_code": "def solve(): return 5 + 55"}
+{"question": "Create a function to calculate the sum of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha + beta"}
+{"question": "Write a Python function for the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 38 and 19?", "expected_code": "def solve(): return 38 + 19"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 47?", "expected_code": "def solve(): return 46 + 47"}
+{"question": "Convert this word problem into Python code: What is the sum of 83 and 3?", "expected_code": "def solve(): return 83 + 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 3?", "expected_code": "def solve(): return 68 + 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 58?", "expected_code": "def solve(): return 27 + 58"}
+{"question": "Convert this word problem into Python code: What is the sum of 63 and 21?", "expected_code": "def solve(): return 63 + 21"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 87?", "expected_code": "def solve(): return 78 + 87"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 3?", "expected_code": "def solve(): return 37 + 3"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 86?", "expected_code": "def solve(): return 26 + 86"}
+{"question": "Calculate the sum of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Determine the sum of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 22 and 46?", "expected_code": "def solve(): return 22 + 46"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 60?", "expected_code": "def solve(): return 27 + 60"}
+{"question": "Convert this word problem into Python code: What is the sum of 70 and 24?", "expected_code": "def solve(): return 70 + 24"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 58?", "expected_code": "def solve(): return 54 + 58"}
+{"question": "Determine the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 42 and 24?", "expected_code": "def solve(): return 42 + 24"}
+{"question": "Calculate the sum of of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 22 and 81?", "expected_code": "def solve(): return 22 + 81"}
+{"question": "Convert this word problem into Python code: Add together 33, 44, and 23.", "expected_code": "def solve(): return 33 + 44 + 23"}
+{"question": "Convert this word problem into Python code: What is the sum of 100 and 11?", "expected_code": "def solve(): return 100 + 11"}
+{"question": "Convert this word problem into Python code: What is the sum of 85 and 45?", "expected_code": "def solve(): return 85 + 45"}
+{"question": "Convert this word problem into Python code: What is the sum of 69 and 2?", "expected_code": "def solve(): return 69 + 2"}
+{"question": "Determine the sum of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 88?", "expected_code": "def solve(): return 64 + 88"}
+{"question": "Write a Python function for the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 1 and 84?", "expected_code": "def solve(): return 1 + 84"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 56?", "expected_code": "def solve(): return 46 + 56"}
+{"question": "Determine the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 63 and 3?", "expected_code": "def solve(): return 63 + 3"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and the sum of the square of 4 and 5?", "expected_code": "def solve(): return 9 * (4 ** 2 + 5 ** 2)"}
+{"question": "Convert this word problem into Python code: What is the sum of 95 and 9?", "expected_code": "def solve(): return 95 + 9"}
+{"question": "Convert this word problem into Python code: What is the sum of 3 and 95?", "expected_code": "def solve(): return 3 + 95"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 9?", "expected_code": "def solve(): return 68 + 9"}
+{"question": "Convert this word problem into Python code: What is the sum of 6 and 88?", "expected_code": "def solve(): return 6 + 88"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 42?", "expected_code": "def solve(): return 15 + 42"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 4?", "expected_code": "def solve(): return 48 + 4"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 98 and 25?", "expected_code": "def solve(): return 98 + 25"}
+{"question": "Convert this word problem into Python code: What is the sum of 80 and 42?", "expected_code": "def solve(): return 80 + 42"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting 100 from 300 and adding 50?", "expected_code": "def solve(): return (300 - 100) + 50"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 75?", "expected_code": "def solve(): return 59 + 75"}
+{"question": "Convert this word problem into Python code: What is the sum of 25 and 35?", "expected_code": "def solve(): return 25 + 35"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 1?", "expected_code": "def solve(): return 78 + 1"}
+{"question": "What is the sum of of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Calculate the sum of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Create a function to calculate the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Calculate the sum of of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 + num2 + num3"}
+{"question": "Convert this word problem into Python code: What is the sum of 57 and 53?", "expected_code": "def solve(): return 57 + 53"}
+{"question": "Convert this word problem into Python code: What is the sum of 26 and 71?", "expected_code": "def solve(): return 26 + 71"}
+{"question": "Determine the sum of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 20 and 91?", "expected_code": "def solve(): return 20 + 91"}
+{"question": "Convert this word problem into Python code: What is the sum of 75 and 41?", "expected_code": "def solve(): return 75 + 41"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 12?", "expected_code": "def solve(): return 60 + 12"}
+{"question": "Convert this word problem into Python code: What is the sum of 22 and 54?", "expected_code": "def solve(): return 22 + 54"}
+{"question": "Convert this word problem into Python code: What is the sum of 47 and 94?", "expected_code": "def solve(): return 47 + 94"}
+{"question": "What is the sum of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 + num2"}
+{"question": "Write a Python function for the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Calculate the sum of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m + n + o"}
+{"question": "Convert this word problem into Python code: What is the sum of 67 and 6?", "expected_code": "def solve(): return 67 + 6"}
+{"question": "Determine the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 34?", "expected_code": "def solve(): return 46 + 34"}
+{"question": "Convert this word problem into Python code: What is the sum of 55 and 43?", "expected_code": "def solve(): return 55 + 43"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 29?", "expected_code": "def solve(): return 99 + 29"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 38?", "expected_code": "def solve(): return 65 + 38"}
+{"question": "Calculate the sum of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "What is the sum of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 72 and 60?", "expected_code": "def solve(): return 72 + 60"}
+{"question": "Convert this word problem into Python code: What is the sum of 14 and 80?", "expected_code": "def solve(): return 14 + 80"}
+{"question": "Convert this word problem into Python code: What is the sum of 52 and 60?", "expected_code": "def solve(): return 52 + 60"}
+{"question": "What is the sum of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 7 and 54?", "expected_code": "def solve(): return 7 + 54"}
+{"question": "Calculate the sum of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Create a function to calculate the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Write a Python function for the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 40 and 55?", "expected_code": "def solve(): return 40 + 55"}
+{"question": "Convert this word problem into Python code: What is the sum of 28 and 100?", "expected_code": "def solve(): return 28 + 100"}
+{"question": "Convert this word problem into Python code: What is the sum of 53 and 21?", "expected_code": "def solve(): return 53 + 21"}
+{"question": "Convert this word problem into Python code: What is the sum of 85 and 60?", "expected_code": "def solve(): return 85 + 60"}
+{"question": "Convert this word problem into Python code: What is the sum of 84 and 44?", "expected_code": "def solve(): return 84 + 44"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 56?", "expected_code": "def solve(): return 33 + 56"}
+{"question": "Convert this word problem into Python code: What is the sum of 68 and 37?", "expected_code": "def solve(): return 68 + 37"}
+{"question": "Convert this word problem into Python code: What is the sum of 56 and 39?", "expected_code": "def solve(): return 56 + 39"}
+{"question": "Convert this word problem into Python code: What is the sum of 10 and 19?", "expected_code": "def solve(): return 10 + 19"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 11?", "expected_code": "def solve(): return 62 + 11"}
+{"question": "Convert this word problem into Python code: What is 144 divided by the square root of 36, then added to the product of 7 and 8?", "expected_code": "import math\ndef solve(): return 144 / math.sqrt(36) + 7 * 8"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 82?", "expected_code": "def solve(): return 58 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 74 and 10?", "expected_code": "def solve(): return 74 + 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 17 and 45?", "expected_code": "def solve(): return 17 + 45"}
+{"question": "Convert this word problem into Python code: Determine the sum of 36 and the cube of 4, then subtract the square of 6.", "expected_code": "def solve(): return 36 + 4 ** 3 - 6 ** 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 49 and 12?", "expected_code": "def solve(): return 49 + 12"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 11?", "expected_code": "def solve(): return 18 + 11"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 36?", "expected_code": "def solve(): return 45 + 36"}
+{"question": "Convert this word problem into Python code: What is the sum of 83 and 68?", "expected_code": "def solve(): return 83 + 68"}
+{"question": "Convert this word problem into Python code: What is the product of the sum of 6 and 9 with the difference between the square of 7 and the cube of 4?", "expected_code": "def solve(): return (6 + 9) * (7 ** 2 - 4 ** 3)"}
+{"question": "Convert this word problem into Python code: What is the sum of 27 and 85?", "expected_code": "def solve(): return 27 + 85"}
+{"question": "Convert this word problem into Python code: What is the sum of 59 and 30?", "expected_code": "def solve(): return 59 + 30"}
+{"question": "Convert this word problem into Python code: What is the sum of 73 and 64?", "expected_code": "def solve(): return 73 + 64"}
+{"question": "Determine the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 75 and 43?", "expected_code": "def solve(): return 75 + 43"}
+{"question": "Convert this word problem into Python code: What is the result of multiplying the sum of 3 and 11 by the difference between the cube of 2 and the square of 4?", "expected_code": "def solve(): return (3 + 11) * (2 ** 3 - 4 ** 2)"}
+{"question": "Convert this word problem into Python code: What is the sum of 95 and 95?", "expected_code": "def solve(): return 95 + 95"}
+{"question": "Convert this word problem into Python code: Multiply the square of 9 by the sum of 10 and 6, then subtract 150.", "expected_code": "def solve(): return (9 ** 2 * (10 + 6)) - 150"}
+{"question": "Convert this word problem into Python code: What is the sum of 21 and 11?", "expected_code": "def solve(): return 21 + 11"}
+{"question": "Convert this word problem into Python code: What is the sum of 85 and 4?", "expected_code": "def solve(): return 85 + 4"}
+{"question": "Convert this word problem into Python code: What is the sum of 78 and 1?", "expected_code": "def solve(): return 78 + 1"}
+{"question": "Create a function to calculate the sum of of variables m and n.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Create a function to calculate the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 61 and 95?", "expected_code": "def solve(): return 61 + 95"}
+{"question": "Create a function to calculate the sum of of variables a and b.", "expected_code": "def solve(a, b):\n    return a + b"}
+{"question": "Convert this word problem into Python code: What is the sum of 48 and 43?", "expected_code": "def solve(): return 48 + 43"}
+{"question": "Determine the sum of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 10 and 58?", "expected_code": "def solve(): return 10 + 58"}
+{"question": "Convert this word problem into Python code: What is the sum of 33 and 56?", "expected_code": "def solve(): return 33 + 56"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 68?", "expected_code": "def solve(): return 99 + 68"}
+{"question": "Create a function to calculate the sum of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha + beta + gamma"}
+{"question": "Convert this word problem into Python code: What is the sum of 42 and 58?", "expected_code": "def solve(): return 42 + 58"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 6?", "expected_code": "def solve(): return 18 + 6"}
+{"question": "Convert this word problem into Python code: What is the sum of 2 and 10?", "expected_code": "def solve(): return 2 + 10"}
+{"question": "Convert this word problem into Python code: What is the sum of 79 and 7?", "expected_code": "def solve(): return 79 + 7"}
+{"question": "What is the sum of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m + n"}
+{"question": "Convert this word problem into Python code: What is the sum of 58 and 22?", "expected_code": "def solve(): return 58 + 22"}
+{"question": "Convert this word problem into Python code: What is the sum of 98 and 49?", "expected_code": "def solve(): return 98 + 49"}
+{"question": "Convert this word problem into Python code: What is the sum of 96 and 36?", "expected_code": "def solve(): return 96 + 36"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 60?", "expected_code": "def solve(): return 60 + 60"}
+{"question": "Convert this word problem into Python code: What is the sum of 65 and 8?", "expected_code": "def solve(): return 65 + 8"}
+{"question": "Determine the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 2?", "expected_code": "def solve(): return 64 + 2"}
+{"question": "Calculate the sum of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 19?", "expected_code": "def solve(): return 62 + 19"}
+{"question": "Convert this word problem into Python code: What is the sum of 15 and 82?", "expected_code": "def solve(): return 15 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 82?", "expected_code": "def solve(): return 46 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 30 and 54?", "expected_code": "def solve(): return 30 + 54"}
+{"question": "What is the sum of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p + q + r"}
+{"question": "Calculate the sum of of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 + value2 + value3"}
+{"question": "Convert this word problem into Python code: What is the sum of 37 and 75?", "expected_code": "def solve(): return 37 + 75"}
+{"question": "Convert this word problem into Python code: What is the sum of 64 and 100?", "expected_code": "def solve(): return 64 + 100"}
+{"question": "Convert this word problem into Python code: What is the sum of 99 and 29?", "expected_code": "def solve(): return 99 + 29"}
+{"question": "Convert this word problem into Python code: What is the sum of 54 and 70?", "expected_code": "def solve(): return 54 + 70"}
+{"question": "Write a Python function for the sum of of variables p and q.", "expected_code": "def solve(p, q):\n    return p + q"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 82?", "expected_code": "def solve(): return 60 + 82"}
+{"question": "Convert this word problem into Python code: What is the sum of 60 and 43?", "expected_code": "def solve(): return 60 + 43"}
+{"question": "Convert this word problem into Python code: What is the sum of 10 and 84?", "expected_code": "def solve(): return 10 + 84"}
+{"question": "What is the sum of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a + b + c"}
+{"question": "Convert this word problem into Python code: What is the sum of 18 and 69?", "expected_code": "def solve(): return 18 + 69"}
+{"question": "Convert this word problem into Python code: What is the sum of 45 and 28?", "expected_code": "def solve(): return 45 + 28"}
+{"question": "Convert this word problem into Python code: What is the product of the sum of 6 and 15, and the difference between 12 and the cube of 2?", "expected_code": "def solve(): return (6 + 15) * (12 - 2 ** 3)"}
+{"question": "Write a Python function for the sum of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 + value2"}
+{"question": "Convert this word problem into Python code: What is the sum of 46 and 34?", "expected_code": "def solve(): return 46 + 34"}
+{"question": "Convert this word problem into Python code: What is the sum of 87 and 38?", "expected_code": "def solve(): return 87 + 38"}
+{"question": "Convert this word problem into Python code: What is the sum of 92 and 88?", "expected_code": "def solve(): return 92 + 88"}
+{"question": "Convert this word problem into Python code: What is the sum of 62 and 67?", "expected_code": "def solve(): return 62 + 67"}
+{"question": "Convert this word problem into Python code: What is the sum of 96 and 32?", "expected_code": "def solve(): return 96 + 32"}

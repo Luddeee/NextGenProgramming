@@ -1,0 +1,37 @@
+/* Custom styles to complement Bootstrap theme */
+pre {
+    border-radius: 0.375rem;
+    margin: 1rem 0;
+}
+
+.card {
+    border: 1px solid var(--bs-border-color);
+}
+
+#executionOutput {
+    font-family: monospace;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.example-problem {
+    color: var(--bs-info);
+    cursor: pointer;
+}
+
+.example-problem:hover {
+    text-decoration: underline !important;
+}
+
+/* Loading state styles */
+.spinner-border {
+    margin-right: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

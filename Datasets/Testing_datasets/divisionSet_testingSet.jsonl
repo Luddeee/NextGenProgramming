@@ -1,0 +1,540 @@
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Write a Python function for the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Calculate the quotient of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "What is the quotient of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Determine the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Determine the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Calculate the quotient of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Determine the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Convert this word problem into Python code: What is 50 raised to the power of 3, divided by 1000?", "expected_code": "def solve(): return 50 ** 3 / 1000"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Determine the quotient of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "Calculate the quotient of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "What is the quotient of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Create a function to calculate the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Calculate the quotient of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "What is the quotient of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Determine the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Calculate the quotient of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Write a Python function for the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "What is the quotient of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Determine the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Create a function to calculate the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "What is the quotient of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "What is the quotient of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Calculate the quotient of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Calculate the quotient of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Convert this word problem into Python code: Divide 100 by 25.", "expected_code": "def solve(): return 100 / 25"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Write a Python function for the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "What is the quotient of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Convert this word problem into Python code: Divide 48 by 12.", "expected_code": "def solve(): return 48 / 12"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Write a Python function for the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Convert this word problem into Python code: Divide 80 into 4 equal parts.", "expected_code": "def solve(): return 80 / 4"}
+{"question": "Create a function to calculate the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "What is the quotient of of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Write a Python function for the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Convert this word problem into Python code: What is the square of 14 plus the cube of 5, then divided by 2?", "expected_code": "def solve(): return (14 ** 2 + 5 ** 3) / 2"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "What is the quotient of of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "What is the quotient of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Calculate the quotient of of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Create a function to calculate the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "What is the quotient of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "Create a function to calculate the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Convert this word problem into Python code: What\u2019s 144 divided by 12, then squared?", "expected_code": "def solve(): return (144 / 12) ** 2"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Create a function to calculate the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Write a Python function for the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Create a function to calculate the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Create a function to calculate the quotient of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Convert this word problem into Python code: What do you get if you divide 99 by 3?", "expected_code": "def solve(): return 99 / 3"}
+{"question": "Calculate the quotient of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Create a function to calculate the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Create a function to calculate the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Create a function to calculate the quotient of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "Determine the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "What is the quotient of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Create a function to calculate the quotient of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "What is the quotient of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Create a function to calculate the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Calculate the quotient of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Calculate the quotient of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Convert this word problem into Python code: What is the result of the cube of 8, divided by the square of 4?", "expected_code": "def solve(): return 8 ** 3 / 4 ** 2"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Create a function to calculate the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Calculate the quotient of of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Create a function to calculate the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Convert this word problem into Python code: What is 1000 divided by the square root of 81, and then multiplied by 7?", "expected_code": "import math\ndef solve(): return 1000 / math.sqrt(81) * 7"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Calculate the quotient of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Convert this word problem into Python code: What is the result of 7 raised to the power of 4, divided by the square of 9?", "expected_code": "def solve(): return 7 ** 4 / 9 ** 2"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Determine the quotient of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Determine the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Create a function to calculate the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Convert this word problem into Python code: What's the result when you divide 56 by 7?", "expected_code": "def solve(): return 56 / 7"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Calculate the quotient of of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "What is the quotient of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "What is the quotient of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Create a function to calculate the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "What is the quotient of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Create a function to calculate the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Create a function to calculate the quotient of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Calculate the quotient of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Convert this word problem into Python code: What\u2019s 25 divided by 5, then multiplied by 12?", "expected_code": "def solve(): return (25 / 5) * 12"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 / num2 / num3"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "What is the quotient of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Create a function to calculate the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Convert this word problem into Python code: Divide 144 by 12.", "expected_code": "def solve(): return 144 / 12"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Write a Python function for the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "What is the quotient of of variables m and n? Implement it in Python.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Create a function to calculate the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "What is the quotient of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "What is the quotient of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "What is the quotient of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables p and q, and r? Implement it in Python.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Write a Python function for the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Determine the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Write a Python function for the quotient of of variables m and n.", "expected_code": "def solve(m, n):\n    return m / n"}
+{"question": "What is the quotient of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Determine the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Write a Python function for the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Convert this word problem into Python code: What is 8 raised to the power of 5, divided by 100?", "expected_code": "def solve(): return 8 ** 5 / 100"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "What is the quotient of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a / b / c"}
+{"question": "Determine the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Convert this word problem into Python code: Divide 64 by 8.", "expected_code": "def solve(): return 64 / 8"}
+{"question": "Create a function to calculate the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Calculate the quotient of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables a and b.", "expected_code": "def solve(a, b):\n    return a / b"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Create a function to calculate the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Convert this word problem into Python code: What is 8 raised to the power of 5, divided by 100?", "expected_code": "def solve(): return 8 ** 5 / 100"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Create a function to calculate the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Create a function to calculate the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Write a Python function for the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "What is the quotient of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Create a function to calculate the quotient of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p / q / r"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Create a function to calculate the quotient of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 / num2"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Calculate the quotient of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Determine the quotient of of variables p and q.", "expected_code": "def solve(p, q):\n    return p / q"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Convert this word problem into Python code: What\u2019s 25 divided by 5, then multiplied by 12?", "expected_code": "def solve(): return (25 / 5) * 12"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Calculate the quotient of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "Write a Python function for the quotient of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha / beta / gamma"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 9 and 9.", "expected_code": "def solve(): return 9 / 9"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 / value2 / value3"}
+{"question": "Write a Python function for the quotient of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 / value2"}
+{"question": "Convert this word problem into Python code: What is 60 divided by 3?", "expected_code": "def solve(): return 60 / 3"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Determine the quotient of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha / beta"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}
+{"question": "Determine the quotient of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m / n / o"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "10 divided by 6.", "expected_code": "def solve(): return 10 / 6"}
+{"question": "Divide 6 by 10.", "expected_code": "def solve(): return 6 / 10"}
+{"question": "Divide 2 by 8.", "expected_code": "def solve(): return 2 / 8"}

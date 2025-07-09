@@ -1,0 +1,200 @@
+{"question": "Convert this word problem into Python code: What is the result of 200 plus the square of 15?", "expected_code": "def solve(): return 200 + 15 ** 2"}
+{"question": "Convert this word problem into Python code: Find the sum of 45, 67, and 98, then divide by 3.", "expected_code": "def solve(): return (45 + 67 + 98) / 3"}
+{"question": "Convert this word problem into Python code: Multiply 8 by the square of 12.", "expected_code": "def solve(): return 8 * 12 ** 2"}
+{"question": "Convert this word problem into Python code: What is 5 raised to the power of 6 divided by 25?", "expected_code": "def solve(): return 5 ** 6 / 25"}
+{"question": "Convert this word problem into Python code: Subtract the cube of 4 from 1000.", "expected_code": "def solve(): return 1000 - 4 ** 3"}
+{"question": "Convert this word problem into Python code: Find the square root of 121, then subtract 8.", "expected_code": "import math\ndef solve(): return math.sqrt(121) - 8"}
+{"question": "Convert this word problem into Python code: Add the result of 45 multiplied by 5 to 100.", "expected_code": "def solve(): return (45 * 5) + 100"}
+{"question": "Convert this word problem into Python code: What’s 25 divided by 5, then multiplied by 12?", "expected_code": "def solve(): return (25 / 5) * 12"}
+{"question": "Convert this word problem into Python code: Find the product of the square root of 49 and 16.", "expected_code": "import math\ndef solve(): return math.sqrt(49) * 16"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 30, 40, and 50 by 2.", "expected_code": "def solve(): return (30 + 40 + 50) * 2"}
+{"question": "Convert this word problem into Python code: What’s 3 raised to the power of 4, then divided by 2?", "expected_code": "def solve(): return (3 ** 4) / 2"}
+{"question": "Convert this word problem into Python code: Find the sum of the square of 9 and the cube of 3.", "expected_code": "def solve(): return 9 ** 2 + 3 ** 3"}
+{"question": "Convert this word problem into Python code: What is the result of 150 multiplied by the square root of 16?", "expected_code": "import math\ndef solve(): return 150 * math.sqrt(16)"}
+{"question": "Convert this word problem into Python code: Divide 1000 by 5 and then add the square of 7.", "expected_code": "def solve(): return 1000 / 5 + 7 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the product of 25 and 6 raised to the power of 3?", "expected_code": "def solve(): return 25 * 6 ** 3"}
+{"question": "Convert this word problem into Python code: Add 200 to the square of 13, then divide by 10.", "expected_code": "def solve(): return (200 + 13 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: Multiply the square of 15 by the cube of 2.", "expected_code": "def solve(): return 15 ** 2 * 2 ** 3"}
+{"question": "Convert this word problem into Python code: What is the square root of the sum of 81 and 19?", "expected_code": "import math\ndef solve(): return math.sqrt(81 + 19)"}
+{"question": "Convert this word problem into Python code: Subtract the square of 8 from 500, then divide by 10.", "expected_code": "def solve(): return (500 - 8 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: What is 10 raised to the power of 4, then divided by 50?", "expected_code": "def solve(): return 10 ** 4 / 50"}
+{"question": "Convert this word problem into Python code: Find the sum of the squares of 6 and 9.", "expected_code": "def solve(): return 6 ** 2 + 9 ** 2"}
+{"question": "Convert this word problem into Python code: What is 2 raised to the power of 7, then multiplied by 3?", "expected_code": "def solve(): return (2 ** 7) * 3"}
+{"question": "Convert this word problem into Python code: Find the result of 25 minus the square root of 225, then multiplied by 5.", "expected_code": "import math\ndef solve(): return (25 - math.sqrt(225)) * 5"}
+{"question": "Convert this word problem into Python code: What’s 300 divided by 6, then added to 45?", "expected_code": "def solve(): return (300 / 6) + 45"}
+{"question": "Convert this word problem into Python code: Subtract 100 from 200, then find the square of the result.", "expected_code": "def solve(): return (200 - 100) ** 2"}
+{"question": "Convert this word problem into Python code: Find the result of dividing the square of 12 by the square of 4.", "expected_code": "def solve(): return (12 ** 2) / (4 ** 2)"}
+{"question": "Convert this word problem into Python code: What’s the product of 25 and the square of 5, then divided by 10?", "expected_code": "def solve(): return (25 * 5 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: Add the square of 16 to the cube of 3.", "expected_code": "def solve(): return 16 ** 2 + 3 ** 3"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 20 and 50 by the square root of 36.", "expected_code": "import math\ndef solve(): return (20 + 50) * math.sqrt(36)"}
+{"question": "Convert this word problem into Python code: What’s 200 divided by the sum of 15 and 5?", "expected_code": "def solve(): return 200 / (15 + 5)"}
+{"question": "Convert this word problem into Python code: Find the difference between the cube of 6 and the square of 8.", "expected_code": "def solve(): return 6 ** 3 - 8 ** 2"}
+{"question": "Convert this word problem into Python code: What is the result of 50 multiplied by the square of 9?", "expected_code": "def solve(): return 50 * 9 ** 2"}
+{"question": "Convert this word problem into Python code: Find the sum of the cubes of 4 and 5.", "expected_code": "def solve(): return 4 ** 3 + 5 ** 3"}
+{"question": "Convert this word problem into Python code: Divide the square of 36 by the cube of 3.", "expected_code": "def solve(): return 36 ** 2 / 3 ** 3"}
+{"question": "Convert this word problem into Python code: What is the result of 1000 minus the cube of 7?", "expected_code": "def solve(): return 1000 - 7 ** 3"}
+{"question": "Convert this word problem into Python code: Find the sum of 25, 30, and the square of 12, then divide by 5.", "expected_code": "def solve(): return (25 + 30 + 12 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: Multiply the result of 5 raised to the power of 3 by 8.", "expected_code": "def solve(): return 5 ** 3 * 8"}
+{"question": "Convert this word problem into Python code: What’s 144 divided by 12, then squared?", "expected_code": "def solve(): return (144 / 12) ** 2"}
+{"question": "Convert this word problem into Python code: Find the difference between the square of 17 and the cube of 3.", "expected_code": "def solve(): return 17 ** 2 - 3 ** 3"}
+{"question": "Convert this word problem into Python code: Divide 1000 by 25, then subtract the square of 6.", "expected_code": "def solve(): return 1000 / 25 - 6 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the square of 13, plus the square of 7, then divided by 2?", "expected_code": "def solve(): return (13 ** 2 + 7 ** 2) / 2"}
+{"question": "Convert this word problem into Python code: Find the product of 10 and the sum of 12 and 15.", "expected_code": "def solve(): return 10 * (12 + 15)"}
+{"question": "Convert this word problem into Python code: Subtract 200 from 500, then multiply by the square root of 81.", "expected_code": "import math\ndef solve(): return (500 - 200) * math.sqrt(81)"}
+{"question": "Convert this word problem into Python code: Find the square of 25, then add 100, and divide by 5.", "expected_code": "def solve(): return (25 ** 2 + 100) / 5"}
+{"question": "Convert this word problem into Python code: What is 50 raised to the power of 3, divided by 1000?", "expected_code": "def solve(): return 50 ** 3 / 1000"}
+{"question": "Convert this word problem into Python code: Add the result of 18 multiplied by 7 to the cube of 4.", "expected_code": "def solve(): return (18 * 7) + 4 ** 3"}
+{"question": "Convert this word problem into Python code: What is 3 raised to the power of 5, then divided by 9?", "expected_code": "def solve(): return 3 ** 5 / 9"}
+{"question": "Convert this word problem into Python code: Find the square root of 576, then add the cube of 2.", "expected_code": "import math\ndef solve(): return math.sqrt(576) + 2 ** 3"}
+{"question": "Convert this word problem into Python code: Multiply the square of 15 by the sum of 20 and 5.", "expected_code": "def solve(): return 15 ** 2 * (20 + 5)"}
+{"question": "Convert this word problem into Python code: What is the result of the cube of 8, divided by the square of 4?", "expected_code": "def solve(): return 8 ** 3 / 4 ** 2"}
+{"question": "Convert this word problem into Python code: Find the sum of the square of 18 and the cube of 3, then divide by 2.", "expected_code": "def solve(): return (18 ** 2 + 3 ** 3) / 2"}
+{"question": "Convert this word problem into Python code: Add the square of 20 to the product of 4 and 15, then divide by 10.", "expected_code": "def solve(): return (20 ** 2 + 4 * 15) / 10"}
+{"question": "Convert this word problem into Python code: What’s 500 minus the square of 25, then multiplied by the square root of 64?", "expected_code": "import math\ndef solve(): return (500 - 25 ** 2) * math.sqrt(64)"}
+{"question": "Convert this word problem into Python code: Find the result of dividing the sum of 100 and 200 by the cube of 5.", "expected_code": "def solve(): return (100 + 200) / 5 ** 3"}
+{"question": "Convert this word problem into Python code: Multiply 15 by the cube of 3, then subtract 100.", "expected_code": "def solve(): return 15 * 3 ** 3 - 100"}
+{"question": "Convert this word problem into Python code: What is the square of the difference between 10 and 2?", "expected_code": "def solve(): return (10 - 2) ** 2"}
+{"question": "Convert this word problem into Python code: Find the result of 25 raised to the power of 3, then subtract the square of 10.", "expected_code": "def solve(): return 25 ** 3 - 10 ** 2"}
+{"question": "Convert this word problem into Python code: What is the square of 14 plus the cube of 5, then divided by 2?", "expected_code": "def solve(): return (14 ** 2 + 5 ** 3) / 2"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 12 and 18 by the square of 7.", "expected_code": "def solve(): return (12 + 18) * 7 ** 2"}
+{"question": "Convert this word problem into Python code: What’s the result of 1000 divided by 10, then squared?", "expected_code": "def solve(): return (1000 / 10) ** 2"}
+{"question": "Convert this word problem into Python code: Add the square of 25 to the cube of 6, then divide by 2.", "expected_code": "def solve(): return (25 ** 2 + 6 ** 3) / 2"}
+{"question": "Convert this word problem into Python code: What’s the square of 36, divided by the sum of 8 and 4?", "expected_code": "def solve(): return 36 ** 2 / (8 + 4)"}
+{"question": "Convert this word problem into Python code: Find the product of 5 and the sum of the squares of 8 and 6.", "expected_code": "def solve(): return 5 * (8 ** 2 + 6 ** 2)"}
+{"question": "Convert this word problem into Python code: What is the cube of 4 plus the square root of 144?", "expected_code": "import math\ndef solve(): return 4 ** 3 + math.sqrt(144)"}
+{"question": "Convert this word problem into Python code: Find the difference between the square of 21 and the cube of 2, then divide by 5.", "expected_code": "def solve(): return (21 ** 2 - 2 ** 3) / 5"}
+{"question": "Convert this word problem into Python code: What’s the sum of the square of 13 and the square of 9, then divided by 3?", "expected_code": "def solve(): return (13 ** 2 + 9 ** 2) / 3"}
+{"question": "Convert this word problem into Python code: What is the result of 7 raised to the power of 4, divided by the square of 9?", "expected_code": "def solve(): return 7 ** 4 / 9 ** 2"}
+{"question": "Convert this word problem into Python code: Add the square of 14 to the cube of 3, then subtract 50.", "expected_code": "def solve(): return 14 ** 2 + 3 ** 3 - 50"}
+{"question": "Convert this word problem into Python code: Find the product of 12 and 15, then subtract the cube of 2.", "expected_code": "def solve(): return 12 * 15 - 2 ** 3"}
+{"question": "Convert this word problem into Python code: What is 50 divided by the cube of 5, then multiplied by 8?", "expected_code": "def solve(): return 50 / 5 ** 3 * 8"}
+{"question": "Convert this word problem into Python code: Multiply 10 by the difference between the square of 9 and the cube of 2.", "expected_code": "def solve(): return 10 * (9 ** 2 - 2 ** 3)"}
+{"question": "Convert this word problem into Python code: What is 200 plus the square root of 625, then divided by 10?", "expected_code": "import math\ndef solve(): return (200 + math.sqrt(625)) / 10"}
+{"question": "Convert this word problem into Python code: Find the sum of 36 and the cube of 4, then subtract the square of 6.", "expected_code": "def solve(): return 36 + 4 ** 3 - 6 ** 2"}
+{"question": "Convert this word problem into Python code: What is 8 raised to the power of 5, divided by 100?", "expected_code": "def solve(): return 8 ** 5 / 100"}
+{"question": "Convert this word problem into Python code: Add the product of 5 and 10 to the square of 18, then divide by 4.", "expected_code": "def solve(): return (5 * 10 + 18 ** 2) / 4"}
+{"question": "Convert this word problem into Python code: Multiply 25 by the sum of the square of 8 and the cube of 3.", "expected_code": "def solve(): return 25 * (8 ** 2 + 3 ** 3)"}
+{"question": "Convert this word problem into Python code: What is the result of 4 raised to the power of 6, minus the square root of 256?", "expected_code": "import math\ndef solve(): return 4 ** 6 - math.sqrt(256)"}
+{"question": "Convert this word problem into Python code: Find the product of 15 and the sum of the squares of 6 and 7.", "expected_code": "def solve(): return 15 * (6 ** 2 + 7 ** 2)"}
+{"question": "Convert this word problem into Python code: What is 200 minus the cube of 5, then multiplied by 12?", "expected_code": "def solve(): return (200 - 5 ** 3) * 12"}
+{"question": "Convert this word problem into Python code: Add 100 to the result of 25 raised to the power of 2, then divide by 5.", "expected_code": "def solve(): return (100 + 25 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: Find the square of 16, then subtract the product of 5 and 8, and divide by 2.", "expected_code": "def solve(): return (16 ** 2 - 5 * 8) / 2"}
+{"question": "Convert this word problem into Python code: What is the square of 11 plus the product of 3 and 6?", "expected_code": "def solve(): return 11 ** 2 + 3 * 6"}
+{"question": "Convert this word problem into Python code: Multiply 6 by the sum of 15 and the cube of 2, then divide by 5.", "expected_code": "def solve(): return 6 * (15 + 2 ** 3) / 5"}
+{"question": "Convert this word problem into Python code: Find the sum of the square of 17 and the square of 5, then subtract the cube of 3.", "expected_code": "def solve(): return 17 ** 2 + 5 ** 2 - 3 ** 3"}
+{"question": "Convert this word problem into Python code: What is the result of 144 divided by 12, then raised to the power of 2?", "expected_code": "def solve(): return (144 / 12) ** 2"}
+{"question": "Convert this word problem into Python code: Find the difference between 25 squared and 100, then multiply by 4.", "expected_code": "def solve(): return (25 ** 2 - 100) * 4"}
+{"question": "Convert this word problem into Python code: What is 10 raised to the power of 3, minus the cube of 4?", "expected_code": "def solve(): return 10 ** 3 - 4 ** 3"}
+{"question": "Convert this word problem into Python code: Add the square of 30 to the product of 7 and 5, then divide by 6.", "expected_code": "def solve(): return (30 ** 2 + 7 * 5) / 6"}
+{"question": "Convert this word problem into Python code: Find the result of 50 divided by the cube of 3, then add 12.", "expected_code": "def solve(): return 50 / 3 ** 3 + 12"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and the sum of the square of 4 and 5?", "expected_code": "def solve(): return 9 * (4 ** 2 + 5 ** 2)"}
+{"question": "Convert this word problem into Python code: Subtract the square of 18 from 500, then divide by 10.", "expected_code": "def solve(): return (500 - 18 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: What is the result of 6 raised to the power of 4, divided by 16?", "expected_code": "def solve(): return 6 ** 4 / 16"}
+{"question": "Convert this word problem into Python code: Find the product of the square of 13 and the cube of 2, then subtract 50.", "expected_code": "def solve(): return (13 ** 2 * 2 ** 3) - 50"}
+{"question": "Convert this word problem into Python code: What is 9 raised to the power of 5, then divided by 15?", "expected_code": "def solve(): return 9 ** 5 / 15"}
+{"question": "Convert this word problem into Python code: Multiply 25 by the sum of the squares of 3 and 6, then divide by 5.", "expected_code": "def solve(): return 25 * (3 ** 2 + 6 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: Find the sum of the cube of 8 and the square of 11, then divide by 4.", "expected_code": "def solve(): return (8 ** 3 + 11 ** 2) / 4"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and the difference between the square of 7 and the cube of 3?", "expected_code": "def solve(): return 20 * (7 ** 2 - 3 ** 3)"}
+{"question": "Convert this word problem into Python code: Subtract 150 from 400, then multiply by the square root of 25.", "expected_code": "import math\ndef solve(): return (400 - 150) * math.sqrt(25)"}
+{"question": "Convert this word problem into Python code: What is the result of 12 raised to the power of 4, divided by the sum of 8 and 5?", "expected_code": "def solve(): return 12 ** 4 / (8 + 5)"}
+{"question": "Convert this word problem into Python code: Subtract the product of 7 and 9 from the cube of 6, then divide by 4.", "expected_code": "def solve(): return (6 ** 3 - 7 * 9) / 4"}
+{"question": "Convert this word problem into Python code: Find the sum of the square of 25 and the cube of 3, then subtract 100.", "expected_code": "def solve(): return 25 ** 2 + 3 ** 3 - 100"}
+{"question": "Convert this word problem into Python code: What is the square root of 256, multiplied by 15, and then added to 50?", "expected_code": "import math\ndef solve(): return math.sqrt(256) * 15 + 50"}
+{"question": "Convert this word problem into Python code: Add the cube of 4 to the product of 11 and 8, then divide by 3.", "expected_code": "def solve(): return (4 ** 3 + 11 * 8) / 3"}
+{"question": "Convert this word problem into Python code: Multiply the square of 9 by the sum of 10 and 6, then subtract 150.", "expected_code": "def solve(): return (9 ** 2 * (10 + 6)) - 150"}
+{"question": "Convert this word problem into Python code: What is 1000 divided by the square root of 81, and then multiplied by 7?", "expected_code": "import math\ndef solve(): return 1000 / math.sqrt(81) * 7"}
+{"question": "Convert this word problem into Python code: Find the product of the square of 12 and the cube of 5, then subtract the square of 3.", "expected_code": "def solve(): return 12 ** 2 * 5 ** 3 - 3 ** 2"}
+{"question": "Convert this word problem into Python code: What is the result of 15 raised to the power of 3, minus the sum of 8 and 2, then divided by 6?", "expected_code": "def solve(): return (15 ** 3 - (8 + 2)) / 6"}
+{"question": "Convert this word problem into Python code: Subtract 75 from 200, then multiply the result by the cube of 2, then divide by 10.", "expected_code": "def solve(): return ((200 - 75) * 2 ** 3) / 10"}
+{"question": "Convert this word problem into Python code: What is the sum of the square of 18 and the product of 5 and 10, then divided by 4?", "expected_code": "def solve(): return (18 ** 2 + 5 * 10) / 4"}
+{"question": "Convert this word problem into Python code: Find the difference between 1000 and the square of 31, then multiply by 5.", "expected_code": "def solve(): return (1000 - 31 ** 2) * 5"}
+{"question": "Convert this word problem into Python code: What is 50 raised to the power of 2, divided by the cube of 5, and then added to 20?", "expected_code": "def solve(): return (50 ** 2 / 5 ** 3) + 20"}
+{"question": "Convert this word problem into Python code: Multiply 30 by the difference between the cube of 4 and the square of 3, then divide by 5.", "expected_code": "def solve(): return 30 * (4 ** 3 - 3 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: What is the result of 9 raised to the power of 6, minus the square of 10, and then divided by 50?", "expected_code": "def solve(): return (9 ** 6 - 10 ** 2) / 50"}
+{"question": "Convert this word problem into Python code: Find the product of 25 and the sum of 8 squared and 12 cubed, then subtract 500.", "expected_code": "def solve(): return 25 * (8 ** 2 + 12 ** 3) - 500"}
+{"question": "Convert this word problem into Python code: What is the sum of the square of 14 and the cube of 5, then divided by 4?", "expected_code": "def solve(): return (14 ** 2 + 5 ** 3) / 4"}
+{"question": "Convert this word problem into Python code: Find the result of 15 squared plus the product of 7 and 9, then divide by 6.", "expected_code": "def solve(): return (15 ** 2 + 7 * 9) / 6"}
+{"question": "Convert this word problem into Python code: What is 125 raised to the power of 3, divided by 25, and then subtract 100?", "expected_code": "def solve(): return (125 ** 3 / 25) - 100"}
+{"question": "Convert this word problem into Python code: Find the difference between the square of 13 and the product of 4 and 3, then divide by 2.", "expected_code": "def solve(): return (13 ** 2 - 4 * 3) / 2"}
+{"question": "Convert this word problem into Python code: What is the sum of 500 and the square of 25, divided by 10?", "expected_code": "def solve(): return (500 + 25 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: Multiply the cube of 5 by the square of 8, then subtract 200.", "expected_code": "def solve(): return 5 ** 3 * 8 ** 2 - 200"}
+{"question": "Convert this word problem into Python code: What is the result of the square root of 169, multiplied by the sum of 10 and 15?", "expected_code": "import math\ndef solve(): return math.sqrt(169) * (10 + 15)"}
+{"question": "Convert this word problem into Python code: Find the difference between 400 and the cube of 6, then divide by 10.", "expected_code": "def solve(): return (400 - 6 ** 3) / 10"}
+{"question": "Convert this word problem into Python code: What is the product of the square of 12 and the sum of 9 and 16?", "expected_code": "def solve(): return (12 ** 2) * (9 + 16)"}
+{"question": "Convert this word problem into Python code: Multiply 25 by the square of 7, subtract the cube of 3, then divide by 5.", "expected_code": "def solve(): return (25 * 7 ** 2 - 3 ** 3) / 5"}
+{"question": "Convert this word problem into Python code: Add the result of the square of 14 to the product of 8 and 9, then divide by 12.", "expected_code": "def solve(): return (14 ** 2 + 8 * 9) / 12"}
+{"question": "Convert this word problem into Python code: Find the sum of the square root of 81 and the product of 10 and 5, then subtract 100.", "expected_code": "import math\ndef solve(): return math.sqrt(81) + 10 * 5 - 100"}
+{"question": "Convert this word problem into Python code: What is the cube of 3 added to the sum of 5 squared and 12, then divided by 8?", "expected_code": "def solve(): return (3 ** 3 + 5 ** 2 + 12) / 8"}
+{"question": "Convert this word problem into Python code: What is the result of the square of 6, added to the cube of 4, and then divided by 5?", "expected_code": "def solve(): return (6 ** 2 + 4 ** 3) / 5"}
+{"question": "Convert this word problem into Python code: Find the product of 25 and the difference between the cube of 5 and the square of 4.", "expected_code": "def solve(): return 25 * (5 ** 3 - 4 ** 2)"}
+{"question": "Convert this word problem into Python code: What is the sum of 50 and the product of 9 and 11, then divided by 10?", "expected_code": "def solve(): return (50 + 9 * 11) / 10"}
+{"question": "Convert this word problem into Python code: Subtract the square of 15 from the product of 7 and 18, then divide by 9.", "expected_code": "def solve(): return (7 * 18 - 15 ** 2) / 9"}
+{"question": "Convert this word problem into Python code: Find the difference between the cube of 4 and the sum of 9 and 12, then divide by 5.", "expected_code": "def solve(): return (4 ** 3 - (9 + 12)) / 5"}
+{"question": "Convert this word problem into Python code: Multiply the square of 20 by the cube of 2, then subtract 300.", "expected_code": "def solve(): return (20 ** 2 * 2 ** 3) - 300"}
+{"question": "Convert this word problem into Python code: What is the sum of the square of 10 and the cube of 2, then divided by 4?", "expected_code": "def solve(): return (10 ** 2 + 2 ** 3) / 4"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 10 and 7 by the square of 8, then subtract 150.", "expected_code": "def solve(): return (10 + 7) * 8 ** 2 - 150"}
+{"question": "Convert this word problem into Python code: What is the result of 3 raised to the power of 6, plus 5 squared, then divided by 9?", "expected_code": "def solve(): return (3 ** 6 + 5 ** 2) / 9"}
+{"question": "Convert this word problem into Python code: Find the product of the cube of 6 and the sum of 12 and 8, then subtract 200.", "expected_code": "def solve(): return (6 ** 3 * (12 + 8)) - 200"}
+{"question": "Convert this word problem into Python code: What is 144 divided by the square root of 36, then added to the product of 7 and 8?", "expected_code": "import math\ndef solve(): return 144 / math.sqrt(36) + 7 * 8"}
+{"question": "Convert this word problem into Python code: Find the sum of the square of 16 and the cube of 3, then divide by 5.", "expected_code": "def solve(): return (16 ** 2 + 3 ** 3) / 5"}
+{"question": "Convert this word problem into Python code: Subtract 200 from 300, then multiply by the square of 10 and divide by 5.", "expected_code": "def solve(): return ((300 - 200) * 10 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: Find the sum of the cube of 4 and the square root of 144, then divide by 10.", "expected_code": "import math\ndef solve(): return (4 ** 3 + math.sqrt(144)) / 10"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and the difference between the square of 12 and the cube of 2?", "expected_code": "def solve(): return 8 * (12 ** 2 - 2 ** 3)"}
+{"question": "Convert this word problem into Python code: Subtract the square of 25 from the product of 6 and 20, then divide by 30.", "expected_code": "def solve(): return (6 * 20 - 25 ** 2) / 30"}
+{"question": "Convert this word problem into Python code: Multiply 15 by the sum of the square of 5 and the cube of 3, then subtract 250.", "expected_code": "def solve(): return 15 * (5 ** 2 + 3 ** 3) - 250"}
+{"question": "Convert this word problem into Python code: What is the result of the sum of the square of 7 and the cube of 4, divided by the product of 5 and 2?", "expected_code": "def solve(): return (7 ** 2 + 4 ** 3) / (5 * 2)"}
+{"question": "Convert this word problem into Python code: Find the cube of 5 added to the sum of 11 and 8, then divide by 10.", "expected_code": "def solve(): return (5 ** 3 + 11 + 8) / 10"}
+{"question": "Convert this word problem into Python code: What is the product of 18 and the difference between the cube of 4 and the square of 6?", "expected_code": "def solve(): return 18 * (4 ** 3 - 6 ** 2)"}
+{"question": "Convert this word problem into Python code: Add the square root of 49 to the product of 7 and 13, then divide by 12.", "expected_code": "import math\ndef solve(): return (math.sqrt(49) + 7 * 13) / 12"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting the square of 8 from the product of 16 and 5, then dividing by 4?", "expected_code": "def solve(): return ((16 * 5 - 8 ** 2) / 4)"}
+{"question": "Convert this word problem into Python code: Find the sum of the square root of 256 and the cube of 3, then divide by 12.", "expected_code": "import math\ndef solve(): return (math.sqrt(256) + 3 ** 3) / 12"}
+{"question": "Convert this word problem into Python code: What is the product of the sum of 6 and 15, and the difference between 12 and the cube of 2?", "expected_code": "def solve(): return (6 + 15) * (12 - 2 ** 3)"}
+{"question": "Convert this word problem into Python code: Find the result of multiplying the square of 14 by the difference between 22 and 4, then subtract 100.", "expected_code": "def solve(): return (14 ** 2 * (22 - 4)) - 100"}
+{"question": "Convert this word problem into Python code: What is the sum of the product of 8 and 25, and the square of 12, then divide by 10?", "expected_code": "def solve(): return (8 * 25 + 12 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: Subtract the square of 20 from the sum of the product of 7 and 10, then divide by 5.", "expected_code": "def solve(): return ((7 * 10 + 20 ** 2) / 5)"}
+{"question": "Convert this word problem into Python code: Find the result of multiplying the sum of 9 and 16 by the square of 3, then subtract 150.", "expected_code": "def solve(): return (9 + 16) * 3 ** 2 - 150"}
+{"question": "Convert this word problem into Python code: What is the product of 24 and the sum of 5 and 6, then subtract the cube of 2?", "expected_code": "def solve(): return 24 * (5 + 6) - 2 ** 3"}
+{"question": "Convert this word problem into Python code: Multiply the square of 11 by the difference between 50 and 18, then divide by 7.", "expected_code": "def solve(): return (11 ** 2 * (50 - 18)) / 7"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting the product of 7 and 9 from the sum of 250 and the square of 6, then divide by 15?", "expected_code": "def solve(): return ((250 + 6 ** 2 - 7 * 9) / 15)"}
+{"question": "Convert this word problem into Python code: Find the sum of the cube of 4 and the square root of 100, then divide by 10.", "expected_code": "import math\ndef solve(): return (4 ** 3 + math.sqrt(100)) / 10"}
+{"question": "Convert this word problem into Python code: Multiply the square of 13 by the sum of 3 and 7, then subtract 90.", "expected_code": "def solve(): return (13 ** 2 * (3 + 7)) - 90"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting the cube of 3 from the sum of 120 and the square of 10, then divide by 15?", "expected_code": "def solve(): return ((120 + 10 ** 2 - 3 ** 3) / 15)"}
+{"question": "Convert this word problem into Python code: Find the product of the sum of 14 and 8 with the difference between the square of 6 and the cube of 2.", "expected_code": "def solve(): return (14 + 8) * (6 ** 2 - 2 ** 3)"}
+{"question": "Convert this word problem into Python code: Add the cube of 5 to the product of 10 and 20, then subtract the square of 12.", "expected_code": "def solve(): return (5 ** 3 + 10 * 20) - 12 ** 2"}
+{"question": "Convert this word problem into Python code: What is the result of multiplying the sum of 9 and 4 with the square of 7, then dividing by 15?", "expected_code": "def solve(): return ((9 + 4) * 7 ** 2) / 15"}
+{"question": "Convert this word problem into Python code: Find the sum of the product of 18 and 3, and the square of 11, then divide by 10.", "expected_code": "def solve(): return (18 * 3 + 11 ** 2) / 10"}
+{"question": "Convert this word problem into Python code: What is the sum of the cube of 6 and the square of 15, then divide by 20?", "expected_code": "def solve(): return (6 ** 3 + 15 ** 2) / 20"}
+{"question": "Convert this word problem into Python code: Subtract the square of 8 from the product of 6 and 7, then add the square root of 49.", "expected_code": "import math\ndef solve(): return (6 * 7 - 8 ** 2) + math.sqrt(49)"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 11 and 14 by the difference between the square of 4 and the cube of 3, then divide by 5.", "expected_code": "def solve(): return ((11 + 14) * (4 ** 2 - 3 ** 3)) / 5"}
+{"question": "Convert this word problem into Python code: Find the cube of 7 added to the product of 9 and 6, then subtract the square of 5.", "expected_code": "def solve(): return (7 ** 3 + 9 * 6) - 5 ** 2"}
+{"question": "Convert this word problem into Python code: What is the result of multiplying the sum of 5 and 8 by the difference between 15 and the cube of 2?", "expected_code": "def solve(): return (5 + 8) * (15 - 2 ** 3)"}
+{"question": "Convert this word problem into Python code: Find the sum of the product of 10 and 12 with the square of 5, then divide by 20.", "expected_code": "def solve(): return (10 * 12 + 5 ** 2) / 20"}
+{"question": "Convert this word problem into Python code: Multiply the square of 10 by the sum of 7 and 9, then subtract the square root of 64.", "expected_code": "import math\ndef solve(): return (10 ** 2 * (7 + 9)) - math.sqrt(64)"}
+{"question": "Convert this word problem into Python code: What is the result of the sum of the product of 8 and 15 with the square of 6, then divide by 25?", "expected_code": "def solve(): return (8 * 15 + 6 ** 2) / 25"}
+{"question": "Convert this word problem into Python code: Add the square of 5 to the product of 6 and 4, then subtract the cube of 3.", "expected_code": "def solve(): return (5 ** 2 + 6 * 4) - 3 ** 3"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and the sum of the square of 7 and the cube of 2?", "expected_code": "def solve(): return 16 * (7 ** 2 + 2 ** 3)"}
+{"question": "Convert this word problem into Python code: Find the cube of 3 added to the difference between 100 and the square of 8, then divide by 10.", "expected_code": "def solve(): return (3 ** 3 + (100 - 8 ** 2)) / 10"}
+{"question": "Convert this word problem into Python code: Multiply the square of 14 by the sum of 6 and 5, then subtract 150.", "expected_code": "def solve(): return (14 ** 2 * (6 + 5)) - 150"}
+{"question": "Convert this word problem into Python code: What is the result of the sum of the product of 20 and 7 with the cube of 2, then divide by 10?", "expected_code": "def solve(): return (20 * 7 + 2 ** 3) / 10"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 6 and 8 by the cube of 3, then subtract 100.", "expected_code": "def solve(): return ((6 + 8) * 3 ** 3) - 100"}
+{"question": "Convert this word problem into Python code: Find the square of 15 added to the product of 7 and 5, then divide by 10.", "expected_code": "def solve(): return (15 ** 2 + 7 * 5) / 10"}
+{"question": "Convert this word problem into Python code: What is the result of the product of 12 and the sum of the square of 6 and the cube of 2?", "expected_code": "def solve(): return 12 * (6 ** 2 + 2 ** 3)"}
+{"question": "Convert this word problem into Python code: Add the square of 9 to the difference between the product of 5 and 6 and the cube of 4.", "expected_code": "def solve(): return (9 ** 2 + (5 * 6 - 4 ** 3))"}
+{"question": "Convert this word problem into Python code: Find the cube of 4 added to the square of 11, then subtract the product of 7 and 3.", "expected_code": "def solve(): return (4 ** 3 + 11 ** 2) - (7 * 3)"}
+{"question": "Convert this word problem into Python code: What is the sum of the product of 10 and 8 with the square of 7, then divide by 12?", "expected_code": "def solve(): return (10 * 8 + 7 ** 2) / 12"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 5 and 9 by the cube of 2, then subtract 40.", "expected_code": "def solve(): return ((5 + 9) * 2 ** 3) - 40"}
+{"question": "Convert this word problem into Python code: Find the square of 20 added to the difference between the product of 4 and 6, then divide by 15.", "expected_code": "def solve(): return (20 ** 2 + (4 * 6)) / 15"}
+{"question": "Convert this word problem into Python code: What is the result of multiplying the sum of 3 and 11 by the difference between the cube of 2 and the square of 4?", "expected_code": "def solve(): return (3 + 11) * (2 ** 3 - 4 ** 2)"}
+{"question": "Convert this word problem into Python code: Subtract the cube of 5 from the product of 7 and 9, then add the square of 6.", "expected_code": "def solve(): return (7 * 9 - 5 ** 3) + 6 ** 2"}
+{"question": "Convert this word problem into Python code: Find the square of 4 added to the product of 15 and 6, then divide by 20.", "expected_code": "def solve(): return (4 ** 2 + 15 * 6) / 20"}
+{"question": "Convert this word problem into Python code: What is the result of subtracting the product of 9 and 8 from the cube of 10, then divide by 5?", "expected_code": "def solve(): return ((10 ** 3 - 9 * 8) / 5)"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 4 and 15 by the difference between the square of 8 and the cube of 3.", "expected_code": "def solve(): return (4 + 15) * (8 ** 2 - 3 ** 3)"}
+{"question": "Convert this word problem into Python code: Find the sum of the product of 7 and 5 with the square of 10, then subtract the cube of 2.", "expected_code": "def solve(): return (7 * 5 + 10 ** 2) - 2 ** 3"}
+{"question": "Convert this word problem into Python code: What is the product of the sum of 6 and 9 with the difference between the square of 7 and the cube of 4?", "expected_code": "def solve(): return (6 + 9) * (7 ** 2 - 4 ** 3)"}
+{"question": "Convert this word problem into Python code: Add the square of 12 to the product of 8 and 4, then subtract 36.", "expected_code": "def solve(): return (12 ** 2 + 8 * 4) - 36"}
+{"question": "Convert this word problem into Python code: Multiply the difference between 15 and the square of 7 by the sum of 6 and 9, then divide by 10.", "expected_code": "def solve(): return ((15 - 7 ** 2) * (6 + 9)) / 10"}
+{"question": "Convert this word problem into Python code: What is the result of the sum of the product of 5 and 12 with the square of 8, then subtract the cube of 4?", "expected_code": "def solve(): return (5 * 12 + 8 ** 2) - 4 ** 3"}
+{"question": "Convert this word problem into Python code: Find the sum of the cube of 2 and the square of 11, then divide by 5.", "expected_code": "def solve(): return (2 ** 3 + 11 ** 2) / 5"}
+{"question": "Convert this word problem into Python code: Multiply the sum of 8 and 10 by the square of 6, then subtract the cube of 4.", "expected_code": "def solve(): return ((8 + 10) * 6 ** 2) - 4 ** 3"}
+{"question": "Convert this word problem into Python code: Find the difference between the square of 14 and the product of 6 and 9, then add the cube of 3.", "expected_code": "def solve(): return (14 ** 2 - 6 * 9) + 3 ** 3"}
+{"question": "Convert this word problem into Python code: What is the sum of the product of 5 and 7 with the square of 10, then divide by 6?", "expected_code": "def solve(): return (5 * 7 + 10 ** 2) / 6"}

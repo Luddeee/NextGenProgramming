@@ -1,0 +1,1092 @@
+{"question": "Convert this word problem into Python code: What is the product of 14 and 46?", "expected_code": "def solve(): return 14 * 46"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 46?", "expected_code": "def solve(): return 23 * 46"}
+{"question": "Convert this word problem into Python code: What is the product of 48 and 90?", "expected_code": "def solve(): return 48 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 47?", "expected_code": "def solve(): return 52 * 47"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 44?", "expected_code": "def solve(): return 93 * 44"}
+{"question": "Convert this word problem into Python code: What is the product of 53 and 77?", "expected_code": "def solve(): return 53 * 77"}
+{"question": "Convert this word problem into Python code: What is the product of 98 and 33?", "expected_code": "def solve(): return 98 * 33"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 72?", "expected_code": "def solve(): return 61 * 72"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 26?", "expected_code": "def solve(): return 96 * 26"}
+{"question": "Convert this word problem into Python code: What is the product of 99 and 1?", "expected_code": "def solve(): return 99 * 1"}
+{"question": "Determine the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Convert this word problem into Python code: What is the product of 94 and 32?", "expected_code": "def solve(): return 94 * 32"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Create a function to calculate the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Determine the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 9?", "expected_code": "def solve(): return 19 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 54?", "expected_code": "def solve(): return 41 * 54"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 50?", "expected_code": "def solve(): return 66 * 50"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 86?", "expected_code": "def solve(): return 50 * 86"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 73?", "expected_code": "def solve(): return 100 * 73"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 70?", "expected_code": "def solve(): return 92 * 70"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 24 and 16?", "expected_code": "def solve(): return 24 * 16"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 25 and 93?", "expected_code": "def solve(): return 25 * 93"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Determine the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 51 and 68?", "expected_code": "def solve(): return 51 * 68"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Create a function to calculate the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Write a Python function for the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 33?", "expected_code": "def solve(): return 33 * 33"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 81?", "expected_code": "def solve(): return 56 * 81"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 53 and 93?", "expected_code": "def solve(): return 53 * 93"}
+{"question": "Convert this word problem into Python code: What is the product of 80 and 90?", "expected_code": "def solve(): return 80 * 90"}
+{"question": "Create a function to calculate the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Write a Python function for the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Determine the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 86?", "expected_code": "def solve(): return 39 * 86"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 26?", "expected_code": "def solve(): return 79 * 26"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 85?", "expected_code": "def solve(): return 33 * 85"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Determine the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Calculate the product of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 83 and 63?", "expected_code": "def solve(): return 83 * 63"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 59?", "expected_code": "def solve(): return 32 * 59"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Write a Python function for the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "What is the product of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 98?", "expected_code": "def solve(): return 42 * 98"}
+{"question": "Convert this word problem into Python code: What is the product of 30 and 39?", "expected_code": "def solve(): return 30 * 39"}
+{"question": "What is the product of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Convert this word problem into Python code: What is the product of 46 and 60?", "expected_code": "def solve(): return 46 * 60"}
+{"question": "Write a Python function for the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 35 and 69?", "expected_code": "def solve(): return 35 * 69"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 77?", "expected_code": "def solve(): return 2 * 77"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 2?", "expected_code": "def solve(): return 9 * 2"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 71?", "expected_code": "def solve(): return 52 * 71"}
+{"question": "Convert this word problem into Python code: What is the product of 94 and 43?", "expected_code": "def solve(): return 94 * 43"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 20?", "expected_code": "def solve(): return 92 * 20"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 66?", "expected_code": "def solve(): return 36 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 63?", "expected_code": "def solve(): return 21 * 63"}
+{"question": "Convert this word problem into Python code: What is the product of 26 and 20?", "expected_code": "def solve(): return 26 * 20"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 1?", "expected_code": "def solve(): return 42 * 1"}
+{"question": "Convert this word problem into Python code: What is the product of 46 and 8?", "expected_code": "def solve(): return 46 * 8"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 85?", "expected_code": "def solve(): return 93 * 85"}
+{"question": "What is the product of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Calculate the product of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 74 and 32?", "expected_code": "def solve(): return 74 * 32"}
+{"question": "Convert this word problem into Python code: What is the product of 58 and 30?", "expected_code": "def solve(): return 58 * 30"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 5?", "expected_code": "def solve(): return 92 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 73?", "expected_code": "def solve(): return 100 * 73"}
+{"question": "Calculate the product of of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Convert this word problem into Python code: What is the product of 89 and 51?", "expected_code": "def solve(): return 89 * 51"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 5?", "expected_code": "def solve(): return 52 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 75?", "expected_code": "def solve(): return 41 * 75"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 82?", "expected_code": "def solve(): return 7 * 82"}
+{"question": "Convert this word problem into Python code: What is the product of 49 and 36?", "expected_code": "def solve(): return 49 * 36"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 91?", "expected_code": "def solve(): return 62 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 29?", "expected_code": "def solve(): return 21 * 29"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 59?", "expected_code": "def solve(): return 82 * 59"}
+{"question": "Convert this word problem into Python code: What is the product of 14 and 10?", "expected_code": "def solve(): return 14 * 10"}
+{"question": "Write a Python function for the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 70 and 84?", "expected_code": "def solve(): return 70 * 84"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 4?", "expected_code": "def solve(): return 2 * 4"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 78?", "expected_code": "def solve(): return 64 * 78"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 51?", "expected_code": "def solve(): return 82 * 51"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 61?", "expected_code": "def solve(): return 43 * 61"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Create a function to calculate the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 19?", "expected_code": "def solve(): return 66 * 19"}
+{"question": "Convert this word problem into Python code: What is the product of 97 and 71?", "expected_code": "def solve(): return 97 * 71"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 39?", "expected_code": "def solve(): return 100 * 39"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 21?", "expected_code": "def solve(): return 63 * 21"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 1?", "expected_code": "def solve(): return 100 * 1"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 30?", "expected_code": "def solve(): return 50 * 30"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 19?", "expected_code": "def solve(): return 64 * 19"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 48 and 81?", "expected_code": "def solve(): return 48 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 59?", "expected_code": "def solve(): return 22 * 59"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 17 and 66?", "expected_code": "def solve(): return 17 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 66?", "expected_code": "def solve(): return 21 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 84 and 4?", "expected_code": "def solve(): return 84 * 4"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 21?", "expected_code": "def solve(): return 22 * 21"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 55?", "expected_code": "def solve(): return 65 * 55"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "What is the product of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 75?", "expected_code": "def solve(): return 72 * 75"}
+{"question": "Convert this word problem into Python code: What is the product of 40 and 34?", "expected_code": "def solve(): return 40 * 34"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 93?", "expected_code": "def solve(): return 63 * 93"}
+{"question": "Determine the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 64?", "expected_code": "def solve(): return 39 * 64"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 85?", "expected_code": "def solve(): return 22 * 85"}
+{"question": "Convert this word problem into Python code: What is the product of 53 and 22?", "expected_code": "def solve(): return 53 * 22"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 70?", "expected_code": "def solve(): return 33 * 70"}
+{"question": "What is the product of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "What is the product of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 67?", "expected_code": "def solve(): return 77 * 67"}
+{"question": "Write a Python function for the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "What is the product of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 35?", "expected_code": "def solve(): return 20 * 35"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 92?", "expected_code": "def solve(): return 79 * 92"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 13?", "expected_code": "def solve(): return 60 * 13"}
+{"question": "Convert this word problem into Python code: What is the product of 95 and 28?", "expected_code": "def solve(): return 95 * 28"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 97?", "expected_code": "def solve(): return 21 * 97"}
+{"question": "Determine the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 3 and 53?", "expected_code": "def solve(): return 3 * 53"}
+{"question": "What is the product of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Calculate the product of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 35 and 89?", "expected_code": "def solve(): return 35 * 89"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Determine the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 11?", "expected_code": "def solve(): return 31 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 74 and 29?", "expected_code": "def solve(): return 74 * 29"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 83?", "expected_code": "def solve(): return 20 * 83"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 47 and 87?", "expected_code": "def solve(): return 47 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 68 and 28?", "expected_code": "def solve(): return 68 * 28"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 98?", "expected_code": "def solve(): return 69 * 98"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 87?", "expected_code": "def solve(): return 1 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 45 and 72?", "expected_code": "def solve(): return 45 * 72"}
+{"question": "Convert this word problem into Python code: What is the product of 18 and 33?", "expected_code": "def solve(): return 18 * 33"}
+{"question": "Determine the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 42?", "expected_code": "def solve(): return 1 * 42"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 46?", "expected_code": "def solve(): return 61 * 46"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 43?", "expected_code": "def solve(): return 22 * 43"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Write a Python function for the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 81?", "expected_code": "def solve(): return 50 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 85 and 41?", "expected_code": "def solve(): return 85 * 41"}
+{"question": "Convert this word problem into Python code: What is the product of 94 and 19?", "expected_code": "def solve(): return 94 * 19"}
+{"question": "Convert this word problem into Python code: What is the product of 97 and 26?", "expected_code": "def solve(): return 97 * 26"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 98?", "expected_code": "def solve(): return 42 * 98"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 19?", "expected_code": "def solve(): return 19 * 19"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Calculate the product of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Convert this word problem into Python code: What is the product of 90 and 29?", "expected_code": "def solve(): return 90 * 29"}
+{"question": "Convert this word problem into Python code: What is the product of 94 and 96?", "expected_code": "def solve(): return 94 * 96"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 51?", "expected_code": "def solve(): return 31 * 51"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 67 and 12?", "expected_code": "def solve(): return 67 * 12"}
+{"question": "Convert this word problem into Python code: What is the product of 28 and 3?", "expected_code": "def solve(): return 28 * 3"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 81?", "expected_code": "def solve(): return 42 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 17 and 1?", "expected_code": "def solve(): return 17 * 1"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 61?", "expected_code": "def solve(): return 32 * 61"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: Multiply 13 by 6.", "expected_code": "def solve(): return 13 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 32?", "expected_code": "def solve(): return 32 * 32"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 16?", "expected_code": "def solve(): return 65 * 16"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 29 and 68?", "expected_code": "def solve(): return 29 * 68"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 37?", "expected_code": "def solve(): return 21 * 37"}
+{"question": "What is the product of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Create a function to calculate the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 20?", "expected_code": "def solve(): return 96 * 20"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 13?", "expected_code": "def solve(): return 32 * 13"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 9?", "expected_code": "def solve(): return 19 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 10?", "expected_code": "def solve(): return 7 * 10"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 57 and 54?", "expected_code": "def solve(): return 57 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 54 and 85?", "expected_code": "def solve(): return 54 * 85"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 99?", "expected_code": "def solve(): return 69 * 99"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 74 and 54?", "expected_code": "def solve(): return 74 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 55?", "expected_code": "def solve(): return 34 * 55"}
+{"question": "Convert this word problem into Python code: What is the product of 78 and 71?", "expected_code": "def solve(): return 78 * 71"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 19?", "expected_code": "def solve(): return 66 * 19"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 92?", "expected_code": "def solve(): return 34 * 92"}
+{"question": "Write a Python function for the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 94?", "expected_code": "def solve(): return 63 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 75?", "expected_code": "def solve(): return 31 * 75"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "What is the product of of variables a and b? Implement it in Python.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Write a Python function for the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Write a Python function for the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 58 and 50?", "expected_code": "def solve(): return 58 * 50"}
+{"question": "What is the product of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 6?", "expected_code": "def solve(): return 61 * 6"}
+{"question": "Create a function to calculate the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Determine the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 55?", "expected_code": "def solve(): return 81 * 55"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 38?", "expected_code": "def solve(): return 62 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 75 and 87?", "expected_code": "def solve(): return 75 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 20?", "expected_code": "def solve(): return 82 * 20"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 22?", "expected_code": "def solve(): return 79 * 22"}
+{"question": "Create a function to calculate the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 53?", "expected_code": "def solve(): return 23 * 53"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 90 and 57?", "expected_code": "def solve(): return 90 * 57"}
+{"question": "Calculate the product of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 67 and 30?", "expected_code": "def solve(): return 67 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 11?", "expected_code": "def solve(): return 69 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 91 and 82?", "expected_code": "def solve(): return 91 * 82"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 44?", "expected_code": "def solve(): return 32 * 44"}
+{"question": "Convert this word problem into Python code: What is the product of 97 and 68?", "expected_code": "def solve(): return 97 * 68"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 14?", "expected_code": "def solve(): return 9 * 14"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 5 and 57?", "expected_code": "def solve(): return 5 * 57"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 100?", "expected_code": "def solve(): return 9 * 100"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 5?", "expected_code": "def solve(): return 19 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 95?", "expected_code": "def solve(): return 1 * 95"}
+{"question": "Convert this word problem into Python code: What is the product of 13 and 10?", "expected_code": "def solve(): return 13 * 10"}
+{"question": "Convert this word problem into Python code: What is the product of 71 and 100?", "expected_code": "def solve(): return 71 * 100"}
+{"question": "Convert this word problem into Python code: Multiply 7 by 5.", "expected_code": "def solve(): return 7 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 2?", "expected_code": "def solve(): return 9 * 2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 30 and 83?", "expected_code": "def solve(): return 30 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 76?", "expected_code": "def solve(): return 77 * 76"}
+{"question": "Calculate the product of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 18 and 79?", "expected_code": "def solve(): return 18 * 79"}
+{"question": "Convert this word problem into Python code: What is the product of 76 and 28?", "expected_code": "def solve(): return 76 * 28"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 90 and 56?", "expected_code": "def solve(): return 90 * 56"}
+{"question": "Convert this word problem into Python code: What is the product of 38 and 8?", "expected_code": "def solve(): return 38 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 10?", "expected_code": "def solve(): return 22 * 10"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 78 and 22?", "expected_code": "def solve(): return 78 * 22"}
+{"question": "Calculate the product of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 73 and 43?", "expected_code": "def solve(): return 73 * 43"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 62?", "expected_code": "def solve(): return 21 * 62"}
+{"question": "Convert this word problem into Python code: What is the product of 35 and 20?", "expected_code": "def solve(): return 35 * 20"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 34?", "expected_code": "def solve(): return 2 * 34"}
+{"question": "Write a Python function for the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 11 and 90?", "expected_code": "def solve(): return 11 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 67 and 30?", "expected_code": "def solve(): return 67 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 13 and 50?", "expected_code": "def solve(): return 13 * 50"}
+{"question": "Create a function to calculate the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Calculate the product of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 44?", "expected_code": "def solve(): return 69 * 44"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 26?", "expected_code": "def solve(): return 79 * 26"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 11?", "expected_code": "def solve(): return 69 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 78 and 23?", "expected_code": "def solve(): return 78 * 23"}
+{"question": "Create a function to calculate the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 88 and 14?", "expected_code": "def solve(): return 88 * 14"}
+{"question": "Calculate the product of of variables num1 and num2, and num3 using a Python function.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 33?", "expected_code": "def solve(): return 61 * 33"}
+{"question": "Calculate the product of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Calculate the product of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 29?", "expected_code": "def solve(): return 52 * 29"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 3 and 40?", "expected_code": "def solve(): return 3 * 40"}
+{"question": "Convert this word problem into Python code: What is the product of 87 and 3?", "expected_code": "def solve(): return 87 * 3"}
+{"question": "Convert this word problem into Python code: What is the product of 80 and 67?", "expected_code": "def solve(): return 80 * 67"}
+{"question": "Convert this word problem into Python code: What is the product of 51 and 95?", "expected_code": "def solve(): return 51 * 95"}
+{"question": "Convert this word problem into Python code: What is the product of 55 and 89?", "expected_code": "def solve(): return 55 * 89"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 83?", "expected_code": "def solve(): return 39 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 71?", "expected_code": "def solve(): return 31 * 71"}
+{"question": "What is the product of of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 13?", "expected_code": "def solve(): return 60 * 13"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 47?", "expected_code": "def solve(): return 50 * 47"}
+{"question": "Convert this word problem into Python code: What is the product of 54 and 45?", "expected_code": "def solve(): return 54 * 45"}
+{"question": "Convert this word problem into Python code: What is the product of 68 and 98?", "expected_code": "def solve(): return 68 * 98"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 22?", "expected_code": "def solve(): return 9 * 22"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: Multiply 15 by 4.", "expected_code": "def solve(): return 15 * 4"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 20?", "expected_code": "def solve(): return 31 * 20"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 48 and 9?", "expected_code": "def solve(): return 48 * 9"}
+{"question": "What is the product of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 24?", "expected_code": "def solve(): return 60 * 24"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 10?", "expected_code": "def solve(): return 8 * 10"}
+{"question": "What is the product of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 97?", "expected_code": "def solve(): return 60 * 97"}
+{"question": "Convert this word problem into Python code: What is the product of 53 and 93?", "expected_code": "def solve(): return 53 * 93"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 91 and 9?", "expected_code": "def solve(): return 91 * 9"}
+{"question": "Calculate the product of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 12 and 18?", "expected_code": "def solve(): return 12 * 18"}
+{"question": "Convert this word problem into Python code: What is the product of 88 and 41?", "expected_code": "def solve(): return 88 * 41"}
+{"question": "What is the product of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 11?", "expected_code": "def solve(): return 23 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 76?", "expected_code": "def solve(): return 42 * 76"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 32?", "expected_code": "def solve(): return 72 * 32"}
+{"question": "Convert this word problem into Python code: What is the product of 85 and 81?", "expected_code": "def solve(): return 85 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 9?", "expected_code": "def solve(): return 33 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 3 and 91?", "expected_code": "def solve(): return 3 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 98?", "expected_code": "def solve(): return 63 * 98"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 6?", "expected_code": "def solve(): return 72 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 59?", "expected_code": "def solve(): return 63 * 59"}
+{"question": "Convert this word problem into Python code: What is the product of 95 and 28?", "expected_code": "def solve(): return 95 * 28"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 44?", "expected_code": "def solve(): return 93 * 44"}
+{"question": "Create a function to calculate the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 29?", "expected_code": "def solve(): return 21 * 29"}
+{"question": "Convert this word problem into Python code: What is the product of 17 and 42?", "expected_code": "def solve(): return 17 * 42"}
+{"question": "Convert this word problem into Python code: What is the product of 75 and 35?", "expected_code": "def solve(): return 75 * 35"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 73 and 90?", "expected_code": "def solve(): return 73 * 90"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "What is the product of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 96?", "expected_code": "def solve(): return 100 * 96"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 59 and 53?", "expected_code": "def solve(): return 59 * 53"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Write a Python function for the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 3, 6, and 9?", "expected_code": "def solve(): return 3 * 6 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 59?", "expected_code": "def solve(): return 22 * 59"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 3 and 30?", "expected_code": "def solve(): return 3 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 6?", "expected_code": "def solve(): return 34 * 6"}
+{"question": "Write a Python function for the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 70?", "expected_code": "def solve(): return 36 * 70"}
+{"question": "Convert this word problem into Python code: What is the product of 91 and 32?", "expected_code": "def solve(): return 91 * 32"}
+{"question": "Create a function to calculate the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Convert this word problem into Python code: What is the product of 14 and 46?", "expected_code": "def solve(): return 14 * 46"}
+{"question": "Convert this word problem into Python code: What is the product of 26 and 24?", "expected_code": "def solve(): return 26 * 24"}
+{"question": "Convert this word problem into Python code: What is the product of 26 and 20?", "expected_code": "def solve(): return 26 * 20"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 68?", "expected_code": "def solve(): return 4 * 68"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 11?", "expected_code": "def solve(): return 31 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 57?", "expected_code": "def solve(): return 2 * 57"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 15?", "expected_code": "def solve(): return 69 * 15"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 11?", "expected_code": "def solve(): return 69 * 11"}
+{"question": "Determine the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 30?", "expected_code": "def solve(): return 7 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 67 and 13?", "expected_code": "def solve(): return 67 * 13"}
+{"question": "Convert this word problem into Python code: What is the product of 37 and 29?", "expected_code": "def solve(): return 37 * 29"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 53?", "expected_code": "def solve(): return 2 * 53"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 22?", "expected_code": "def solve(): return 43 * 22"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 68?", "expected_code": "def solve(): return 34 * 68"}
+{"question": "Convert this word problem into Python code: What is the product of 49 and 48?", "expected_code": "def solve(): return 49 * 48"}
+{"question": "Create a function to calculate the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Calculate the product of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 58?", "expected_code": "def solve(): return 77 * 58"}
+{"question": "Create a function to calculate the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 76 and 17?", "expected_code": "def solve(): return 76 * 17"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 69?", "expected_code": "def solve(): return 32 * 69"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 77?", "expected_code": "def solve(): return 77 * 77"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 1?", "expected_code": "def solve(): return 33 * 1"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 69?", "expected_code": "def solve(): return 32 * 69"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 89?", "expected_code": "def solve(): return 63 * 89"}
+{"question": "Convert this word problem into Python code: What is the product of 30 and 49?", "expected_code": "def solve(): return 30 * 49"}
+{"question": "Calculate the product of of variables m and n, and o using a Python function.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 70 and 41?", "expected_code": "def solve(): return 70 * 41"}
+{"question": "Convert this word problem into Python code: What is the product of 30 and 73?", "expected_code": "def solve(): return 30 * 73"}
+{"question": "Convert this word problem into Python code: What is the product of 99 and 44?", "expected_code": "def solve(): return 99 * 44"}
+{"question": "Convert this word problem into Python code: What is the product of 75 and 72?", "expected_code": "def solve(): return 75 * 72"}
+{"question": "Create a function to calculate the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Calculate the product of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Calculate the product of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Create a function to calculate the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 80 and 63?", "expected_code": "def solve(): return 80 * 63"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 75 and 72?", "expected_code": "def solve(): return 75 * 72"}
+{"question": "Convert this word problem into Python code: What is the product of 48 and 46?", "expected_code": "def solve(): return 48 * 46"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 91?", "expected_code": "def solve(): return 19 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 47 and 97?", "expected_code": "def solve(): return 47 * 97"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 11?", "expected_code": "def solve(): return 31 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 54 and 46?", "expected_code": "def solve(): return 54 * 46"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 74 and 91?", "expected_code": "def solve(): return 74 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 71?", "expected_code": "def solve(): return 52 * 71"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 15 and 39?", "expected_code": "def solve(): return 15 * 39"}
+{"question": "What is the product of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 89 and 68?", "expected_code": "def solve(): return 89 * 68"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 13?", "expected_code": "def solve(): return 93 * 13"}
+{"question": "Calculate the product of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 13 and 98?", "expected_code": "def solve(): return 13 * 98"}
+{"question": "Convert this word problem into Python code: What is the product of 95 and 29?", "expected_code": "def solve(): return 95 * 29"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 9?", "expected_code": "def solve(): return 19 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 14 and 10?", "expected_code": "def solve(): return 14 * 10"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 71?", "expected_code": "def solve(): return 31 * 71"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 21?", "expected_code": "def solve(): return 22 * 21"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 11?", "expected_code": "def solve(): return 64 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 73?", "expected_code": "def solve(): return 41 * 73"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 35 and 40?", "expected_code": "def solve(): return 35 * 40"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 79?", "expected_code": "def solve(): return 56 * 79"}
+{"question": "Write a Python function for the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 12, 5, and 3?", "expected_code": "def solve(): return 12 * 5 * 3"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 100?", "expected_code": "def solve(): return 22 * 100"}
+{"question": "Convert this word problem into Python code: What is the product of 38 and 4?", "expected_code": "def solve(): return 38 * 4"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 33?", "expected_code": "def solve(): return 81 * 33"}
+{"question": "Convert this word problem into Python code: What is the product of 29 and 25?", "expected_code": "def solve(): return 29 * 25"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Calculate the product of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Convert this word problem into Python code: What is the product of 80 and 68?", "expected_code": "def solve(): return 80 * 68"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "What is the product of of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 66?", "expected_code": "def solve(): return 22 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 99 and 3?", "expected_code": "def solve(): return 99 * 3"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 32?", "expected_code": "def solve(): return 96 * 32"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 84 and 66?", "expected_code": "def solve(): return 84 * 66"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 44?", "expected_code": "def solve(): return 60 * 44"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 81?", "expected_code": "def solve(): return 66 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 69?", "expected_code": "def solve(): return 39 * 69"}
+{"question": "Calculate the product of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 18?", "expected_code": "def solve(): return 92 * 18"}
+{"question": "Convert this word problem into Python code: What is the product of 95 and 28?", "expected_code": "def solve(): return 95 * 28"}
+{"question": "Convert this word problem into Python code: What is the product of 84 and 91?", "expected_code": "def solve(): return 84 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 93?", "expected_code": "def solve(): return 81 * 93"}
+{"question": "Convert this word problem into Python code: What is the product of 5 and 55?", "expected_code": "def solve(): return 5 * 55"}
+{"question": "Write a Python function for the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 49?", "expected_code": "def solve(): return 77 * 49"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 85 and 91?", "expected_code": "def solve(): return 85 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 53 and 22?", "expected_code": "def solve(): return 53 * 22"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 90?", "expected_code": "def solve(): return 34 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 38?", "expected_code": "def solve(): return 52 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 45 and 71?", "expected_code": "def solve(): return 45 * 71"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 99?", "expected_code": "def solve(): return 31 * 99"}
+{"question": "Convert this word problem into Python code: What is the product of 89 and 28?", "expected_code": "def solve(): return 89 * 28"}
+{"question": "Convert this word problem into Python code: What is the product of 99 and 53?", "expected_code": "def solve(): return 99 * 53"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 11?", "expected_code": "def solve(): return 64 * 11"}
+{"question": "Calculate the product of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Write a Python function for the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "What is the product of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 83 and 65?", "expected_code": "def solve(): return 83 * 65"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and 85?", "expected_code": "def solve(): return 16 * 85"}
+{"question": "What is the product of of variables m and n, and o? Implement it in Python.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: Multiply 8 by 3.", "expected_code": "def solve(): return 8 * 3"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 40 and 46?", "expected_code": "def solve(): return 40 * 46"}
+{"question": "Determine the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 52?", "expected_code": "def solve(): return 93 * 52"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 5?", "expected_code": "def solve(): return 52 * 5"}
+{"question": "Determine the product of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 97 and 6?", "expected_code": "def solve(): return 97 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 67 and 2?", "expected_code": "def solve(): return 67 * 2"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 13?", "expected_code": "def solve(): return 93 * 13"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 22?", "expected_code": "def solve(): return 34 * 22"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 3?", "expected_code": "def solve(): return 82 * 3"}
+{"question": "Convert this word problem into Python code: What is the product of 83 and 40?", "expected_code": "def solve(): return 83 * 40"}
+{"question": "Create a function to calculate the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 62?", "expected_code": "def solve(): return 7 * 62"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 76 and 90?", "expected_code": "def solve(): return 76 * 90"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "What is the product of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 86 and 6?", "expected_code": "def solve(): return 86 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 83?", "expected_code": "def solve(): return 8 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 90?", "expected_code": "def solve(): return 43 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 90 and 91?", "expected_code": "def solve(): return 90 * 91"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 99 and 62?", "expected_code": "def solve(): return 99 * 62"}
+{"question": "Convert this word problem into Python code: What is the product of 38 and 4?", "expected_code": "def solve(): return 38 * 4"}
+{"question": "Convert this word problem into Python code: What is the product of 98 and 45?", "expected_code": "def solve(): return 98 * 45"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 32?", "expected_code": "def solve(): return 96 * 32"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 66?", "expected_code": "def solve(): return 96 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 85 and 25?", "expected_code": "def solve(): return 85 * 25"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 21?", "expected_code": "def solve(): return 34 * 21"}
+{"question": "Write a Python function for the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Calculate the product of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Write a Python function for the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Calculate the product of of variables alpha and beta using a Python function.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 57 and 8?", "expected_code": "def solve(): return 57 * 8"}
+{"question": "Convert this word problem into Python code: Determine the result of 15 squared plus the product of 7 and 9, then divide by 6.", "expected_code": "def solve(): return (15 ** 2 + 7 * 9) / 6"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 66?", "expected_code": "def solve(): return 21 * 66"}
+{"question": "Calculate the product of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 2?", "expected_code": "def solve(): return 93 * 2"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 30?", "expected_code": "def solve(): return 9 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 16?", "expected_code": "def solve(): return 33 * 16"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 79?", "expected_code": "def solve(): return 43 * 79"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 13?", "expected_code": "def solve(): return 81 * 13"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 100?", "expected_code": "def solve(): return 36 * 100"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 97?", "expected_code": "def solve(): return 39 * 97"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 11?", "expected_code": "def solve(): return 1 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 37 and 66?", "expected_code": "def solve(): return 37 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 48 and 81?", "expected_code": "def solve(): return 48 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 25 and 93?", "expected_code": "def solve(): return 25 * 93"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Write a Python function for the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 90 and 48?", "expected_code": "def solve(): return 90 * 48"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 9?", "expected_code": "def solve(): return 50 * 9"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 44?", "expected_code": "def solve(): return 93 * 44"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 23?", "expected_code": "def solve(): return 23 * 23"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 67?", "expected_code": "def solve(): return 77 * 67"}
+{"question": "Convert this word problem into Python code: What is the product of 28 and 16?", "expected_code": "def solve(): return 28 * 16"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Calculate the product of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 100?", "expected_code": "def solve(): return 2 * 100"}
+{"question": "Convert this word problem into Python code: What is the product of 78 and 22?", "expected_code": "def solve(): return 78 * 22"}
+{"question": "Convert this word problem into Python code: What is the product of 86 and 45?", "expected_code": "def solve(): return 86 * 45"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 5?", "expected_code": "def solve(): return 22 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 80?", "expected_code": "def solve(): return 42 * 80"}
+{"question": "Create a function to calculate the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 10 and 33?", "expected_code": "def solve(): return 10 * 33"}
+{"question": "Convert this word problem into Python code: What is the product of 6 and 17?", "expected_code": "def solve(): return 6 * 17"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 87?", "expected_code": "def solve(): return 61 * 87"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Calculate the product of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 95?", "expected_code": "def solve(): return 56 * 95"}
+{"question": "Write a Python function for the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 83?", "expected_code": "def solve(): return 8 * 83"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 91 and 72?", "expected_code": "def solve(): return 91 * 72"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 73 and 80?", "expected_code": "def solve(): return 73 * 80"}
+{"question": "Convert this word problem into Python code: What is the product of 28 and 5?", "expected_code": "def solve(): return 28 * 5"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 95?", "expected_code": "def solve(): return 1 * 95"}
+{"question": "Convert this word problem into Python code: What is the product of 95 and 45?", "expected_code": "def solve(): return 95 * 45"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Create a function to calculate the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 94?", "expected_code": "def solve(): return 61 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 94?", "expected_code": "def solve(): return 77 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 86 and 69?", "expected_code": "def solve(): return 86 * 69"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 86?", "expected_code": "def solve(): return 39 * 86"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 94 and 67?", "expected_code": "def solve(): return 94 * 67"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 91?", "expected_code": "def solve(): return 1 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 51 and 80?", "expected_code": "def solve(): return 51 * 80"}
+{"question": "Convert this word problem into Python code: What is the product of 14 and 83?", "expected_code": "def solve(): return 14 * 83"}
+{"question": "What is the product of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 29?", "expected_code": "def solve(): return 2 * 29"}
+{"question": "Convert this word problem into Python code: What is the product of 71 and 9?", "expected_code": "def solve(): return 71 * 9"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 38?", "expected_code": "def solve(): return 4 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 15 and 96?", "expected_code": "def solve(): return 15 * 96"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 98?", "expected_code": "def solve(): return 39 * 98"}
+{"question": "Write a Python function for the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 98 and 93?", "expected_code": "def solve(): return 98 * 93"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 53?", "expected_code": "def solve(): return 63 * 53"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 10?", "expected_code": "def solve(): return 52 * 10"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 60?", "expected_code": "def solve(): return 82 * 60"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 55?", "expected_code": "def solve(): return 61 * 55"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 98?", "expected_code": "def solve(): return 82 * 98"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 26?", "expected_code": "def solve(): return 96 * 26"}
+{"question": "Convert this word problem into Python code: Multiply 4 by 7.", "expected_code": "def solve(): return 4 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 8?", "expected_code": "def solve(): return 52 * 8"}
+{"question": "Calculate the product of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Convert this word problem into Python code: What is the product of 80 and 50?", "expected_code": "def solve(): return 80 * 50"}
+{"question": "Convert this word problem into Python code: What is the product of 59 and 54?", "expected_code": "def solve(): return 59 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 90?", "expected_code": "def solve(): return 93 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 93?", "expected_code": "def solve(): return 19 * 93"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 36?", "expected_code": "def solve(): return 31 * 36"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 96?", "expected_code": "def solve(): return 19 * 96"}
+{"question": "Convert this word problem into Python code: What is the product of 74 and 66?", "expected_code": "def solve(): return 74 * 66"}
+{"question": "Convert this word problem into Python code: What is the product of 84 and 8?", "expected_code": "def solve(): return 84 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 18 and 26?", "expected_code": "def solve(): return 18 * 26"}
+{"question": "Convert this word problem into Python code: What is the product of 49 and 51?", "expected_code": "def solve(): return 49 * 51"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 22?", "expected_code": "def solve(): return 33 * 22"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 98 and 5?", "expected_code": "def solve(): return 98 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 38 and 3?", "expected_code": "def solve(): return 38 * 3"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 11?", "expected_code": "def solve(): return 63 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 69?", "expected_code": "def solve(): return 2 * 69"}
+{"question": "Calculate the product of of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 89 and 42?", "expected_code": "def solve(): return 89 * 42"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 5 and 31?", "expected_code": "def solve(): return 5 * 31"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 94?", "expected_code": "def solve(): return 62 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 58?", "expected_code": "def solve(): return 7 * 58"}
+{"question": "Convert this word problem into Python code: What is the product of 35 and 95?", "expected_code": "def solve(): return 35 * 95"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 98 and 28?", "expected_code": "def solve(): return 98 * 28"}
+{"question": "Convert this word problem into Python code: What is the product of 78 and 83?", "expected_code": "def solve(): return 78 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 99?", "expected_code": "def solve(): return 33 * 99"}
+{"question": "What is the product of of variables num1 and num2, and num3? Implement it in Python.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Calculate the product of of variables p and q using a Python function.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 89 and 23?", "expected_code": "def solve(): return 89 * 23"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 41?", "expected_code": "def solve(): return 4 * 41"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 98?", "expected_code": "def solve(): return 81 * 98"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 63?", "expected_code": "def solve(): return 22 * 63"}
+{"question": "Convert this word problem into Python code: What is the product of 40 and 86?", "expected_code": "def solve(): return 40 * 86"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Convert this word problem into Python code: What is the product of 75 and 74?", "expected_code": "def solve(): return 75 * 74"}
+{"question": "Write a Python function for the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 94?", "expected_code": "def solve(): return 79 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 77?", "expected_code": "def solve(): return 2 * 77"}
+{"question": "Write a Python function for the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 31?", "expected_code": "def solve(): return 65 * 31"}
+{"question": "Convert this word problem into Python code: What is the product of 85 and 35?", "expected_code": "def solve(): return 85 * 35"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 53?", "expected_code": "def solve(): return 41 * 53"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 52?", "expected_code": "def solve(): return 56 * 52"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 8?", "expected_code": "def solve(): return 31 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 38?", "expected_code": "def solve(): return 31 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 54?", "expected_code": "def solve(): return 23 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 63?", "expected_code": "def solve(): return 41 * 63"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 75?", "expected_code": "def solve(): return 62 * 75"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 41?", "expected_code": "def solve(): return 4 * 41"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 14?", "expected_code": "def solve(): return 23 * 14"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 13?", "expected_code": "def solve(): return 60 * 13"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 97?", "expected_code": "def solve(): return 79 * 97"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 34?", "expected_code": "def solve(): return 2 * 34"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 80?", "expected_code": "def solve(): return 41 * 80"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 97 and 96?", "expected_code": "def solve(): return 97 * 96"}
+{"question": "Convert this word problem into Python code: What is the product of 37 and 56?", "expected_code": "def solve(): return 37 * 56"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 89 and 16?", "expected_code": "def solve(): return 89 * 16"}
+{"question": "Convert this word problem into Python code: What is the product of 58 and 49?", "expected_code": "def solve(): return 58 * 49"}
+{"question": "Determine the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 86?", "expected_code": "def solve(): return 36 * 86"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 98?", "expected_code": "def solve(): return 19 * 98"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 6 and 19?", "expected_code": "def solve(): return 6 * 19"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 75?", "expected_code": "def solve(): return 34 * 75"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 18?", "expected_code": "def solve(): return 8 * 18"}
+{"question": "Convert this word problem into Python code: What is the product of 59 and 83?", "expected_code": "def solve(): return 59 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 83?", "expected_code": "def solve(): return 8 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 50?", "expected_code": "def solve(): return 60 * 50"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 82?", "expected_code": "def solve(): return 20 * 82"}
+{"question": "What is the product of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 58 and 27?", "expected_code": "def solve(): return 58 * 27"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 73?", "expected_code": "def solve(): return 42 * 73"}
+{"question": "What is the product of of variables a and b, and c? Implement it in Python.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Calculate the product of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 28?", "expected_code": "def solve(): return 69 * 28"}
+{"question": "Calculate the product of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 73 and 55?", "expected_code": "def solve(): return 73 * 55"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 93?", "expected_code": "def solve(): return 81 * 93"}
+{"question": "Convert this word problem into Python code: What is the product of 54 and 85?", "expected_code": "def solve(): return 54 * 85"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 52?", "expected_code": "def solve(): return 7 * 52"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 59?", "expected_code": "def solve(): return 32 * 59"}
+{"question": "Convert this word problem into Python code: What is the product of 71 and 45?", "expected_code": "def solve(): return 71 * 45"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Write a Python function for the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 68 and 15?", "expected_code": "def solve(): return 68 * 15"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 94?", "expected_code": "def solve(): return 82 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 47?", "expected_code": "def solve(): return 82 * 47"}
+{"question": "Convert this word problem into Python code: What is the product of 27 and 76?", "expected_code": "def solve(): return 27 * 76"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 29 and 92?", "expected_code": "def solve(): return 29 * 92"}
+{"question": "Create a function to calculate the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and 25?", "expected_code": "def solve(): return 16 * 25"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 80 and 36?", "expected_code": "def solve(): return 80 * 36"}
+{"question": "Convert this word problem into Python code: What is the product of 93 and 98?", "expected_code": "def solve(): return 93 * 98"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 24 and 60?", "expected_code": "def solve(): return 24 * 60"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 57 and 31?", "expected_code": "def solve(): return 57 * 31"}
+{"question": "Convert this word problem into Python code: What is the product of 55 and 6?", "expected_code": "def solve(): return 55 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 55?", "expected_code": "def solve(): return 20 * 55"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 30?", "expected_code": "def solve(): return 63 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 31?", "expected_code": "def solve(): return 63 * 31"}
+{"question": "Convert this word problem into Python code: What is the product of 98 and 33?", "expected_code": "def solve(): return 98 * 33"}
+{"question": "Convert this word problem into Python code: What is the product of 5 and 88?", "expected_code": "def solve(): return 5 * 88"}
+{"question": "Convert this word problem into Python code: What is the product of 10 and 37?", "expected_code": "def solve(): return 10 * 37"}
+{"question": "Convert this word problem into Python code: What is the product of 17 and 87?", "expected_code": "def solve(): return 17 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 15?", "expected_code": "def solve(): return 23 * 15"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 38 and 8?", "expected_code": "def solve(): return 38 * 8"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 28 and 95?", "expected_code": "def solve(): return 28 * 95"}
+{"question": "Determine the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 32?", "expected_code": "def solve(): return 72 * 32"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 87 and 54?", "expected_code": "def solve(): return 87 * 54"}
+{"question": "Write a Python function for the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 79?", "expected_code": "def solve(): return 41 * 79"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 64?", "expected_code": "def solve(): return 32 * 64"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 83?", "expected_code": "def solve(): return 31 * 83"}
+{"question": "Calculate the product of of variables num1 and num2 using a Python function.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 59 and 24?", "expected_code": "def solve(): return 59 * 24"}
+{"question": "What is the product of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 1 and 92?", "expected_code": "def solve(): return 1 * 92"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 93?", "expected_code": "def solve(): return 100 * 93"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 3?", "expected_code": "def solve(): return 63 * 3"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 99?", "expected_code": "def solve(): return 9 * 99"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 38?", "expected_code": "def solve(): return 31 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 81 and 50?", "expected_code": "def solve(): return 81 * 50"}
+{"question": "Convert this word problem into Python code: What is the product of 10 and 23?", "expected_code": "def solve(): return 10 * 23"}
+{"question": "Calculate the product of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 87 and 47?", "expected_code": "def solve(): return 87 * 47"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 37?", "expected_code": "def solve(): return 82 * 37"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 5?", "expected_code": "def solve(): return 79 * 5"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 34?", "expected_code": "def solve(): return 92 * 34"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 92?", "expected_code": "def solve(): return 64 * 92"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 2?", "expected_code": "def solve(): return 9 * 2"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 78 and 39?", "expected_code": "def solve(): return 78 * 39"}
+{"question": "Convert this word problem into Python code: What is the product of 15 and 82?", "expected_code": "def solve(): return 15 * 82"}
+{"question": "Convert this word problem into Python code: What is the product of 25 and 10?", "expected_code": "def solve(): return 25 * 10"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 15?", "expected_code": "def solve(): return 56 * 15"}
+{"question": "Convert this word problem into Python code: What is the product of 87 and 49?", "expected_code": "def solve(): return 87 * 49"}
+{"question": "Convert this word problem into Python code: Multiply 7 by 10.", "expected_code": "def solve(): return 7 * 10"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 13?", "expected_code": "def solve(): return 60 * 13"}
+{"question": "What is the product of of variables value1 and value2? Implement it in Python.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 9?", "expected_code": "def solve(): return 32 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 43?", "expected_code": "def solve(): return 50 * 43"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Write a Python function for the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 46?", "expected_code": "def solve(): return 61 * 46"}
+{"question": "Convert this word problem into Python code: What is the product of 90 and 56?", "expected_code": "def solve(): return 90 * 56"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 3?", "expected_code": "def solve(): return 64 * 3"}
+{"question": "Create a function to calculate the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 91 and 38?", "expected_code": "def solve(): return 91 * 38"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 18?", "expected_code": "def solve(): return 20 * 18"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 30?", "expected_code": "def solve(): return 9 * 30"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 79?", "expected_code": "def solve(): return 61 * 79"}
+{"question": "Convert this word problem into Python code: What is the product of 70 and 10?", "expected_code": "def solve(): return 70 * 10"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 40 and 77?", "expected_code": "def solve(): return 40 * 77"}
+{"question": "Determine the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Calculate the product of of variables value1 and value2, and value3 using a Python function.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 32?", "expected_code": "def solve(): return 72 * 32"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 87?", "expected_code": "def solve(): return 36 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 5?", "expected_code": "def solve(): return 63 * 5"}
+{"question": "Determine the product of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 32?", "expected_code": "def solve(): return 32 * 32"}
+{"question": "Convert this word problem into Python code: What is the product of 95 and 28?", "expected_code": "def solve(): return 95 * 28"}
+{"question": "What is the product of of variables alpha and beta? Implement it in Python.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 54?", "expected_code": "def solve(): return 23 * 54"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 10 and 62?", "expected_code": "def solve(): return 10 * 62"}
+{"question": "Convert this word problem into Python code: What is the product of 42 and 80?", "expected_code": "def solve(): return 42 * 80"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 82?", "expected_code": "def solve(): return 61 * 82"}
+{"question": "Create a function to calculate the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 29?", "expected_code": "def solve(): return 72 * 29"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 75?", "expected_code": "def solve(): return 50 * 75"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 17?", "expected_code": "def solve(): return 32 * 17"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 12?", "expected_code": "def solve(): return 69 * 12"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 67?", "expected_code": "def solve(): return 32 * 67"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 46 and 12?", "expected_code": "def solve(): return 46 * 12"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 38?", "expected_code": "def solve(): return 79 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 26?", "expected_code": "def solve(): return 20 * 26"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 37?", "expected_code": "def solve(): return 65 * 37"}
+{"question": "Write a Python function for the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 88?", "expected_code": "def solve(): return 9 * 88"}
+{"question": "Write a Python function for the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and 53?", "expected_code": "def solve(): return 16 * 53"}
+{"question": "Convert this word problem into Python code: What is the product of 57 and 1?", "expected_code": "def solve(): return 57 * 1"}
+{"question": "Calculate the product of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 29 and 38?", "expected_code": "def solve(): return 29 * 38"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 83?", "expected_code": "def solve(): return 56 * 83"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 73?", "expected_code": "def solve(): return 100 * 73"}
+{"question": "Convert this word problem into Python code: What is the product of 68 and 19?", "expected_code": "def solve(): return 68 * 19"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 73?", "expected_code": "def solve(): return 100 * 73"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 80?", "expected_code": "def solve(): return 72 * 80"}
+{"question": "Determine the product of of variables value1 and value2.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Write a Python function for the product of of variables num1 and num2.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and 61?", "expected_code": "def solve(): return 16 * 61"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 8 and 7?", "expected_code": "def solve(): return 8 * 7"}
+{"question": "Calculate the product of of variables m and n using a Python function.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 71?", "expected_code": "def solve(): return 66 * 71"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 87?", "expected_code": "def solve(): return 36 * 87"}
+{"question": "Create a function to calculate the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 67?", "expected_code": "def solve(): return 96 * 67"}
+{"question": "Convert this word problem into Python code: What is the product of 15 and 48?", "expected_code": "def solve(): return 15 * 48"}
+{"question": "Convert this word problem into Python code: What is the product of 49 and 64?", "expected_code": "def solve(): return 49 * 64"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 86?", "expected_code": "def solve(): return 96 * 86"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Write a Python function for the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and 25?", "expected_code": "def solve(): return 16 * 25"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 33?", "expected_code": "def solve(): return 66 * 33"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 2?", "expected_code": "def solve(): return 43 * 2"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 10?", "expected_code": "def solve(): return 43 * 10"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Calculate the product of of variables value1 and value2 using a Python function.", "expected_code": "def solve(value1, value2):\n    return value1 * value2"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 39?", "expected_code": "def solve(): return 22 * 39"}
+{"question": "Convert this word problem into Python code: What is the product of 69 and 91?", "expected_code": "def solve(): return 69 * 91"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 40?", "expected_code": "def solve(): return 61 * 40"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 36 and 53?", "expected_code": "def solve(): return 36 * 53"}
+{"question": "Convert this word problem into Python code: What is the product of 45 and 5?", "expected_code": "def solve(): return 45 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 38?", "expected_code": "def solve(): return 79 * 38"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Write a Python function for the product of of variables alpha and beta.", "expected_code": "def solve(alpha, beta):\n    return alpha * beta"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 89?", "expected_code": "def solve(): return 41 * 89"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Create a function to calculate the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 7 and 30?", "expected_code": "def solve(): return 7 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 71 and 9?", "expected_code": "def solve(): return 71 * 9"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 33?", "expected_code": "def solve(): return 33 * 33"}
+{"question": "What is the product of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 33 and 2?", "expected_code": "def solve(): return 33 * 2"}
+{"question": "Convert this word problem into Python code: What is the product of 30 and 84?", "expected_code": "def solve(): return 30 * 84"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 54?", "expected_code": "def solve(): return 32 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 57?", "expected_code": "def solve(): return 22 * 57"}
+{"question": "Create a function to calculate the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 29?", "expected_code": "def solve(): return 62 * 29"}
+{"question": "Determine the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 43 and 21?", "expected_code": "def solve(): return 43 * 21"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 15 and 53?", "expected_code": "def solve(): return 15 * 53"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Calculate the product of of variables p and q, and r using a Python function.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Calculate the product of of variables a and b, and c using a Python function.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 87 and 54?", "expected_code": "def solve(): return 87 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 29 and 55?", "expected_code": "def solve(): return 29 * 55"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 7?", "expected_code": "def solve(): return 9 * 7"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: Multiply 12 by 8.", "expected_code": "def solve(): return 12 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 57 and 1?", "expected_code": "def solve(): return 57 * 1"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: Multiply 3, 2, and 5.", "expected_code": "def solve(): return 3 * 2 * 5"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 28 and 95?", "expected_code": "def solve(): return 28 * 95"}
+{"question": "Write a Python function for the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 94 and 43?", "expected_code": "def solve(): return 94 * 43"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Create a function to calculate the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 31?", "expected_code": "def solve(): return 65 * 31"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 56?", "expected_code": "def solve(): return 2 * 56"}
+{"question": "Determine the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 82 and 88?", "expected_code": "def solve(): return 82 * 88"}
+{"question": "Convert this word problem into Python code: What is the product of 30 and 46?", "expected_code": "def solve(): return 30 * 46"}
+{"question": "What is the product of of variables value1 and value2, and value3? Implement it in Python.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 18 and 41?", "expected_code": "def solve(): return 18 * 41"}
+{"question": "What is the product of of variables p and q? Implement it in Python.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 32 and 43?", "expected_code": "def solve(): return 32 * 43"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 12 and 73?", "expected_code": "def solve(): return 12 * 73"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 18 and 10?", "expected_code": "def solve(): return 18 * 10"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 2?", "expected_code": "def solve(): return 4 * 2"}
+{"question": "Write a Python function for the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 85?", "expected_code": "def solve(): return 9 * 85"}
+{"question": "Convert this word problem into Python code: What is the product of 66 and 47?", "expected_code": "def solve(): return 66 * 47"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 86?", "expected_code": "def solve(): return 60 * 86"}
+{"question": "Convert this word problem into Python code: What is the product of 6 and 59?", "expected_code": "def solve(): return 6 * 59"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 54 and 54?", "expected_code": "def solve(): return 54 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 2 and 22?", "expected_code": "def solve(): return 2 * 22"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 89?", "expected_code": "def solve(): return 100 * 89"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 54?", "expected_code": "def solve(): return 65 * 54"}
+{"question": "Convert this word problem into Python code: What is the product of 27 and 21?", "expected_code": "def solve(): return 27 * 21"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 94?", "expected_code": "def solve(): return 62 * 94"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 31?", "expected_code": "def solve(): return 62 * 31"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 43?", "expected_code": "def solve(): return 92 * 43"}
+{"question": "Create a function to calculate the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Convert this word problem into Python code: What is the product of 15 and 48?", "expected_code": "def solve(): return 15 * 48"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 90?", "expected_code": "def solve(): return 23 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 39 and 69?", "expected_code": "def solve(): return 39 * 69"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 68 and 37?", "expected_code": "def solve(): return 68 * 37"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 4 and 59?", "expected_code": "def solve(): return 4 * 59"}
+{"question": "Convert this word problem into Python code: What is the product of 20 and 61?", "expected_code": "def solve(): return 20 * 61"}
+{"question": "Convert this word problem into Python code: What\u2019s the product of 25 and 6 raised to the power of 3?", "expected_code": "def solve(): return 25 * 6 ** 3"}
+{"question": "Convert this word problem into Python code: What is the product of 22 and 60?", "expected_code": "def solve(): return 22 * 60"}
+{"question": "Convert this word problem into Python code: What is the product of 77 and 11?", "expected_code": "def solve(): return 77 * 11"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 80?", "expected_code": "def solve(): return 34 * 80"}
+{"question": "Convert this word problem into Python code: What is the product of 23 and 60?", "expected_code": "def solve(): return 23 * 60"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 22?", "expected_code": "def solve(): return 19 * 22"}
+{"question": "Convert this word problem into Python code: What is the product of 49 and 5?", "expected_code": "def solve(): return 49 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 48 and 81?", "expected_code": "def solve(): return 48 * 81"}
+{"question": "Convert this word problem into Python code: What is the product of 59 and 37?", "expected_code": "def solve(): return 59 * 37"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Determine the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Create a function to calculate the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 19 and 61?", "expected_code": "def solve(): return 19 * 61"}
+{"question": "Convert this word problem into Python code: What is the product of 100 and 73?", "expected_code": "def solve(): return 100 * 73"}
+{"question": "Convert this word problem into Python code: What is the product of 50 and 49?", "expected_code": "def solve(): return 50 * 49"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 15?", "expected_code": "def solve(): return 41 * 15"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 70?", "expected_code": "def solve(): return 52 * 70"}
+{"question": "Convert this word problem into Python code: What is the product of 6 and 30?", "expected_code": "def solve(): return 6 * 30"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 11?", "expected_code": "def solve(): return 31 * 11"}
+{"question": "Determine the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 65?", "expected_code": "def solve(): return 79 * 65"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Convert this word problem into Python code: What is the product of 63 and 53?", "expected_code": "def solve(): return 63 * 53"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Determine the product of of variables value1 and value2, and value3.", "expected_code": "def solve(value1, value2, value3):\n    return value1 * value2 * value3"}
+{"question": "Convert this word problem into Python code: What is the product of 5 and 88?", "expected_code": "def solve(): return 5 * 88"}
+{"question": "Convert this word problem into Python code: What is the product of 21 and 87?", "expected_code": "def solve(): return 21 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 2?", "expected_code": "def solve(): return 65 * 2"}
+{"question": "Convert this word problem into Python code: What is the product of 16 and 85?", "expected_code": "def solve(): return 16 * 85"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Determine the product of of variables a and b, and c.", "expected_code": "def solve(a, b, c):\n    return a * b * c"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 84 and 91?", "expected_code": "def solve(): return 84 * 91"}
+{"question": "Calculate the product of of variables alpha and beta, and gamma using a Python function.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Convert this word problem into Python code: What is the product of 56 and 95?", "expected_code": "def solve(): return 56 * 95"}
+{"question": "Determine the product of of variables a and b.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 17 and 25?", "expected_code": "def solve(): return 17 * 25"}
+{"question": "Convert this word problem into Python code: What is the product of 79 and 19?", "expected_code": "def solve(): return 79 * 19"}
+{"question": "Write a Python function for the product of of variables m and n.", "expected_code": "def solve(m, n):\n    return m * n"}
+{"question": "Determine the product of of variables p and q.", "expected_code": "def solve(p, q):\n    return p * q"}
+{"question": "Convert this word problem into Python code: What is the product of 54 and 6?", "expected_code": "def solve(): return 54 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 53 and 32?", "expected_code": "def solve(): return 53 * 32"}
+{"question": "Convert this word problem into Python code: What is the product of 96 and 100?", "expected_code": "def solve(): return 96 * 100"}
+{"question": "Convert this word problem into Python code: What is the product of 26 and 20?", "expected_code": "def solve(): return 26 * 20"}
+{"question": "Convert this word problem into Python code: What is the product of 31 and 86?", "expected_code": "def solve(): return 31 * 86"}
+{"question": "Convert this word problem into Python code: What is the product of 57 and 1?", "expected_code": "def solve(): return 57 * 1"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "What is the product of of variables alpha and beta, and gamma? Implement it in Python.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Create a function to calculate the product of of variables p and q, and r.", "expected_code": "def solve(p, q, r):\n    return p * q * r"}
+{"question": "What is the product of of variables num1 and num2? Implement it in Python.", "expected_code": "def solve(num1, num2):\n    return num1 * num2"}
+{"question": "Convert this word problem into Python code: What is the product of 62 and 50?", "expected_code": "def solve(): return 62 * 50"}
+{"question": "Convert this word problem into Python code: What is the product of 64 and 89?", "expected_code": "def solve(): return 64 * 89"}
+{"question": "Convert this word problem into Python code: What is the product of 10 and 23?", "expected_code": "def solve(): return 10 * 23"}
+{"question": "Convert this word problem into Python code: What is the product of 75 and 71?", "expected_code": "def solve(): return 75 * 71"}
+{"question": "Convert this word problem into Python code: What is the product of 65 and 2?", "expected_code": "def solve(): return 65 * 2"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 29 and 23?", "expected_code": "def solve(): return 29 * 23"}
+{"question": "Calculate the product of of variables a and b using a Python function.", "expected_code": "def solve(a, b):\n    return a * b"}
+{"question": "Convert this word problem into Python code: What is the product of 92 and 87?", "expected_code": "def solve(): return 92 * 87"}
+{"question": "Convert this word problem into Python code: What is the product of 72 and 90?", "expected_code": "def solve(): return 72 * 90"}
+{"question": "Convert this word problem into Python code: What is the product of 9 and 88?", "expected_code": "def solve(): return 9 * 88"}
+{"question": "Create a function to calculate the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}
+{"question": "Multiply 9 by 6.", "expected_code": "def solve(): return 9 * 6"}
+{"question": "Convert this word problem into Python code: What is the product of 61 and 26?", "expected_code": "def solve(): return 61 * 26"}
+{"question": "Create a function to calculate the product of of variables num1 and num2, and num3.", "expected_code": "def solve(num1, num2, num3):\n    return num1 * num2 * num3"}
+{"question": "Convert this word problem into Python code: What is the product of 58 and 27?", "expected_code": "def solve(): return 58 * 27"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 83 and 4?", "expected_code": "def solve(): return 83 * 4"}
+{"question": "Convert this word problem into Python code: Multiply 4 and 5.", "expected_code": "def solve(): return 4 * 5"}
+{"question": "Convert this word problem into Python code: What is the product of 60 and 64?", "expected_code": "def solve(): return 60 * 64"}
+{"question": "Convert this word problem into Python code: What is the product of 41 and 79?", "expected_code": "def solve(): return 41 * 79"}
+{"question": "Convert this word problem into Python code: What is the product of 34 and 29?", "expected_code": "def solve(): return 34 * 29"}
+{"question": "Multiply 6 and 8.", "expected_code": "def solve(): return 6 * 8"}
+{"question": "Multiply 5 by 7.", "expected_code": "def solve(): return 5 * 7"}
+{"question": "Convert this word problem into Python code: What is the product of 52 and 22?", "expected_code": "def solve(): return 52 * 22"}
+{"question": "Determine the product of of variables m and n, and o.", "expected_code": "def solve(m, n, o):\n    return m * n * o"}
+{"question": "Write a Python function for the product of of variables alpha and beta, and gamma.", "expected_code": "def solve(alpha, beta, gamma):\n    return alpha * beta * gamma"}

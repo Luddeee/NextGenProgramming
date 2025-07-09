@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Convert this word problem into Python code: What is the square root of 289?",
+        "expected": "import math\ndef solve(): return math.sqrt(289)",
+        "predicted": "import math\ndef solve(): return math.sqrt(2889)"
+    },
+    {
+        "question": "Convert this word problem into Python code: What is the result of dividing 60 and 61?",
+        "expected": "def solve(): return 61 / 60",
+        "predicted": "def solve(): return 60 / 61"
+    },
+    {
+        "question": "Convert this word problem into Python code: What is the result of dividing 67 and 62?",
+        "expected": "def solve(): return 67 / 62",
+        "predicted": "def solve(): return 62 / 67"
+    }
+]
